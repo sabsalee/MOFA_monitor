@@ -139,16 +139,58 @@ class MofaSourceClient:
         return self._build_travel_items(rows, country, source="travel_alarm", api_reason="api:travel_alarm")
 
     def fetch_special_travel_alarm(self, country: CountrySpec) -> list[MonitorItem]:
-        endpoint = "https://apis.data.go.kr/1262000/CountrySptravelAlarmService2/getCountrySptravelAlarmList2"
-        params = {"cond[country_iso_alp2::EQ]": country.iso2}
+        endpoint = "https://apis.data.go.kr/1262000/SptravelWarningServiceV2/getSptravelWarningListV2"
+        params = {
+            "pageNo": "1",
+            "numOfRows": "10",
+            "cond[country_iso_alp2::EQ]": country.iso2,
+            "cond[country_nm::EQ]": country.name_ko,
+        }
         rows = self._fetch_paginated_json(endpoint, params, self.config.alert_max_pages)
+        items: list[MonitorItem] = []
+        for row in rows:
+            if pick(row, "country_iso_alp2") and pick(row, "country_iso_alp2") != country.iso2:
+                continue
+            forbidden_region_ty = pick(row, "forbidden_region_ty")
+            forbidden_remark = pick(row, "forbidden_rcmnd_remark")
+            evacuate_region_ty = pick(row, "evacuate_region_ty")
+            evacuate_remark = pick(row, "evacuate_rcmnd_remark")
+            published_at = normalize_date(pick(row, "written_dt"))
+            if not any((forbidden_region_ty, forbidden_remark, evacuate_region_ty, evacuate_remark)):
+                continue
 
-        return self._build_travel_items(
-            rows,
-            country,
-            source="special_travel_alarm",
-            api_reason="api:special_travel_alarm",
-        )
+            region_type = " / ".join(
+                part for part in (
+                    f"forbidden:{forbidden_region_ty}" if forbidden_region_ty else "",
+                    f"evacuate:{evacuate_region_ty}" if evacuate_region_ty else "",
+                ) if part
+            )
+            remark = " / ".join(
+                part for part in (
+                    f"forbidden:{forbidden_remark}" if forbidden_remark else "",
+                    f"evacuate:{evacuate_remark}" if evacuate_remark else "",
+                ) if part
+            )
+            item_id = compute_hash(country.iso2, "special_travel_alarm", region_type, remark)[:16]
+            content = "\n".join(part for part in (country.name_ko, region_type, remark) if part)
+            items.append(
+                MonitorItem(
+                    source="special_travel_alarm",
+                    country_code=country.iso2,
+                    country_name=country.name_ko,
+                    item_id=item_id,
+                    title=f"{country.name_ko} special_travel_alarm",
+                    published_at=published_at,
+                    url=pick(row, "dang_map_download_url", "map_download_url"),
+                    content=content,
+                    content_hash=compute_hash(content, published_at),
+                    matched_reason=(f"country:{country.name_ko}", "api:special_travel_alarm"),
+                    level="special",
+                    region_type=region_type,
+                    remark=remark,
+                )
+            )
+        return items
 
     def _build_travel_items(
         self,
