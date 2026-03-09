@@ -35,21 +35,30 @@ def send_text(config: Config, message: str) -> None:
 def _build_message(event: ChangeEvent) -> str:
     item = event.item
     header = {
-        "new": "[MOFA Monitor][NEW]",
-        "updated": "[MOFA Monitor][UPDATED]",
-        "alert-level-changed": "[MOFA Monitor][ALERT-LEVEL-CHANGED]",
+        "new": "NEW",
+        "updated": "UPDATED",
+        "alert-level-changed": "ALERT-LEVEL-CHANGED",
     }[event.kind]
-    lines = [
-        header,
-        f"국가: {item.country_name} ({item.country_code})",
-        f"소스: {item.source}",
-        f"제목: {item.title}",
-        f"작성일: {item.published_at or '-'}",
-        f"변화: {event.summary or '-'}",
-        f"매칭사유: {', '.join(item.matched_reason) or '-'}",
-        f"링크: {item.url or '-'}",
-    ]
-    snippet = truncate(item.content, 240)
-    if snippet:
-        lines.append(f"요약: {snippet}")
+    source_label = {
+        "country_notice": "공관공지",
+        "country_safety": "외교부 안전정보",
+        "travel_alarm": "여행경보",
+        "special_travel_alarm": "특별여행주의보",
+    }.get(item.source, item.source)
+    lines = [f"[MOFA Monitor][{header}] {source_label} | {item.country_name}"]
+    lines.append(f"제목: {item.title}")
+    lines.append(f"게시: {item.published_at or '-'}")
+    if event.kind == "alert-level-changed":
+        lines.append(f"단계: {event.previous_level or '?'} -> {item.level or '?'}")
+    elif item.level:
+        lines.append(f"단계: {item.level}")
+    if item.region_type:
+        lines.append(f"구역: {item.region_type}")
+    detail = item.remark or ""
+    if detail:
+        lines.append(f"핵심: {truncate(detail, 180)}")
+    elif item.content:
+        lines.append(f"핵심: {truncate(item.content, 180)}")
+    lines.append(f"변경: {event.summary or '-'}")
+    lines.append(f"링크: {item.url or '-'}")
     return "\n".join(lines)
