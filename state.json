@@ -133,6 +133,25 @@
       "title": "[안전공지] 중동 7개국 일부 지역 여행경보 3단계로(철수권고) 상향",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1345739/detail?ntnCd=178"
     },
+    "country_notice:EG:1345740": {
+      "content_hash": "736b53b5b92f46a974efbfb1b4218cfa846c1e24888cfdc527f921592b4f4ec2",
+      "country_code": "EG",
+      "country_name": "이집트",
+      "item_id": "1345740",
+      "last_alerted_hash": "736b53b5b92f46a974efbfb1b4218cfa846c1e24888cfdc527f921592b4f4ec2",
+      "last_checked_at": "2026-03-09T12:40:42+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:이집트",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-09",
+      "region_type": "",
+      "remark": "이집트",
+      "source": "country_notice",
+      "title": "[안전공지] 중동 일부 국제공항 공항 내 출입 제한 관련 안내",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1345740/detail?ntnCd=178"
+    },
     "country_notice:IL:1345748": {
       "content_hash": "b80af166225d0f2068bfee262b24919c1e32813d83ac74ad74cf70ed53fb59e7",
       "country_code": "IL",
@@ -379,6 +398,44 @@
       "source": "country_notice",
       "title": "중동항공(MEA) 예약 가능한 운항 항공 목록(3.8, 10:00 기준)",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1338510/detail?ntnCd=40"
+    },
+    "country_notice:LB:1338511": {
+      "content_hash": "9f475e1a8bda23647f9a9df9bbee6000853a0495a104b923090927adcd4a5943",
+      "country_code": "LB",
+      "country_name": "레바논",
+      "item_id": "1338511",
+      "last_alerted_hash": "9f475e1a8bda23647f9a9df9bbee6000853a0495a104b923090927adcd4a5943",
+      "last_checked_at": "2026-03-09T12:40:42+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:레바논",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-09",
+      "region_type": "",
+      "remark": "레바논",
+      "source": "country_notice",
+      "title": "[긴급 안전공지] 베이루트 공습 관련",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1338511/detail?ntnCd=40"
+    },
+    "country_notice:LB:1338512": {
+      "content_hash": "259a662094767410f041804747ceb6b2bdadde3ea4586e5c662957ddcc3c97d3",
+      "country_code": "LB",
+      "country_name": "레바논",
+      "item_id": "1338512",
+      "last_alerted_hash": "259a662094767410f041804747ceb6b2bdadde3ea4586e5c662957ddcc3c97d3",
+      "last_checked_at": "2026-03-09T12:40:42+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:레바논",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-09",
+      "region_type": "",
+      "remark": "레바논",
+      "source": "country_notice",
+      "title": "중동항공(MEA) 예약 가능한 운항 항공 목록(3.9, 12:00 기준)",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1338512/detail?ntnCd=40"
     },
     "country_notice:SA:1321072": {
       "content_hash": "246dad0c0fe12bc3d596a4a566e4ce95108c3504ee265d7cf3e8890a07b30d52",
@@ -11649,6 +11706,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-09T11:52:02+00:00",
+  "last_run_at": "2026-03-09T12:40:42+00:00",
   "source_failures": {}
 }
