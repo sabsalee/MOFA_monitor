@@ -1,0 +1,71 @@
+name: mofa-monitor
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17,47 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Prepare monitor-state worktree
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p .state-worktree
+          if git ls-remote --exit-code --heads origin monitor-state >/dev/null 2>&1; then
+            git fetch origin monitor-state
+            rm -rf .state-worktree
+            git worktree add .state-worktree origin/monitor-state
+          else
+            rm -rf .state-worktree
+            git worktree add --detach .state-worktree HEAD
+            (
+              cd .state-worktree
+              git checkout --orphan monitor-state
+              git rm -rf . >/dev/null 2>&1 || true
+              find . -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+              printf "{\n  \"last_run_at\": \"\",\n  \"items\": {}\n}\n" > state.json
+              git add state.json
+              git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m "Initialize monitor state"
+            )
+            git -C .state-worktree push origin HEAD:monitor-state
+          fi
+
+      - name: Run monitor
+        env:
+          DATA_GO_KR_SERVICE_KEY: ${{ secrets.DATA_GO_KR_SERVICE_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python3 -m unittest discover -s tests
+          python3 -m src.mofa_monitor.cli --state-path .state-worktree/state.json
+
+      - name: Commit state update
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git -C .state-worktree diff --quiet -- state.json; then
+            echo "No state changes."
+            exit 0
+          fi
+          git -C .state-worktree config user.name "github-actions[bot]"
+          git -C .state-worktree config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C .state-worktree add state.json
+          git -C .state-worktree commit -m "Update monitor state"
+          git -C .state-worktree push origin HEAD:monitor-state
