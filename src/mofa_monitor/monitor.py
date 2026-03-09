@@ -4,7 +4,7 @@ import html
 from datetime import datetime, timezone
 from zoneinfo import ZoneInfo
 
-from .config import Config
+from .config import Config, MONITORED_COUNTRIES
 from .models import ChangeEvent, MonitorItem, RunResult
 from .sources import MofaSourceClient
 from .state import build_state, load_state, mark_alerted, save_state
@@ -93,19 +93,64 @@ def _should_send_manual_no_change_notice(config: Config, changes: list[ChangeEve
 
 
 def _build_manual_no_change_message(items: list[MonitorItem], source_errors: list[str]) -> str:
-    countries = set()
+    country_names = set()
+    source_names = set()
     for item in items:
-        countries.add(item.country_code)
+        country_names.add(item.country_name)
+        source_names.add(item.source)
     checked_at = datetime.now(timezone.utc).astimezone(ZoneInfo("Asia/Seoul")).strftime("%Y-%m-%d %H:%M:%S KST")
+    ordered_country_names = sorted(country_names)
+    country_summary = f"{len(ordered_country_names)}개국"
+    if ordered_country_names:
+        country_summary += f" ({', '.join(ordered_country_names)})"
+    source_label = {
+        "country_notice": "공관공지",
+        "country_safety": "외교부 안전정보",
+        "travel_alarm": "여행경보",
+        "special_travel_alarm": "특별여행주의보",
+    }
+    ordered_sources = [
+        source_label[key]
+        for key in ("country_notice", "country_safety", "travel_alarm", "special_travel_alarm")
+        if key in source_names
+    ]
 
     lines = [
         "<b>[MOFA Monitor] 수동 점검 완료</b>",
         "<b>결과</b> 새로운 정보 없음",
-        f"<b>점검 국가</b> {len(countries)}개국",
+        f"<b>점검 국가</b> {html.escape(country_summary)}",
         f"<b>마지막 확인</b> {html.escape(checked_at)}",
     ]
     if source_errors:
         lines.append(f"<b>주의</b> 일부 소스 오류 {len(source_errors)}건")
     else:
         lines.append("<b>상태</b> 전 소스 정상 응답")
+    if ordered_sources:
+        lines.append("<b>점검 소스</b>")
+        for key, label in (
+            ("country_notice", "공관공지"),
+            ("country_safety", "외교부 안전정보"),
+            ("travel_alarm", "여행경보"),
+            ("special_travel_alarm", "특별여행주의보"),
+        ):
+            if key not in source_names and not any(error.startswith(f"{key}:") for error in source_errors):
+                continue
+            lines.append(f"- {html.escape(label)} {_source_status_label(key, source_errors)}")
     return "\n".join(lines)
+
+
+def _source_status_label(source_key: str, source_errors: list[str]) -> str:
+    source_specific = [error for error in source_errors if error.startswith(f"{source_key}:")]
+    if not source_specific:
+        return "<b>[CHECKED]</b>"
+
+    failed_countries = set()
+    for error in source_specific:
+        parts = error.split(":", 2)
+        if len(parts) >= 2 and parts[1]:
+            failed_countries.add(parts[1])
+
+    total_countries = len(MONITORED_COUNTRIES)
+    if len(failed_countries) >= total_countries:
+        return f"<b>[FAILED]</b> {len(source_specific)}건 오류"
+    return f"<b>[PARTIAL]</b> {len(source_specific)}건 오류"

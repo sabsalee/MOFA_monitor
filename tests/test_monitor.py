@@ -6,6 +6,7 @@ from src.mofa_monitor.config import Config
 from src.mofa_monitor.models import MonitorItem
 from src.mofa_monitor.monitor import (
     _build_manual_no_change_message,
+    _source_status_label,
     detect_changes,
     run_monitor,
 )
@@ -159,14 +160,35 @@ class ChangeDetectionTests(unittest.TestCase):
         message = _build_manual_no_change_message(
             [
                 make_item(content_hash="x", source="country_safety"),
-                make_item(content_hash="y", source="travel_alarm", level="3"),
+                MonitorItem(
+                    source="travel_alarm",
+                    country_code="EG",
+                    country_name="이집트",
+                    item_id="14",
+                    title="이집트 여행경보",
+                    published_at="2026-03-09",
+                    url="https://example.com",
+                    content="본문",
+                    content_hash="y",
+                    matched_reason=("country:이집트", "api:test"),
+                    level="3",
+                ),
             ],
             [],
         )
         self.assertIn("수동 점검 완료", message)
         self.assertIn("새로운 정보 없음", message)
         self.assertIn("마지막 확인", message)
+        self.assertIn("2개국 (이란, 이집트)", message)
+        self.assertIn("- 외교부 안전정보 <b>[CHECKED]</b>", message)
+        self.assertIn("- 여행경보 <b>[CHECKED]</b>", message)
         self.assertIn("전 소스 정상 응답", message)
+
+    def test_source_status_label_partial_and_failed(self) -> None:
+        self.assertEqual(_source_status_label("country_notice", []), "<b>[CHECKED]</b>")
+        self.assertIn("[PARTIAL]", _source_status_label("country_notice", ["country_notice:IR:timeout"]))
+        all_failed = [f"travel_alarm:{country.iso2}:timeout" for country in __import__("src.mofa_monitor.config", fromlist=["MONITORED_COUNTRIES"]).MONITORED_COUNTRIES]
+        self.assertIn("[FAILED]", _source_status_label("travel_alarm", all_failed))
 
 
 if __name__ == "__main__":
