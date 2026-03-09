@@ -1,5 +1,366 @@
 {
   "items": {
+    "country_notice:AE:1342081": {
+      "content_hash": "8d65979f754aec5bae7b99b71337c9d2d8de086398ea595a1083a10ae0bdef28",
+      "country_code": "AE",
+      "country_name": "아랍에미리트",
+      "item_id": "1342081",
+      "last_alerted_hash": "8d65979f754aec5bae7b99b71337c9d2d8de086398ea595a1083a10ae0bdef28",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:아랍에미리트",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-08",
+      "region_type": "",
+      "remark": "아랍에미리트",
+      "source": "country_notice",
+      "title": "(안전공지) UAE 전역 포함 중동 7개국 일부 지역 여행경보 3단계(철수권고) 상향",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1342081/detail?ntnCd=135"
+    },
+    "country_notice:BH:41": {
+      "content_hash": "8d5859fa68d35c4144c52bf11099dffaebd8fa50336d76e8501ade9edfad35bf",
+      "country_code": "BH",
+      "country_name": "바레인",
+      "item_id": "41",
+      "last_alerted_hash": "8d5859fa68d35c4144c52bf11099dffaebd8fa50336d76e8501ade9edfad35bf",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:바레인",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-06",
+      "region_type": "",
+      "remark": "바레인",
+      "source": "country_notice",
+      "title": "이란 공습 관련 안전 공지(3.5.)",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/41/detail?ntnCd=288"
+    },
+    "country_notice:BH:42": {
+      "content_hash": "223fc0b88c87fcd788d72f067704697be1e774a10ae56b732bd755b3a04841a4",
+      "country_code": "BH",
+      "country_name": "바레인",
+      "item_id": "42",
+      "last_alerted_hash": "223fc0b88c87fcd788d72f067704697be1e774a10ae56b732bd755b3a04841a4",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:바레인",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-06",
+      "region_type": "",
+      "remark": "바레인",
+      "source": "country_notice",
+      "title": "이란 공습 관련 안전 공지(3.6.)",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/42/detail?ntnCd=288"
+    },
+    "country_notice:BH:43": {
+      "content_hash": "5cb7585a19920ecada4f422a55c2708a6214685df0a53e2317bbbbb8f09c9821",
+      "country_code": "BH",
+      "country_name": "바레인",
+      "item_id": "43",
+      "last_alerted_hash": "5cb7585a19920ecada4f422a55c2708a6214685df0a53e2317bbbbb8f09c9821",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:바레인",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-08",
+      "region_type": "",
+      "remark": "바레인",
+      "source": "country_notice",
+      "title": "이란 공습 관련 안전 공지(3.8.)",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/43/detail?ntnCd=288"
+    },
+    "country_notice:BH:44": {
+      "content_hash": "5b3ab417dacc54c7cb0dc196fb6b46c736a982992347103d3b41ac1a73340e33",
+      "country_code": "BH",
+      "country_name": "바레인",
+      "item_id": "44",
+      "last_alerted_hash": "5b3ab417dacc54c7cb0dc196fb6b46c736a982992347103d3b41ac1a73340e33",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:바레인",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-08",
+      "region_type": "",
+      "remark": "바레인",
+      "source": "country_notice",
+      "title": "중동 7개국 일부 지역 여행경보 3단계(철수권고)로 상향",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/44/detail?ntnCd=288"
+    },
+    "country_notice:EG:1345739": {
+      "content_hash": "36f097e61cb67328c42c2f9499436dff37c070a9ff1f32e15aedba44732bbf45",
+      "country_code": "EG",
+      "country_name": "이집트",
+      "item_id": "1345739",
+      "last_alerted_hash": "36f097e61cb67328c42c2f9499436dff37c070a9ff1f32e15aedba44732bbf45",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:이집트",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-09",
+      "region_type": "",
+      "remark": "이집트",
+      "source": "country_notice",
+      "title": "[안전공지] 중동 7개국 일부 지역 여행경보 3단계로(철수권고) 상향",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1345739/detail?ntnCd=178"
+    },
+    "country_notice:IL:1345748": {
+      "content_hash": "b80af166225d0f2068bfee262b24919c1e32813d83ac74ad74cf70ed53fb59e7",
+      "country_code": "IL",
+      "country_name": "이스라엘",
+      "item_id": "1345748",
+      "last_alerted_hash": "b80af166225d0f2068bfee262b24919c1e32813d83ac74ad74cf70ed53fb59e7",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:이스라엘",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-08",
+      "region_type": "",
+      "remark": "이스라엘",
+      "source": "country_notice",
+      "title": "안전공지(이스라엘민방위사령부(HFC) 안전 조치 등)",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1345748/detail?ntnCd=177"
+    },
+    "country_notice:IQ:1343869": {
+      "content_hash": "183fa388b1012602be13e4f546b69143f9115930a4bae07f11d27bde628a4c8a",
+      "country_code": "IQ",
+      "country_name": "이라크",
+      "item_id": "1343869",
+      "last_alerted_hash": "183fa388b1012602be13e4f546b69143f9115930a4bae07f11d27bde628a4c8a",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:이라크",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-07",
+      "region_type": "",
+      "remark": "이라크",
+      "source": "country_notice",
+      "title": "[긴급 안전공지 3.7]",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1343869/detail?ntnCd=174"
+    },
+    "country_notice:IQ:1343870": {
+      "content_hash": "895bedb432a7bf46bf012296755a62520be9969944b18651a1c9d477e4ff3901",
+      "country_code": "IQ",
+      "country_name": "이라크",
+      "item_id": "1343870",
+      "last_alerted_hash": "895bedb432a7bf46bf012296755a62520be9969944b18651a1c9d477e4ff3901",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:이라크",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-08",
+      "region_type": "",
+      "remark": "이라크",
+      "source": "country_notice",
+      "title": "[긴급 안전공지 3.8]",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1343870/detail?ntnCd=174"
+    },
+    "country_notice:JO:1279961": {
+      "content_hash": "bf23ac73218a69ac8659f2fdba49bc5316c9f7a61309fc772bab8c36bbf97902",
+      "country_code": "JO",
+      "country_name": "요르단",
+      "item_id": "1279961",
+      "last_alerted_hash": "bf23ac73218a69ac8659f2fdba49bc5316c9f7a61309fc772bab8c36bbf97902",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:요르단",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-07",
+      "region_type": "",
+      "remark": "요르단",
+      "source": "country_notice",
+      "title": "요르단 암만공항발 항공편 현황(3.7(토))",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1279961/detail?ntnCd=165"
+    },
+    "country_notice:JO:1279962": {
+      "content_hash": "a6b8c69a6d82a6d362edd25620c063193c7b551a2755401bc2a55377f01408d1",
+      "country_code": "JO",
+      "country_name": "요르단",
+      "item_id": "1279962",
+      "last_alerted_hash": "a6b8c69a6d82a6d362edd25620c063193c7b551a2755401bc2a55377f01408d1",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:요르단",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-08",
+      "region_type": "",
+      "remark": "요르단",
+      "source": "country_notice",
+      "title": "요르단 일부지역에 대한 여행경보 격상",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1279962/detail?ntnCd=165"
+    },
+    "country_notice:JO:1279963": {
+      "content_hash": "c9d6cd8e9379443adac484dee77532273d81da7e8b2e75a523b2eb96f46ffd00",
+      "country_code": "JO",
+      "country_name": "요르단",
+      "item_id": "1279963",
+      "last_alerted_hash": "c9d6cd8e9379443adac484dee77532273d81da7e8b2e75a523b2eb96f46ffd00",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:요르단",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-08",
+      "region_type": "",
+      "remark": "요르단",
+      "source": "country_notice",
+      "title": "요르단 암만공항발 항공편 현황(3.8(일))",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1279963/detail?ntnCd=165"
+    },
+    "country_notice:JO:1279964": {
+      "content_hash": "27c8e0fb6ecb86a577a0ea67d46132b62909b226af918b34499cbc96d0d6f6e4",
+      "country_code": "JO",
+      "country_name": "요르단",
+      "item_id": "1279964",
+      "last_alerted_hash": "27c8e0fb6ecb86a577a0ea67d46132b62909b226af918b34499cbc96d0d6f6e4",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:요르단",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-08",
+      "region_type": "",
+      "remark": "요르단",
+      "source": "country_notice",
+      "title": "요르단 안전 정보",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1279964/detail?ntnCd=165"
+    },
+    "country_notice:LB:1338505": {
+      "content_hash": "7bad5e6da35247018bc31efda32231532235bfa1fd88219ce44048d6e0184ff4",
+      "country_code": "LB",
+      "country_name": "레바논",
+      "item_id": "1338505",
+      "last_alerted_hash": "7bad5e6da35247018bc31efda32231532235bfa1fd88219ce44048d6e0184ff4",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:레바논",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-07",
+      "region_type": "",
+      "remark": "레바논",
+      "source": "country_notice",
+      "title": "[긴급 안전공지] 베카 북부 지역 이동 금지 및 조속한 출국 권고",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1338505/detail?ntnCd=40"
+    },
+    "country_notice:LB:1338506": {
+      "content_hash": "e2800b896de63b839a8c46ea81d97f078f9af4d597f4cafe6a3007a9e23cdca5",
+      "country_code": "LB",
+      "country_name": "레바논",
+      "item_id": "1338506",
+      "last_alerted_hash": "e2800b896de63b839a8c46ea81d97f078f9af4d597f4cafe6a3007a9e23cdca5",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:레바논",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-07",
+      "region_type": "",
+      "remark": "레바논",
+      "source": "country_notice",
+      "title": "중동항공(MEA) 예약 가능한 운항 항공 목록(3.7, 11:00 기준)",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1338506/detail?ntnCd=40"
+    },
+    "country_notice:LB:1338507": {
+      "content_hash": "1e91641a35b9d0f42e94401e76f03d21f265525b59875fa91b4be2be289e2a6e",
+      "country_code": "LB",
+      "country_name": "레바논",
+      "item_id": "1338507",
+      "last_alerted_hash": "1e91641a35b9d0f42e94401e76f03d21f265525b59875fa91b4be2be289e2a6e",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:레바논",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-08",
+      "region_type": "",
+      "remark": "레바논",
+      "source": "country_notice",
+      "title": "[긴급 안전공지] 베이루트 남부 지역 관련 안전 안내",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1338507/detail?ntnCd=40"
+    },
+    "country_notice:LB:1338509": {
+      "content_hash": "041c7f65e68c91b2e0171ee7aa044236299ecc7ed237f3f8da945283591a0af2",
+      "country_code": "LB",
+      "country_name": "레바논",
+      "item_id": "1338509",
+      "last_alerted_hash": "041c7f65e68c91b2e0171ee7aa044236299ecc7ed237f3f8da945283591a0af2",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:레바논",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-08",
+      "region_type": "",
+      "remark": "레바논",
+      "source": "country_notice",
+      "title": "[긴급 안전공지] 베이루트 라우셰(Raoucheh)지역 이스라엘 공습 관련",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1338509/detail?ntnCd=40"
+    },
+    "country_notice:LB:1338510": {
+      "content_hash": "8f9ab8e413dd9486569ae05ffe810dd92c8961721157b76f9afe862c8a179ecb",
+      "country_code": "LB",
+      "country_name": "레바논",
+      "item_id": "1338510",
+      "last_alerted_hash": "8f9ab8e413dd9486569ae05ffe810dd92c8961721157b76f9afe862c8a179ecb",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:레바논",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-08",
+      "region_type": "",
+      "remark": "레바논",
+      "source": "country_notice",
+      "title": "중동항공(MEA) 예약 가능한 운항 항공 목록(3.8, 10:00 기준)",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1338510/detail?ntnCd=40"
+    },
+    "country_notice:SA:1321072": {
+      "content_hash": "246dad0c0fe12bc3d596a4a566e4ce95108c3504ee265d7cf3e8890a07b30d52",
+      "country_code": "SA",
+      "country_name": "사우디아라비아",
+      "item_id": "1321072",
+      "last_alerted_hash": "246dad0c0fe12bc3d596a4a566e4ce95108c3504ee265d7cf3e8890a07b30d52",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:사우디아라비아",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-08",
+      "region_type": "",
+      "remark": "사우디아라비아",
+      "source": "country_notice",
+      "title": "최근 중동 상황 관련 재외국민 안전공지(26.3.8.)",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1321072/detail?ntnCd=107"
+    },
     "country_safety:AE:10590": {
       "content_hash": "328151624b4abae968c0407d830658b3987a610e0f3389603c848dfe9324474d",
       "country_code": "AE",
@@ -14,6 +375,7 @@
       ],
       "published_at": "2010-10-01",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[아랍에미리트]SMS 문자 정보 서비스 실시",
       "url": ""
@@ -32,6 +394,7 @@
       ],
       "published_at": "2010-10-01",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[아랍에미리트]내 범죄 관련 주의 및 조치 사항",
       "url": ""
@@ -50,6 +413,7 @@
       ],
       "published_at": "2010-11-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[아랍에미리트] 간염 보균자 등에 대한 체류 규정 완화",
       "url": ""
@@ -68,6 +432,7 @@
       ],
       "published_at": "2010-11-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[아랍에미리트] 교통사고 주의(위반 벌점 등)",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=TRADE_661&file_sn=1"
@@ -86,6 +451,7 @@
       ],
       "published_at": "2010-11-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[아랍에미리트] SMS 문자 정보 서비스 실시",
       "url": ""
@@ -104,6 +470,7 @@
       ],
       "published_at": "2013-08-05",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "아랍에미리트, 테러 위협 신변안전유의 당부",
       "url": ""
@@ -122,6 +489,7 @@
       ],
       "published_at": "2014-11-13",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "아랍에미리트, 교민 신변 안전 관련 정보",
       "url": ""
@@ -140,6 +508,7 @@
       ],
       "published_at": "2015-03-13",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "아랍에미리트, 신분증 관련 유의사항 안내",
       "url": ""
@@ -158,6 +527,7 @@
       ],
       "published_at": "2015-04-28",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "아랍에미리트, 음주 및 주류 관련 유의 안내",
       "url": ""
@@ -176,6 +546,7 @@
       ],
       "published_at": "2015-06-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "아랍에미리트, 중동호흡기증후군(MERS) 감염예방수칙",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000013024&file_sn=0"
@@ -194,6 +565,7 @@
       ],
       "published_at": "2015-06-29",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "아랍에미리트, 최근 IS 테러 관련 신변안전 당부",
       "url": ""
@@ -212,6 +584,7 @@
       ],
       "published_at": "2015-11-23",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "아랍에미리트, 이슬람 극단주의 세력 테러 위협 관련 신변안전 당부",
       "url": ""
@@ -230,6 +603,7 @@
       ],
       "published_at": "2018-01-31",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "아랍에미리트연합국에서의 사진촬영 유의",
       "url": ""
@@ -248,6 +622,7 @@
       ],
       "published_at": "2018-05-30",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "2018년 아랍에미리트에서 메르스 최초 확진환자 발생 관련 감염주의 안내",
       "url": ""
@@ -266,6 +641,7 @@
       ],
       "published_at": "2019-04-25",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "아랍에미리트 체류(여행)시 여권 분실 주의 당부",
       "url": ""
@@ -284,6 +660,7 @@
       ],
       "published_at": "2019-05-20",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "아랍에미리트 걸프지역(페르시아만 지역) 안전정보 안내",
       "url": ""
@@ -302,6 +679,7 @@
       ],
       "published_at": "2019-12-11",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "아랍에미리트 사건사고 사례 및 법률가이드 안내",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000020741&file_sn=0"
@@ -320,6 +698,7 @@
       ],
       "published_at": "2020-02-26",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "아랍에미리트 코로나19 확산 관련 두바이 경유 국외여행객 피해 예방 안내",
       "url": ""
@@ -338,6 +717,7 @@
       ],
       "published_at": "2020-10-07",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "아랍에미리트(UAE) 두바이로 입출국시 유의 사항(10.7.)",
       "url": ""
@@ -356,6 +736,7 @@
       ],
       "published_at": "2020-11-06",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "아랍에미리트, 아부다비 진입 시 코로나19 검사에 대한 지침 강화 안내",
       "url": ""
@@ -374,6 +755,7 @@
       ],
       "published_at": "2010-01-13",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[바레인]서방 첩보기관, 알카에다의 걸프국 테러가능성",
       "url": ""
@@ -392,6 +774,7 @@
       ],
       "published_at": "2011-02-16",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[바레인]중동지역 사위발생에 따른 신변안전유의 안내",
       "url": ""
@@ -410,6 +793,7 @@
       ],
       "published_at": "2011-03-28",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[바레인] 시위 관련 신변안전 주의",
       "url": ""
@@ -428,6 +812,7 @@
       ],
       "published_at": "2014-12-29",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "바레인, 대사관 휴무",
       "url": ""
@@ -446,6 +831,7 @@
       ],
       "published_at": "2015-02-05",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "바레인, 신변안전 유의 안내",
       "url": ""
@@ -464,6 +850,7 @@
       ],
       "published_at": "2015-02-13",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "바레인, 2.14(토) 진주탑 시위 신변안전 유의 안내",
       "url": ""
@@ -482,6 +869,7 @@
       ],
       "published_at": "2015-06-29",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "바레인, 테러대비 신변안전 유의 안내",
       "url": ""
@@ -500,6 +888,7 @@
       ],
       "published_at": "2015-07-30",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "바레인, 신변안전 유의 안내",
       "url": ""
@@ -518,6 +907,7 @@
       ],
       "published_at": "2015-09-04",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "바레인, 신변안전 유의안내",
       "url": ""
@@ -536,6 +926,7 @@
       ],
       "published_at": "2016-04-06",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "바레인 반정부 시위 발생 관련 안전 공지",
       "url": ""
@@ -554,6 +945,7 @@
       ],
       "published_at": "2017-01-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "바레인 남부, 테러 혐의 수감자 탈옥(1.1) 관련 신변안전 유의",
       "url": ""
@@ -572,6 +964,7 @@
       ],
       "published_at": "2017-01-17",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "바레인 시아파 테러범 사형 집행 관련 신변안전 유의",
       "url": ""
@@ -590,6 +983,7 @@
       ],
       "published_at": "2017-01-31",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "바레인 치안 불안 확대 관련 신변안전 유의",
       "url": ""
@@ -608,6 +1002,7 @@
       ],
       "published_at": "2017-02-28",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "바레인내 치안 불안 사건 증가 관련 신변 안전 유의",
       "url": ""
@@ -626,6 +1021,7 @@
       ],
       "published_at": "2017-05-24",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "바레인내 시위 발생 관련 안전 유의",
       "url": ""
@@ -644,6 +1040,7 @@
       ],
       "published_at": "2019-04-25",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "바레인 사우디 중남부지역 메르스 환자 발생에 따른 안전유의(2019.2.13.)",
       "url": ""
@@ -662,6 +1059,7 @@
       ],
       "published_at": "2009-03-05",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 수도 카이로 방문시 신변 안전 유의 권고",
       "url": ""
@@ -680,6 +1078,7 @@
       ],
       "published_at": "2009-04-09",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "시나이반도 여행유의 -(주이집트대사관)",
       "url": ""
@@ -698,6 +1097,7 @@
       ],
       "published_at": "2009-11-13",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트-알제리간 월드컵 예선 경기 관련 안전유의 당부",
       "url": ""
@@ -716,6 +1116,7 @@
       ],
       "published_at": "2009-12-28",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[이집트] Gaza Freedom March 관련 주의",
       "url": ""
@@ -734,6 +1135,7 @@
       ],
       "published_at": "2009-12-29",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[이집트] 이집트내 가자 자유를 위한 행진 행사 관련 신변안전 유의 당부",
       "url": ""
@@ -752,6 +1154,7 @@
       ],
       "published_at": "2010-01-18",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[이집트] 단체여행시 주의사항",
       "url": ""
@@ -770,6 +1173,7 @@
       ],
       "published_at": "2010-02-22",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[이집트]카이로 중심부 유대교 예배당 사제폭탄 투척 사건 발생",
       "url": ""
@@ -788,6 +1192,7 @@
       ],
       "published_at": "2010-02-25",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[이집트]카이로 중심부 유대교 예배당 사제폭탄 투척(2)",
       "url": ""
@@ -806,6 +1211,7 @@
       ],
       "published_at": "2010-04-19",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[이집트] 시나이반도내 테러 경고",
       "url": ""
@@ -824,6 +1230,7 @@
       ],
       "published_at": "2010-06-17",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트-가자지구 사이 라파국경 개방 관련",
       "url": ""
@@ -842,6 +1249,7 @@
       ],
       "published_at": "2010-10-28",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[이집트] 유행성 결막염 주의",
       "url": ""
@@ -860,6 +1268,7 @@
       ],
       "published_at": "2010-12-07",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[이집트]Sharm el-Sheikh 지역 해상 스포츠 활동 유의",
       "url": ""
@@ -878,6 +1287,7 @@
       ],
       "published_at": "2010-12-17",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[이집트] 교통사고 빈발",
       "url": ""
@@ -896,6 +1306,7 @@
       ],
       "published_at": "2011-01-03",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[이집트] 차량 폭탄 테러 발생",
       "url": ""
@@ -914,6 +1325,7 @@
       ],
       "published_at": "2011-01-28",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[이집트]대규모 반정부시위 발생에 따른 유의사항",
       "url": ""
@@ -932,6 +1344,7 @@
       ],
       "published_at": "2011-02-01",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[이집트] 반정부 시위 관련 신변안전 공지",
       "url": ""
@@ -950,6 +1363,7 @@
       ],
       "published_at": "2011-02-03",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "한국-이집트간 항공기 운영 안내",
       "url": ""
@@ -968,6 +1382,7 @@
       ],
       "published_at": "2011-02-04",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 소요관련(신변안전 특별 유의)",
       "url": ""
@@ -986,6 +1401,7 @@
       ],
       "published_at": "2011-02-17",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[이집트] 파업확산 관련 동향",
       "url": ""
@@ -1004,6 +1420,7 @@
       ],
       "published_at": "2011-08-03",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[이집트] 시나이 지역 관련 안전정보",
       "url": ""
@@ -1022,6 +1439,7 @@
       ],
       "published_at": "2011-08-03",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[이집트] 여행자보험 가입 권고",
       "url": ""
@@ -1040,6 +1458,7 @@
       ],
       "published_at": "2011-10-13",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 방문자 안전 유의사항",
       "url": ""
@@ -1058,6 +1477,7 @@
       ],
       "published_at": "2011-11-22",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 대규모 시위 신변안전 유의",
       "url": ""
@@ -1076,6 +1496,7 @@
       ],
       "published_at": "2012-01-31",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 치안 악화, 시나이 반도 여행 자제",
       "url": ""
@@ -1094,6 +1515,7 @@
       ],
       "published_at": "2012-02-06",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 최악의 축구장 난동 사건 발생",
       "url": ""
@@ -1112,6 +1534,7 @@
       ],
       "published_at": "2012-02-13",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 시나이 반도 3단계 상향조정",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000002741&file_sn=0"
@@ -1130,6 +1553,7 @@
       ],
       "published_at": "2012-03-09",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 치안 악화",
       "url": ""
@@ -1148,6 +1572,7 @@
       ],
       "published_at": "2012-03-20",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 시나이반도 치안 악화",
       "url": ""
@@ -1166,6 +1591,7 @@
       ],
       "published_at": "2012-06-01",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 시나이반도 외국인 납치사건 발생",
       "url": ""
@@ -1184,6 +1610,7 @@
       ],
       "published_at": "2012-06-21",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 시나이지역 외국인 납치사건 재발",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000003626&file_sn=0"
@@ -1202,6 +1629,7 @@
       ],
       "published_at": "2012-07-06",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트정부, 관광업체 GPS설치 등 안전관리 강화 포고령",
       "url": ""
@@ -1220,6 +1648,7 @@
       ],
       "published_at": "2012-07-25",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 시나이반도 내륙지역 치안불안 지속",
       "url": ""
@@ -1238,6 +1667,7 @@
       ],
       "published_at": "2012-12-10",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 반정부시위 관련 안전공지",
       "url": ""
@@ -1256,6 +1686,7 @@
       ],
       "published_at": "2013-01-23",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 시민혁명 2주기 전후 안전공지",
       "url": ""
@@ -1274,6 +1705,7 @@
       ],
       "published_at": "2013-01-31",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 치안정세 및 신변안전 공지",
       "url": ""
@@ -1292,6 +1724,7 @@
       ],
       "published_at": "2013-03-06",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 최근상황 및 안전공지",
       "url": ""
@@ -1310,6 +1743,7 @@
       ],
       "published_at": "2013-03-08",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 시나이반도 외국인 무장괴한에게 납치",
       "url": ""
@@ -1328,6 +1762,7 @@
       ],
       "published_at": "2013-03-15",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 군과 경찰당국, 시나이반도 전역에 테러경계 활동 강화",
       "url": ""
@@ -1346,6 +1781,7 @@
       ],
       "published_at": "2013-04-04",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트(시나이남부), 외국 관광객 2명 무장 괴한에게 납치",
       "url": ""
@@ -1364,6 +1800,7 @@
       ],
       "published_at": "2013-04-12",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 생계형 범죄 증가… 안전 공지",
       "url": ""
@@ -1382,6 +1819,7 @@
       ],
       "published_at": "2013-04-19",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 여행경보(제한)3단계 시나이 반도 치안 악화 신변안전유의",
       "url": ""
@@ -1400,6 +1838,7 @@
       ],
       "published_at": "2013-04-19",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 4.11일 시나이반도 납치사건 발생",
       "url": ""
@@ -1418,6 +1857,7 @@
       ],
       "published_at": "2013-06-19",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 시나이반도 6.30(일) 대규모 시위예고 관련 안전공지",
       "url": ""
@@ -1436,6 +1876,7 @@
       ],
       "published_at": "2013-06-26",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 6.30(일) 시위사태 안전공지 (1)",
       "url": ""
@@ -1454,6 +1895,7 @@
       ],
       "published_at": "2013-06-28",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 6.30(일) 시위사태 안전공지 (2)",
       "url": ""
@@ -1472,6 +1914,7 @@
       ],
       "published_at": "2013-06-28",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 6.30(일) 시위사태 안전공지 (3)",
       "url": ""
@@ -1490,6 +1933,7 @@
       ],
       "published_at": "2013-07-07",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 시위사태 관련 안전공지(1)",
       "url": ""
@@ -1508,6 +1952,7 @@
       ],
       "published_at": "2013-07-08",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 시위사태 관련 안전공지(2)",
       "url": ""
@@ -1526,6 +1971,7 @@
       ],
       "published_at": "2013-07-10",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 시위사태 관련 안전공지(3)",
       "url": ""
@@ -1544,6 +1990,7 @@
       ],
       "published_at": "2013-07-12",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 시위사태 관련 안전공지(4)",
       "url": ""
@@ -1562,6 +2009,7 @@
       ],
       "published_at": "2013-08-01",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 노상강도 주의",
       "url": ""
@@ -1580,6 +2028,7 @@
       ],
       "published_at": "2013-08-15",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 여행 유의사항",
       "url": ""
@@ -1598,6 +2047,7 @@
       ],
       "published_at": "2013-08-17",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 시위 관련 안전공지",
       "url": ""
@@ -1616,6 +2066,7 @@
       ],
       "published_at": "2013-09-25",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 대테러 안전공지",
       "url": ""
@@ -1634,6 +2085,7 @@
       ],
       "published_at": "2013-09-25",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 야간 통금시간 조정안내 및 이행준수 당부",
       "url": ""
@@ -1652,6 +2104,7 @@
       ],
       "published_at": "2013-09-25",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 비상사태 선언 연장",
       "url": ""
@@ -1670,6 +2123,7 @@
       ],
       "published_at": "2013-10-10",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 대테러 안전공지",
       "url": ""
@@ -1688,6 +2142,7 @@
       ],
       "published_at": "2013-10-30",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 시위현장 접근금지 당부",
       "url": ""
@@ -1706,6 +2161,7 @@
       ],
       "published_at": "2013-12-16",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 현지인 관광 가이드 안내 제안 유의",
       "url": ""
@@ -1724,6 +2180,7 @@
       ],
       "published_at": "2013-12-27",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 치안 계속 주의",
       "url": ""
@@ -1742,6 +2199,7 @@
       ],
       "published_at": "2014-01-15",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 교통 안전 정보",
       "url": ""
@@ -1760,6 +2218,7 @@
       ],
       "published_at": "2014-01-21",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 피랍 관련 특별 안전공지",
       "url": ""
@@ -1778,6 +2237,7 @@
       ],
       "published_at": "2014-01-27",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 대테러 안전공지",
       "url": ""
@@ -1796,6 +2256,7 @@
       ],
       "published_at": "2014-02-12",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 우리국민 2인조 강도 폭행 피해",
       "url": ""
@@ -1814,6 +2275,7 @@
       ],
       "published_at": "2014-02-17",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 특별여행경보 발령",
       "url": ""
@@ -1832,6 +2294,7 @@
       ],
       "published_at": "2014-02-19",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트,버스폭탄테러 관련 전 지역 추가 테러 발생 가능",
       "url": ""
@@ -1850,6 +2313,7 @@
       ],
       "published_at": "2014-02-26",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 여행경보 단계 조정",
       "url": ""
@@ -1868,6 +2332,7 @@
       ],
       "published_at": "2014-03-05",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 여성단독 택시 승차행위 자제 요망",
       "url": ""
@@ -1886,6 +2351,7 @@
       ],
       "published_at": "2014-03-10",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 무장괴한에 강도피해(야간 외출 자제)",
       "url": ""
@@ -1904,6 +2370,7 @@
       ],
       "published_at": "2014-03-25",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 일부지역 여행경보단계 조정",
       "url": ""
@@ -1922,6 +2389,7 @@
       ],
       "published_at": "2014-04-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 4.2일 카이로대학 인근 폭탄 3개 연쇄 폭발 사상",
       "url": ""
@@ -1940,6 +2408,7 @@
       ],
       "published_at": "2014-04-07",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 아스완 지역 여행자제 당부",
       "url": ""
@@ -1958,6 +2427,7 @@
       ],
       "published_at": "2014-04-08",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 법령 준수협조 당부",
       "url": ""
@@ -1976,6 +2446,7 @@
       ],
       "published_at": "2014-04-17",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 긴급 대테러 안전공지",
       "url": ""
@@ -1994,6 +2465,7 @@
       ],
       "published_at": "2014-05-04",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 입국비자 수수료 인상 공지",
       "url": ""
@@ -2012,6 +2484,7 @@
       ],
       "published_at": "2014-05-05",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 대테러 안전공지",
       "url": ""
@@ -2030,6 +2503,7 @@
       ],
       "published_at": "2014-05-20",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 대선(5.26-27) 전후 신변안전유의 재강조",
       "url": ""
@@ -2048,6 +2522,7 @@
       ],
       "published_at": "2014-05-26",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 대선기간 신변안전 유의 재강조",
       "url": ""
@@ -2066,6 +2541,7 @@
       ],
       "published_at": "2014-06-09",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 일부지역 여행경보단계 조정",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000009718&file_sn=0"
@@ -2084,6 +2560,7 @@
       ],
       "published_at": "2014-06-09",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 리비아 국경지역 접근 금지",
       "url": ""
@@ -2102,6 +2579,7 @@
       ],
       "published_at": "2014-06-23",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 안전띠 미착용 운전자 단속 강화",
       "url": ""
@@ -2120,6 +2598,7 @@
       ],
       "published_at": "2014-06-26",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 6.25(수) 카이로 연쇄 폭탄테러 발생 사상자 발생",
       "url": ""
@@ -2138,6 +2617,7 @@
       ],
       "published_at": "2014-06-30",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 집회시위·테러 관련 정보안내 및 안전공지",
       "url": ""
@@ -2156,6 +2636,7 @@
       ],
       "published_at": "2014-07-01",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 테러위협 고조 관련 신변안전유의 재강조",
       "url": ""
@@ -2174,6 +2655,7 @@
       ],
       "published_at": "2014-07-04",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 집회시위 정보 안내 및 대테러 안전공지",
       "url": ""
@@ -2192,6 +2674,7 @@
       ],
       "published_at": "2014-07-14",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 여행경보 신호등제도 시행 안내",
       "url": ""
@@ -2210,6 +2693,7 @@
       ],
       "published_at": "2014-08-07",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 치안정세 악화 관련 신변안전 유의 안내",
       "url": ""
@@ -2228,6 +2712,7 @@
       ],
       "published_at": "2014-10-28",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 대테러 안전공지 및 여행경보 준수 재강조",
       "url": ""
@@ -2246,6 +2731,7 @@
       ],
       "published_at": "2014-10-31",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 대테러 안전공지(긴급)",
       "url": ""
@@ -2264,6 +2750,7 @@
       ],
       "published_at": "2014-11-06",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 대테러 안전공지(긴급)",
       "url": ""
@@ -2282,6 +2769,7 @@
       ],
       "published_at": "2014-11-07",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 대테러 안전공지",
       "url": ""
@@ -2300,6 +2788,7 @@
       ],
       "published_at": "2014-11-24",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 대테러 공지",
       "url": ""
@@ -2318,6 +2807,7 @@
       ],
       "published_at": "2014-12-03",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 시위관련 안전공지",
       "url": ""
@@ -2336,6 +2826,7 @@
       ],
       "published_at": "2014-12-15",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 대테러 신변안전 공지",
       "url": ""
@@ -2354,6 +2845,7 @@
       ],
       "published_at": "2014-12-29",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 마디지역 무장 강도 발생 관련 범죄예방 안전수칙",
       "url": ""
@@ -2372,6 +2864,7 @@
       ],
       "published_at": "2015-01-06",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 카이로 Matariya 지역 반정부 시위사태 관련 안전공지",
       "url": ""
@@ -2390,6 +2883,7 @@
       ],
       "published_at": "2015-01-19",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 유혈 시위 및 한인 여행객 소매치기 피해 빈발 관련 안전공지",
       "url": ""
@@ -2408,6 +2902,7 @@
       ],
       "published_at": "2015-01-21",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 1.25 시민혁명 4주년 관련 안전공지",
       "url": ""
@@ -2426,6 +2921,7 @@
       ],
       "published_at": "2015-01-30",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 시나이반도 폭탄테러 발생 관련 신변안전 공지",
       "url": ""
@@ -2444,6 +2940,7 @@
       ],
       "published_at": "2015-02-05",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 시나이반도 대규모 테러사태 관련 안전공지",
       "url": ""
@@ -2462,6 +2959,7 @@
       ],
       "published_at": "2015-02-13",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, KFC 등 미국계 레스토랑 출입자제 권고 및 안전공지",
       "url": ""
@@ -2480,6 +2978,7 @@
       ],
       "published_at": "2015-03-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 대테러 안전공지 (2.26)",
       "url": ""
@@ -2498,6 +2997,7 @@
       ],
       "published_at": "2015-03-10",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 카이로 지역 등 연쇄 테러 발생 관련 안전공지",
       "url": ""
@@ -2516,6 +3016,7 @@
       ],
       "published_at": "2015-03-12",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 마디지역 폭탄테러 추가 발생 등 관련 안전공지",
       "url": ""
@@ -2534,6 +3035,7 @@
       ],
       "published_at": "2015-05-04",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 시나이반도 북부 국경지역 비상사태 연장",
       "url": ""
@@ -2552,6 +3054,7 @@
       ],
       "published_at": "2015-05-29",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 중동지역(사우디) 모스크 자살폭탄 테러 안전유의",
       "url": ""
@@ -2570,6 +3073,7 @@
       ],
       "published_at": "2015-06-12",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트내 테러사건 발생 관련 안전유의 안내",
       "url": ""
@@ -2588,6 +3092,7 @@
       ],
       "published_at": "2015-06-29",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 대테러 안전공지(쿠웨이트, 튀니지, 프랑스 테러발생 관련)",
       "url": ""
@@ -2606,6 +3111,7 @@
       ],
       "published_at": "2015-07-06",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 시나이반도 무장단체-군경 교전사태 발생 안전유의",
       "url": ""
@@ -2624,6 +3130,7 @@
       ],
       "published_at": "2015-07-20",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 불법 선교활동 단속강화 유의",
       "url": ""
@@ -2642,6 +3149,7 @@
       ],
       "published_at": "2015-07-27",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 외국인 납치 사례 발생 관련 안전공지",
       "url": ""
@@ -2660,6 +3168,7 @@
       ],
       "published_at": "2015-09-14",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 테러 관련 안전공지",
       "url": ""
@@ -2678,6 +3187,7 @@
       ],
       "published_at": "2015-09-15",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트내 외국인 관광객 사망",
       "url": ""
@@ -2696,6 +3206,7 @@
       ],
       "published_at": "2015-09-30",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 기자 지하철 역 및 기자 동물원 앞 폭발물 발견",
       "url": ""
@@ -2714,6 +3225,7 @@
       ],
       "published_at": "2015-10-13",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 카이로 시내/외곽 경찰서 및 모스크 폭발물 테러 발생",
       "url": ""
@@ -2732,6 +3244,7 @@
       ],
       "published_at": "2015-10-21",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 제 1단계 의회 선거 기간 중 테러사건 발생",
       "url": ""
@@ -2750,6 +3263,7 @@
       ],
       "published_at": "2015-10-26",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 기자피라미드 인근 광장에서 폭발물 테러 안전유의",
       "url": ""
@@ -2768,6 +3282,7 @@
       ],
       "published_at": "2015-10-29",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 선거관련 테러위협에 대한 안전공지",
       "url": ""
@@ -2786,6 +3301,7 @@
       ],
       "published_at": "2015-11-06",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 시나이 반도 러시아 여객기 추락 관련 안전공지",
       "url": ""
@@ -2804,6 +3320,7 @@
       ],
       "published_at": "2016-01-11",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트, 후르가다(홍해 휴양지)에서 테러 사건 발생",
       "url": ""
@@ -2822,6 +3339,7 @@
       ],
       "published_at": "2016-01-18",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "1월 25일, 이집트 시민혁명 5주년 계기 안전공지",
       "url": ""
@@ -2840,6 +3358,7 @@
       ],
       "published_at": "2016-01-25",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "1.25. 이집트 혁명 5주년 전, 피라미드 인근 연쇄 테러 사건 발생",
       "url": ""
@@ -2858,6 +3377,7 @@
       ],
       "published_at": "2016-02-04",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 마디지역 총격 사건 발생 안전유의",
       "url": ""
@@ -2876,6 +3396,7 @@
       ],
       "published_at": "2016-03-23",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 시나이 반도내 테러 지속 발생",
       "url": ""
@@ -2894,6 +3415,7 @@
       ],
       "published_at": "2016-03-25",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트내 테러 위협 지속 관련 신변안전유의",
       "url": ""
@@ -2912,6 +3434,7 @@
       ],
       "published_at": "2016-03-30",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 여객기 납치 사건 발생 관련 신변안전 유의",
       "url": ""
@@ -2930,6 +3453,7 @@
       ],
       "published_at": "2016-04-15",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 공항 이용시 주의사항 안내",
       "url": ""
@@ -2948,6 +3472,7 @@
       ],
       "published_at": "2016-05-10",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 방문관련 신변안전 유의",
       "url": ""
@@ -2966,6 +3491,7 @@
       ],
       "published_at": "2016-07-19",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 내 테러 위험 지속 관련 신변안전 유의",
       "url": ""
@@ -2984,6 +3510,7 @@
       ],
       "published_at": "2016-12-12",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 카이로 폭발테러 관련 안전공지",
       "url": ""
@@ -3002,6 +3529,7 @@
       ],
       "published_at": "2017-01-08",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 내 정부건물 및 군사시설 사진촬영 관련 안전공지",
       "url": ""
@@ -3020,6 +3548,7 @@
       ],
       "published_at": "2017-04-12",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 콥트교회 등 종교시설 방문 유의",
       "url": ""
@@ -3038,6 +3567,7 @@
       ],
       "published_at": "2017-05-25",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 Hasm Movement 테러공격 관련 안전유의",
       "url": ""
@@ -3056,6 +3586,7 @@
       ],
       "published_at": "2018-05-25",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 IS 테러예고 관련 안전유의 공지",
       "url": ""
@@ -3074,6 +3605,7 @@
       ],
       "published_at": "2018-11-04",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 콥트교도 대상 총격 테러 발생",
       "url": ""
@@ -3092,6 +3624,7 @@
       ],
       "published_at": "2018-12-25",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 연말연시 테러 경계 관련 안전공지",
       "url": ""
@@ -3110,6 +3643,7 @@
       ],
       "published_at": "2019-02-08",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 낙타타기 체험 관련 안전공지",
       "url": ""
@@ -3128,6 +3662,7 @@
       ],
       "published_at": "2019-02-20",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 카이로 알 아자르 모스크 인근 폭탄 테러 관련 안전유의",
       "url": ""
@@ -3146,6 +3681,7 @@
       ],
       "published_at": "2019-06-18",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "모함마드 모르시 이집트 전대통령 사망 관련 안전공지",
       "url": ""
@@ -3164,6 +3700,7 @@
       ],
       "published_at": "2019-09-27",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 반정부 시위 관련 안전공지",
       "url": ""
@@ -3182,6 +3719,7 @@
       ],
       "published_at": "2020-08-07",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 입국시 PCR 음성확인서 소지 의무 적용(8.15부터)",
       "url": ""
@@ -3200,6 +3738,7 @@
       ],
       "published_at": "2021-02-03",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이집트 정부의 허가를 받지 않은 드론 반입 또는 사용 금지",
       "url": ""
@@ -3218,6 +3757,7 @@
       ],
       "published_at": "2010-02-05",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[이스라엘] 조직폭력범죄 증가 우려",
       "url": ""
@@ -3236,6 +3776,7 @@
       ],
       "published_at": "2010-10-01",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[이스라엘]공공장소 출입 및 여행시 유의사항",
       "url": ""
@@ -3254,6 +3795,7 @@
       ],
       "published_at": "2010-12-06",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[이스라엘] 북부 갈멜산 대형 산불 발생",
       "url": ""
@@ -3272,6 +3814,7 @@
       ],
       "published_at": "2011-03-24",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[이스라엘] 테러 추정 폭탄사고 발생",
       "url": ""
@@ -3290,6 +3833,7 @@
       ],
       "published_at": "2013-01-14",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘 텔아비브 시내 폭탄공격 발생",
       "url": ""
@@ -3308,6 +3852,7 @@
       ],
       "published_at": "2013-05-22",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘, 남부(Beersheba)에서 총격으로 현지인 4명 사망 사건 발생",
       "url": ""
@@ -3326,6 +3871,7 @@
       ],
       "published_at": "2014-03-14",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "가자지구발 로켓 이스라엘 남부 공격관련 안전유의",
       "url": ""
@@ -3344,6 +3890,7 @@
       ],
       "published_at": "2014-07-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘, 서안지구 긴장 고조 관련 신변안전 주의 및 서안지구 여행 자제 당부",
       "url": ""
@@ -3362,6 +3909,7 @@
       ],
       "published_at": "2014-07-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘, 유대교 학생 실종 사건 관련 신변안전 주의 당부",
       "url": ""
@@ -3380,6 +3928,7 @@
       ],
       "published_at": "2014-07-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘 체류 우리국민 신변안전 유의 안내",
       "url": ""
@@ -3398,6 +3947,7 @@
       ],
       "published_at": "2014-07-09",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘-팔레스타인, 긴장고조 관련 신변안전 유의",
       "url": ""
@@ -3416,6 +3966,7 @@
       ],
       "published_at": "2014-07-15",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘 일부지역 특별여행경보 및 특별여행",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000010239&file_sn=0"
@@ -3434,6 +3985,7 @@
       ],
       "published_at": "2014-11-13",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘 내 이-팔간 갈등 확산 관련 신변안전 주의 당부",
       "url": ""
@@ -3452,6 +4004,7 @@
       ],
       "published_at": "2014-11-21",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘, 예루살렘 유대교 회당내 테러사건 관련 신변안전 주의 당부",
       "url": ""
@@ -3470,6 +4023,7 @@
       ],
       "published_at": "2014-12-04",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘, 시위 참가 이탈리아인 총격 부상 관련 시위현장 절대 접근 삼가 요청",
       "url": ""
@@ -3488,6 +4042,7 @@
       ],
       "published_at": "2014-12-15",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘, 팔레스타인 지야드 아부 에인 장관 사망 관련 신변안전 유의 당부",
       "url": ""
@@ -3506,6 +4061,7 @@
       ],
       "published_at": "2015-01-09",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘, 1.5 ~ 10(토)간 폭설주의보 발령",
       "url": ""
@@ -3524,6 +4080,7 @@
       ],
       "published_at": "2015-01-20",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이슬람권 장기체류 우리국민 이스라엘 입국시 주의사항",
       "url": ""
@@ -3542,6 +4099,7 @@
       ],
       "published_at": "2015-01-22",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘 버스 테러 관련 신변 안전 수칙",
       "url": ""
@@ -3560,6 +4118,7 @@
       ],
       "published_at": "2015-02-09",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘, 골란고원 및 북부 갈릴리 지역 여행 주의",
       "url": ""
@@ -3578,6 +4137,7 @@
       ],
       "published_at": "2015-02-09",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘, 우리국민 시리아 입국 금지 당부",
       "url": ""
@@ -3596,6 +4156,7 @@
       ],
       "published_at": "2015-05-18",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘, 최근 골란고원 및 북부 갈릴리 지역 여행 주의",
       "url": ""
@@ -3614,6 +4175,7 @@
       ],
       "published_at": "2015-07-10",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘, IS 조직(Wilayat, Sinai Province)의 시나이 북부 대규모 공격",
       "url": ""
@@ -3632,6 +4194,7 @@
       ],
       "published_at": "2015-07-28",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘, 라마단 이후 테러주의 및 현지 신변안전수칙 안내",
       "url": ""
@@ -3650,6 +4213,7 @@
       ],
       "published_at": "2015-10-12",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘 예루살렘 및 서안지역 테러사건 관련 신변안전 주의 당부",
       "url": ""
@@ -3668,6 +4232,7 @@
       ],
       "published_at": "2015-10-14",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘 예루살렘 연쇄적 테러사건 발생 관련 신변안전 유의 당부",
       "url": ""
@@ -3686,6 +4251,7 @@
       ],
       "published_at": "2015-10-21",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘, 예루살렘 시위 및 폭력사태 빈발지역",
       "url": ""
@@ -3704,6 +4270,7 @@
       ],
       "published_at": "2015-11-13",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘, 예루살렘 흉기 테러 관련 신변안전 주의 당부",
       "url": ""
@@ -3722,6 +4289,7 @@
       ],
       "published_at": "2016-02-05",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘 동예루살렘 및 라말라 총격 테러 관련 신변안전 주의 당부",
       "url": ""
@@ -3740,6 +4308,7 @@
       ],
       "published_at": "2016-03-10",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘 연쇄테러(3.8) 사건 관련 신변안전 유의사항",
       "url": ""
@@ -3758,6 +4327,7 @@
       ],
       "published_at": "2016-04-19",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘 예루살렘 시내버스 폭탄테러 발생",
       "url": ""
@@ -3776,6 +4346,7 @@
       ],
       "published_at": "2016-07-20",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘 내 테러 위험 관련 신변안전 공지",
       "url": ""
@@ -3794,6 +4365,7 @@
       ],
       "published_at": "2016-10-10",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘 총기 난사 관련 안전공지",
       "url": ""
@@ -3812,6 +4384,7 @@
       ],
       "published_at": "2016-11-25",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘 화재 발생 관련 안전유의",
       "url": ""
@@ -3830,6 +4403,7 @@
       ],
       "published_at": "2017-01-13",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘 예루살렘 차량 돌진 테러공격 발생",
       "url": ""
@@ -3848,6 +4422,7 @@
       ],
       "published_at": "2017-01-22",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘-팔레스타인 간 충돌 관련 신변안전 유의",
       "url": ""
@@ -3866,6 +4441,7 @@
       ],
       "published_at": "2017-12-07",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘 예루살렘에 대한 트럼프 미대통령의 연설 관련 신변안전 유의 안내",
       "url": ""
@@ -3884,6 +4460,7 @@
       ],
       "published_at": "2018-06-01",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘 가자지구에서 로켓포 공격 관련 신변 안전 유의",
       "url": ""
@@ -3902,6 +4479,7 @@
       ],
       "published_at": "2018-11-14",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘 가자지구발 로켓포 공격으로 인한 안전 유의",
       "url": ""
@@ -3920,6 +4498,7 @@
       ],
       "published_at": "2019-04-26",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "메나헴 베긴 국경(이스라엘-이집트) 이용 자제 안내",
       "url": ""
@@ -3938,6 +4517,7 @@
       ],
       "published_at": "2019-05-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘 중부 로켓포 공격에 따른 안전유의",
       "url": ""
@@ -3956,6 +4536,7 @@
       ],
       "published_at": "2019-08-29",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘, 갈릴리 인근 등 이스라엘 북부지역 여행자제 안내",
       "url": ""
@@ -3974,6 +4555,7 @@
       ],
       "published_at": "2019-11-12",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘 무장단체 공격 관련 안전 유의",
       "url": ""
@@ -3992,6 +4574,7 @@
       ],
       "published_at": "2020-01-09",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란의 이스라엘 공격 위협 관련 안전 유의",
       "url": ""
@@ -4010,6 +4593,7 @@
       ],
       "published_at": "2020-02-07",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘 테러 관련 안전공지",
       "url": ""
@@ -4028,6 +4612,7 @@
       ],
       "published_at": "2020-08-16",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘, 팔레스타인 가자지구 무력충돌 관련 안전 유의",
       "url": ""
@@ -4046,6 +4631,7 @@
       ],
       "published_at": "2022-04-08",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘 총격테러 발생, 안전공지",
       "url": ""
@@ -4064,6 +4650,7 @@
       ],
       "published_at": "2022-08-06",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘-팔레스타인 간 무력충돌로 인한 안전 유의",
       "url": ""
@@ -4082,6 +4669,7 @@
       ],
       "published_at": "2023-01-31",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘-팔레스타인 긴장 고조 상황 관련",
       "url": ""
@@ -4100,6 +4688,7 @@
       ],
       "published_at": "2023-02-23",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘-팔레스타인 긴장 고조 관련 신변안전 유의",
       "url": ""
@@ -4118,6 +4707,7 @@
       ],
       "published_at": "2023-03-28",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘 사법개혁 대규모 반대 시위 및 파업 발생 관련 안전공지",
       "url": ""
@@ -4136,6 +4726,7 @@
       ],
       "published_at": "2023-04-05",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘 흉기,차량 및 총기 등 각종 테러 발생 및 대규모 반대 시위 발생 관련 안전 공지",
       "url": ""
@@ -4154,6 +4745,7 @@
       ],
       "published_at": "2023-04-07",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘-레바논 국경 인접 북서부 지역 로켓 공격 및 이-팔 충돌 상황 관련 긴급 안전 공지",
       "url": ""
@@ -4172,6 +4764,7 @@
       ],
       "published_at": "2023-05-11",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘 가자지구발 대규모 로켓 공격 및 테러 발생 우려 관련 긴급 안전공지",
       "url": ""
@@ -4190,6 +4783,7 @@
       ],
       "published_at": "2023-07-04",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘, 서안지구 군사작전에 따른 이-팔 충돌 우려 관련 안전공지",
       "url": ""
@@ -4208,6 +4802,7 @@
       ],
       "published_at": "2024-04-19",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이스라엘, 이란에 대한 이스라엘의 보복 공격 관련",
       "url": ""
@@ -4226,6 +4821,7 @@
       ],
       "published_at": "2009-04-07",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크 바그다드 연쇄폭탄공격 발생",
       "url": ""
@@ -4244,6 +4840,7 @@
       ],
       "published_at": "2009-06-24",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크 북부지역에서 대형 폭탄테러 발생, 치안악화",
       "url": ""
@@ -4262,6 +4859,7 @@
       ],
       "published_at": "2010-01-13",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[이라크] 자살폭탄테러 시도 사건 발생",
       "url": ""
@@ -4280,6 +4878,7 @@
       ],
       "published_at": "2010-01-28",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[이라크] 폭탄테러 양상 변화 및 치안불안 고조",
       "url": ""
@@ -4298,6 +4897,7 @@
       ],
       "published_at": "2010-02-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[이라크] 바그다드 시내 테러발생",
       "url": ""
@@ -4316,6 +4916,7 @@
       ],
       "published_at": "2011-07-05",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "리비아, 이라크, 소말리아, 아프간 여행금지국 지정 연장",
       "url": ""
@@ -4334,6 +4935,7 @@
       ],
       "published_at": "2013-04-05",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크(안바르주), 한국가스공사 피습 사건 발생",
       "url": ""
@@ -4352,6 +4954,7 @@
       ],
       "published_at": "2013-04-19",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크, 4.20일 선거기간 테러 발생 가능성 안전유의",
       "url": ""
@@ -4370,6 +4973,7 @@
       ],
       "published_at": "2013-05-22",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "최근 이라크내 종파간 갈등 확산 동향",
       "url": ""
@@ -4388,6 +4992,7 @@
       ],
       "published_at": "2013-05-30",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크, 바그다드 도심내 동시다발적 테러",
       "url": ""
@@ -4406,6 +5011,7 @@
       ],
       "published_at": "2014-03-25",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크, 최근치안정세 및 안전유의",
       "url": ""
@@ -4424,6 +5030,7 @@
       ],
       "published_at": "2014-04-07",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크, 당분간 바그다드 국제공항 이용 자제 당부",
       "url": ""
@@ -4442,6 +5049,7 @@
       ],
       "published_at": "2014-04-17",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크 총선 관련 안전유의 당부(4.9 사담정권 붕괴기념일)",
       "url": ""
@@ -4460,6 +5068,7 @@
       ],
       "published_at": "2014-04-17",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크, 총선관련 안전유의 (4.9. 사담정권 붕괴기념일)",
       "url": ""
@@ -4478,6 +5087,7 @@
       ],
       "published_at": "2014-06-09",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크 美 대사관, 자국민 안전유의 당부",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000009723&file_sn=0"
@@ -4496,6 +5106,7 @@
       ],
       "published_at": "2014-06-16",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크 서북부 지역 치안상태 악화",
       "url": ""
@@ -4514,6 +5125,7 @@
       ],
       "published_at": "2014-06-16",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크 예외적 여권사용 허가서 발급 잠정 보류",
       "url": ""
@@ -4532,6 +5144,7 @@
       ],
       "published_at": "2014-06-17",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크 5개주 체류 자제 당부",
       "url": ""
@@ -4550,6 +5163,7 @@
       ],
       "published_at": "2014-07-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크, 라마단 계기 안전유의 당부",
       "url": ""
@@ -4568,6 +5182,7 @@
       ],
       "published_at": "2014-07-15",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크·시리아·예멘·아프가니스탄·소말리아에 대한 여권사용제한국 지정 연장\"",
       "url": ""
@@ -4586,6 +5201,7 @@
       ],
       "published_at": "2014-08-26",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크, 아르빌 차량폭탄테러 발생",
       "url": ""
@@ -4604,6 +5220,7 @@
       ],
       "published_at": "2014-11-03",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크, Ashura 축제기간 유의사항",
       "url": ""
@@ -4622,6 +5239,7 @@
       ],
       "published_at": "2014-11-20",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크, 바스라지역 안전유의 사항",
       "url": ""
@@ -4640,6 +5258,7 @@
       ],
       "published_at": "2014-12-01",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크, 무장강도 및 납치사건 유의",
       "url": ""
@@ -4658,6 +5277,7 @@
       ],
       "published_at": "2015-01-06",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크, 에볼라 바이러스 예방수칙",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000011835&file_sn=0"
@@ -4676,6 +5296,7 @@
       ],
       "published_at": "2015-05-07",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크, 우리 기업인 대상 안전유의 당부말씀",
       "url": ""
@@ -4694,6 +5315,7 @@
       ],
       "published_at": "2015-05-11",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크, 우리 기업인 대상 안전유의 당부",
       "url": ""
@@ -4712,6 +5334,7 @@
       ],
       "published_at": "2015-07-28",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크, 라마단 이후 테러 확산에 대한 안전대책 강화 요청",
       "url": ""
@@ -4730,6 +5353,7 @@
       ],
       "published_at": "2015-08-03",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크, 아르빌 내 폭탄테러 유의",
       "url": ""
@@ -4748,6 +5372,7 @@
       ],
       "published_at": "2015-09-03",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크, 터어키 근로자 납치사건 관련 안전유의사항 공지",
       "url": ""
@@ -4766,6 +5391,7 @@
       ],
       "published_at": "2015-09-18",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크, 납치 전문조직 주의요망",
       "url": ""
@@ -4784,6 +5410,7 @@
       ],
       "published_at": "2016-03-04",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크, Abu Gharib 지역 교전 관련 안전유의",
       "url": ""
@@ -4802,6 +5429,7 @@
       ],
       "published_at": "2016-05-21",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크 바그다드내 시위 격화에 따른 신변안전 유의 필요",
       "url": ""
@@ -4820,6 +5448,7 @@
       ],
       "published_at": "2016-10-17",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크 모술 탈환작전 개시 관련 신변안전 유의",
       "url": ""
@@ -4838,6 +5467,7 @@
       ],
       "published_at": "2018-07-03",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크 크림-콩고 출혈열(CCHF) 발생 관련 안전 유의",
       "url": ""
@@ -4856,6 +5486,7 @@
       ],
       "published_at": "2018-07-13",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크 바스라 등 남부지역 시위 소요사태 관련 안전유의 공지",
       "url": ""
@@ -4874,6 +5505,7 @@
       ],
       "published_at": "2018-09-08",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크 바그다드 및 남부지역 시위 관련 안전유의 공지",
       "url": ""
@@ -4892,6 +5524,7 @@
       ],
       "published_at": "2018-11-13",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크 ISIS 추정 테러 관련 안전공지",
       "url": ""
@@ -4910,6 +5543,7 @@
       ],
       "published_at": "2019-05-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크 ISIS, 마지막 영토 함락된 후 존재감 과시 테러 강화 우려에 따른 안전유의",
       "url": ""
@@ -4928,6 +5562,7 @@
       ],
       "published_at": "2019-05-15",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크 테러 위협 상존에 따른 안전유의",
       "url": ""
@@ -4946,6 +5581,7 @@
       ],
       "published_at": "2019-05-15",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크 내 테러위협 증가 관련 안전공지",
       "url": ""
@@ -4964,6 +5600,7 @@
       ],
       "published_at": "2019-06-21",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크 바스라지역 유전개발시설 로켓포탄 공격 발생 관련 안전공지",
       "url": ""
@@ -4982,6 +5619,7 @@
       ],
       "published_at": "2019-07-16",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크 바그다드 남서부 Malef 지역 폭탄테러 공격 관련 안전공지",
       "url": ""
@@ -5000,6 +5638,7 @@
       ],
       "published_at": "2019-10-01",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크 10.1(화) 바그다드내 과격 시위 발생 우려",
       "url": ""
@@ -5018,6 +5657,7 @@
       ],
       "published_at": "2019-10-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크 바그다드내 과격 시위 지속 발생",
       "url": ""
@@ -5036,6 +5676,7 @@
       ],
       "published_at": "2019-10-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크 시위방지를 위한 페이스북 등 SNS 서비스 차단",
       "url": ""
@@ -5054,6 +5695,7 @@
       ],
       "published_at": "2019-10-25",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크 10.25.(금) 대규모 반정부 시위예상",
       "url": ""
@@ -5072,6 +5714,7 @@
       ],
       "published_at": "2019-12-31",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크 내 미군 PMF 공습 관련 안전공지",
       "url": ""
@@ -5090,6 +5733,7 @@
       ],
       "published_at": "2020-01-03",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크 PMF 민병대원, 알-무한디스 장례 대거 참석관련 대피 권고",
       "url": ""
@@ -5108,6 +5752,7 @@
       ],
       "published_at": "2020-01-08",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크내 미군기지에 미사일 공격",
       "url": ""
@@ -5126,6 +5771,7 @@
       ],
       "published_at": "2020-01-08",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크 각 기업 비필수요원, 안전지역으로 이동 권고 안전공지",
       "url": ""
@@ -5144,6 +5790,7 @@
       ],
       "published_at": "2020-01-22",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크 청해부대 호르무즈해협 파견 관련 안전유의 안내",
       "url": ""
@@ -5162,6 +5809,7 @@
       ],
       "published_at": "2020-01-23",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크 반미 백만인 시위 대비 안전 유의",
       "url": ""
@@ -5180,6 +5828,7 @@
       ],
       "published_at": "2020-07-17",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크 등 여행금지 국가・지역 지정 6개월 연장",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000023655&file_sn=0"
@@ -5198,6 +5847,7 @@
       ],
       "published_at": "2020-12-11",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이라크 아르빌, 12.11.(금) 쿠르드 전역 시위 관련 안전공지",
       "url": ""
@@ -5216,6 +5866,7 @@
       ],
       "published_at": "2009-06-16",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란 대선 여파로 치안 불안, 신변안전 유의",
       "url": ""
@@ -5234,6 +5885,7 @@
       ],
       "published_at": "2009-12-28",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[이란] 유혈시위 발생",
       "url": ""
@@ -5252,6 +5904,7 @@
       ],
       "published_at": "2010-01-11",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[이란] 테헤란 거주 우리 국민 강도피해 발생",
       "url": ""
@@ -5270,6 +5923,7 @@
       ],
       "published_at": "2010-01-13",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[이란] 테헤란 시내 테러 발생",
       "url": ""
@@ -5288,6 +5942,7 @@
       ],
       "published_at": "2010-01-28",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[이란] 서부 국경에서 무력 충돌 발생",
       "url": ""
@@ -5306,6 +5961,7 @@
       ],
       "published_at": "2010-02-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[이란] 2.11 정부-시위대 충돌 격화 우려",
       "url": ""
@@ -5324,6 +5980,7 @@
       ],
       "published_at": "2010-10-01",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[이란]West 아제르바이잔주 폭탄테러 발생",
       "url": ""
@@ -5342,6 +5999,7 @@
       ],
       "published_at": "2010-10-01",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[이란]주재국 법률 준수 및 종교적 관습, 문화 존중 요망",
       "url": ""
@@ -5360,6 +6018,7 @@
       ],
       "published_at": "2011-02-15",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[이란]중동지역 사위발생에 따른 신변안전유의 안내",
       "url": ""
@@ -5378,6 +6037,7 @@
       ],
       "published_at": "2011-02-18",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[이란] 시위발생에 따른 신변안전유의 안내",
       "url": ""
@@ -5396,6 +6056,7 @@
       ],
       "published_at": "2012-08-13",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란 북서부 지역 강진 발생",
       "url": ""
@@ -5414,6 +6075,7 @@
       ],
       "published_at": "2013-04-12",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란(부쉐르주), 진도 6.4 사상자 887명이상 발생",
       "url": ""
@@ -5432,6 +6094,7 @@
       ],
       "published_at": "2013-05-13",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란, 진도 5.0이상 강진 4~5차례 사상자 900여명 발생",
       "url": ""
@@ -5450,6 +6113,7 @@
       ],
       "published_at": "2013-05-20",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란, 남부(Hormuzgan)지역 강진 발생",
       "url": ""
@@ -5468,6 +6132,7 @@
       ],
       "published_at": "2013-12-16",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란, 외국인 관광객 대상 수면제 강도 피해",
       "url": ""
@@ -5486,6 +6151,7 @@
       ],
       "published_at": "2014-06-09",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란내 메르스 환자 첫 발생 및 감염예방수칙 안내문",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000009721&file_sn=0"
@@ -5504,6 +6170,7 @@
       ],
       "published_at": "2014-08-07",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란, 우리국민 강도피해사건 발생 관련 신변안전 유의 안내",
       "url": ""
@@ -5522,6 +6189,7 @@
       ],
       "published_at": "2015-01-06",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란, 시스탄발루체스탄州지역 테러 관련 특별 주의 당부",
       "url": ""
@@ -5540,6 +6208,7 @@
       ],
       "published_at": "2015-02-26",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란, 오토바이 이용 날치기 범죄 주의",
       "url": ""
@@ -5558,6 +6227,7 @@
       ],
       "published_at": "2015-06-04",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란, 중동호흡기증후군(MERS) 감염주의 안내",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000013036&file_sn=1"
@@ -5576,6 +6246,7 @@
       ],
       "published_at": "2015-12-10",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란 신종플루 예방유의 안내(2015.12.9)",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000014336&file_sn=2"
@@ -5594,6 +6265,7 @@
       ],
       "published_at": "2016-03-15",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "3.15(화) 이란 불꽃놀이 관련 안전공지",
       "url": ""
@@ -5612,6 +6284,7 @@
       ],
       "published_at": "2016-11-01",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란 내 정부건물 및 군사시설 사진촬영 관련 안전공지문",
       "url": ""
@@ -5630,6 +6303,7 @@
       ],
       "published_at": "2016-11-11",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란 여행 시 우리국민 안전유의",
       "url": ""
@@ -5648,6 +6322,7 @@
       ],
       "published_at": "2018-01-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란 내 반정부 시위 발생 관련 신변안전유의",
       "url": ""
@@ -5666,6 +6341,7 @@
       ],
       "published_at": "2018-06-29",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "최근 이란내 시위 발생 등 동향에 대한 안전 유의 공지",
       "url": ""
@@ -5684,6 +6360,7 @@
       ],
       "published_at": "2018-08-09",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란 도심내 외국인 대상 범죄 안전 유의",
       "url": ""
@@ -5702,6 +6379,7 @@
       ],
       "published_at": "2018-08-26",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란 지진 관련 안전 공지",
       "url": ""
@@ -5720,6 +6398,7 @@
       ],
       "published_at": "2018-09-23",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란 남서부 테러 발생 관련 안전유의 공지",
       "url": ""
@@ -5738,6 +6417,7 @@
       ],
       "published_at": "2018-11-26",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란 서부 지진 발생 관련 안전공지",
       "url": ""
@@ -5756,6 +6436,7 @@
       ],
       "published_at": "2019-02-14",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란 남동부 테러 발생 관련 안전공지",
       "url": ""
@@ -5774,6 +6455,7 @@
       ],
       "published_at": "2019-03-26",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란 북동부 및 중서부 지역 대규모 홍수관련 안전공지",
       "url": ""
@@ -5792,6 +6474,7 @@
       ],
       "published_at": "2019-05-22",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란 해외여행 관련 안전 공지",
       "url": ""
@@ -5810,6 +6493,7 @@
       ],
       "published_at": "2019-06-17",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란 날치기 피해 증가 관련 안전유의",
       "url": ""
@@ -5828,6 +6512,7 @@
       ],
       "published_at": "2019-11-18",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란 유가 인상 항의 시위 발생 관련 안전공지",
       "url": ""
@@ -5846,6 +6531,7 @@
       ],
       "published_at": "2019-12-19",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란 공항에서 현금 무단반출입 관련 주의 요망",
       "url": ""
@@ -5864,6 +6550,7 @@
       ],
       "published_at": "2020-01-03",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "미국 공습에 의한 이란 군 고위장성 사망 관련 안전공지",
       "url": ""
@@ -5882,6 +6569,7 @@
       ],
       "published_at": "2020-01-14",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란 테헤란 시위 관련 안전공지",
       "url": ""
@@ -5900,6 +6588,7 @@
       ],
       "published_at": "2020-01-17",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란 내 위급상황 발생에 대비한 주의사항 및 행동요령",
       "url": ""
@@ -5918,6 +6607,7 @@
       ],
       "published_at": "2020-01-22",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란 청해부대 호르무즈해협 파견 관련 안전유의",
       "url": ""
@@ -5936,6 +6626,7 @@
       ],
       "published_at": "2020-02-03",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란 카카오톡 플러스친구 서비스개시 알림",
       "url": ""
@@ -5954,6 +6645,7 @@
       ],
       "published_at": "2020-02-27",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란 코로나19 바이러스 관련 긴급공지(2.27.)",
       "url": ""
@@ -5972,6 +6664,7 @@
       ],
       "published_at": "2022-06-07",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란 치안 관련 안전공지",
       "url": ""
@@ -5990,6 +6683,7 @@
       ],
       "published_at": "2022-09-22",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란 마흐사 아미니(Mahsa Amini) 사망 관련 시위 지속",
       "url": ""
@@ -6008,6 +6702,7 @@
       ],
       "published_at": "2022-10-13",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란 마흐사 아미니(Mahsa Amini) 사망 관련 시위 격화",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000031281&file_sn=0"
@@ -6026,6 +6721,7 @@
       ],
       "published_at": "2023-05-08",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란 히잡 착용 관련 유의사항 안내",
       "url": ""
@@ -6044,6 +6740,7 @@
       ],
       "published_at": "2024-04-19",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "이란, 이스파한 내 폭발음 발생 관련",
       "url": ""
@@ -6062,6 +6759,7 @@
       ],
       "published_at": "2010-10-01",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[요르단]주요르단 미국대사관, Aqaba에서 안전에 대한 위협 발생가능성 제기",
       "url": ""
@@ -6080,6 +6778,7 @@
       ],
       "published_at": "2010-11-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[요르단] 테러 관련, 유흥업소 출입 주의",
       "url": ""
@@ -6098,6 +6797,7 @@
       ],
       "published_at": "2010-11-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[요르단]음주 사고 주의",
       "url": ""
@@ -6116,6 +6816,7 @@
       ],
       "published_at": "2011-01-07",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[요르단] 여행 유의 사항",
       "url": ""
@@ -6134,6 +6835,7 @@
       ],
       "published_at": "2011-03-28",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[요르단] 시위 관련 신변안전 주의",
       "url": ""
@@ -6152,6 +6854,7 @@
       ],
       "published_at": "2012-05-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "요르단, 금요예배 및 반정부 집회 주의",
       "url": ""
@@ -6170,6 +6873,7 @@
       ],
       "published_at": "2013-05-20",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "요르단, 5.9 이르비드 성추행 사건 발생 안전유의",
       "url": ""
@@ -6188,6 +6892,7 @@
       ],
       "published_at": "2013-12-20",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "요르단, 연말연시 다중이용시설 테러 발생 가능성",
       "url": ""
@@ -6206,6 +6911,7 @@
       ],
       "published_at": "2013-12-31",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "요르단，국경지대 등 주의",
       "url": ""
@@ -6224,6 +6930,7 @@
       ],
       "published_at": "2014-01-21",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "요르단, 특별 안전 공지",
       "url": ""
@@ -6242,6 +6949,7 @@
       ],
       "published_at": "2014-03-06",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "요르단, 거주증 불법 사용 주의 안내",
       "url": ""
@@ -6260,6 +6968,7 @@
       ],
       "published_at": "2014-06-19",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "요르단, 브라질월드컵 축구대회 관련 안내 유의",
       "url": ""
@@ -6278,6 +6987,7 @@
       ],
       "published_at": "2014-07-14",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "요르단, 이-팔 긴장 고조 관련 신변 안전공지문",
       "url": ""
@@ -6296,6 +7006,7 @@
       ],
       "published_at": "2014-09-25",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "요르단, 이라크 및 시리아 사태 관련 신변안전 공지",
       "url": ""
@@ -6314,6 +7025,7 @@
       ],
       "published_at": "2015-02-09",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "요르단, 신변안전 공지",
       "url": ""
@@ -6332,6 +7044,7 @@
       ],
       "published_at": "2015-02-13",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "요르단, 신변안전유의 안내",
       "url": ""
@@ -6350,6 +7063,7 @@
       ],
       "published_at": "2015-02-27",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "요르단, 신변안전공지(2. 26)",
       "url": ""
@@ -6368,6 +7082,7 @@
       ],
       "published_at": "2015-06-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "요르단, 중동호흡기증후군(MERS) 감염예방수칙",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000013026&file_sn=0"
@@ -6386,6 +7101,7 @@
       ],
       "published_at": "2015-06-05",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "요르단, 중동호흡기증후군(MERS) 주의",
       "url": ""
@@ -6404,6 +7120,7 @@
       ],
       "published_at": "2015-06-29",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "요르단, 라마단 기간 중 신변안전유의 재공지",
       "url": ""
@@ -6422,6 +7139,7 @@
       ],
       "published_at": "2015-08-27",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "요르단내 중동호흡기증후군(MERS) 올해 신규발생",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000013501&file_sn=0"
@@ -6440,6 +7158,7 @@
       ],
       "published_at": "2016-03-04",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "﻿요르단, 신변안전유의 공지",
       "url": ""
@@ -6458,6 +7177,7 @@
       ],
       "published_at": "2016-06-08",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "요르단 바카 지역 테러 발생 관련 신변안전 유의",
       "url": ""
@@ -6476,6 +7196,7 @@
       ],
       "published_at": "2016-06-22",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "요르단 룩반 지역 테러 발생 관련 신변안전 유의",
       "url": ""
@@ -6494,6 +7215,7 @@
       ],
       "published_at": "2017-07-25",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "요르단 내 이스라엘 대사관 대상 테러 발생 신변안전 유의",
       "url": ""
@@ -6512,6 +7234,7 @@
       ],
       "published_at": "2018-11-11",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "요르단 동절기 자연재해(비, 눈, 우박 등) 대비 신변안전 유의 안내",
       "url": ""
@@ -6530,6 +7253,7 @@
       ],
       "published_at": "2020-01-05",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "요르단 내 신변안전 유의",
       "url": ""
@@ -6548,6 +7272,7 @@
       ],
       "published_at": "2010-01-13",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[쿠웨이트]서방 첩보기관, 알카에다의 걸프국 테러가능성",
       "url": ""
@@ -6566,6 +7291,7 @@
       ],
       "published_at": "2010-10-01",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[쿠웨이트]출입국시 유의사항",
       "url": ""
@@ -6584,6 +7310,7 @@
       ],
       "published_at": "2010-11-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[쿠웨이트] 방문 유의사항(주류, 종교. 교통사고)",
       "url": ""
@@ -6602,6 +7329,7 @@
       ],
       "published_at": "2013-05-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "쿠웨이트, 외국인 거주자에 대한 규제 강화",
       "url": ""
@@ -6620,6 +7348,7 @@
       ],
       "published_at": "2013-12-26",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "쿠웨이트, MARS 코로나 바이러스 감염자 발생",
       "url": ""
@@ -6638,6 +7367,7 @@
       ],
       "published_at": "2014-05-20",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "쿠웨이트 MERS 동향 및 보건당국 대응 조치",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000009501&file_sn=0"
@@ -6656,6 +7386,7 @@
       ],
       "published_at": "2014-06-16",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "쿠웨이트내 사진촬영 금지구역에서의 무단 사진촬영금지",
       "url": ""
@@ -6674,6 +7405,7 @@
       ],
       "published_at": "2014-11-14",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "쿠웨이트, 중동지역 소재 미국 등 서방 국제학교에 대한 테러 위협",
       "url": ""
@@ -6692,6 +7424,7 @@
       ],
       "published_at": "2014-12-15",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "쿠웨이트, 아부다비 미국인 교사 피살 관련 안전유의",
       "url": ""
@@ -6710,6 +7443,7 @@
       ],
       "published_at": "2015-04-06",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "쿠웨이트, 예멘 사태 관련 신변안전 유의",
       "url": ""
@@ -6728,6 +7462,7 @@
       ],
       "published_at": "2015-06-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "쿠웨이트, 중동호흡기증후군(MERS) 감염예방수칙",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000013030&file_sn=0"
@@ -6746,6 +7481,7 @@
       ],
       "published_at": "2015-06-29",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "쿠웨이트 시내 시아파 사원 자살 폭탄테러 발생 관련 안전 공지",
       "url": ""
@@ -6764,6 +7500,7 @@
       ],
       "published_at": "2015-06-29",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "쿠웨이트, ISIL 자칭 국가수립 1주년(6.29) 계기 안전 공지",
       "url": ""
@@ -6782,6 +7519,7 @@
       ],
       "published_at": "2015-09-30",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "쿠웨이트, 메르스 관련 공지",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000013808&file_sn=1"
@@ -6800,6 +7538,7 @@
       ],
       "published_at": "2015-10-13",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "쿠웨이트 콜레라 발생 동향",
       "url": ""
@@ -6818,6 +7557,7 @@
       ],
       "published_at": "2015-11-23",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "쿠웨이트, ISIL 조직원 체포 관련 안전 공지",
       "url": ""
@@ -6836,6 +7576,7 @@
       ],
       "published_at": "2016-04-15",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "쿠웨이트 주류 반입 적발 사건 관련 공지",
       "url": ""
@@ -6854,6 +7595,7 @@
       ],
       "published_at": "2016-05-26",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "쿠웨이트, 이집트 항공기 추락사건 및 라마단 계기 안전 유의 공지",
       "url": ""
@@ -6872,6 +7614,7 @@
       ],
       "published_at": "2018-09-08",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "쿠웨이트 방문 우리국민 메르스 양성판정에 따른 안전 공지",
       "url": ""
@@ -6890,6 +7633,7 @@
       ],
       "published_at": "2018-11-15",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "쿠웨이트 폭우에 따른 안전공지",
       "url": ""
@@ -6908,6 +7652,7 @@
       ],
       "published_at": "2019-12-12",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "쿠웨이트 내 경찰 사칭 범죄 주의",
       "url": ""
@@ -6926,6 +7671,7 @@
       ],
       "published_at": "2020-01-06",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "쿠웨이트 내 중동정세불안 관련 신변안전 유의",
       "url": ""
@@ -6944,6 +7690,7 @@
       ],
       "published_at": "2020-02-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "코로나19 관련 쿠웨이트 공항 입국 검역 추가 절차 안내",
       "url": ""
@@ -6962,6 +7709,7 @@
       ],
       "published_at": "2009-07-29",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 정정불안으로 테러정세 악화",
       "url": ""
@@ -6980,6 +7728,7 @@
       ],
       "published_at": "2010-04-13",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[레바논] Tripoli시 테러위협 고조",
       "url": ""
@@ -6998,6 +7747,7 @@
       ],
       "published_at": "2011-03-28",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[레바논] 차량납치 사건 발생",
       "url": ""
@@ -7016,6 +7766,7 @@
       ],
       "published_at": "2012-05-22",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 치안 동향",
       "url": ""
@@ -7034,6 +7785,7 @@
       ],
       "published_at": "2012-08-10",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 정세 동향",
       "url": ""
@@ -7052,6 +7804,7 @@
       ],
       "published_at": "2012-08-16",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 내 알카에다 동시다발 테러 기도 유의",
       "url": ""
@@ -7070,6 +7823,7 @@
       ],
       "published_at": "2012-08-17",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 치안 동향",
       "url": ""
@@ -7088,6 +7842,7 @@
       ],
       "published_at": "2013-02-25",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논, 교민 신변안전유의 공지",
       "url": ""
@@ -7106,6 +7861,7 @@
       ],
       "published_at": "2013-09-07",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 내 비필수 미국 정부 직원 철수 조치",
       "url": ""
@@ -7124,6 +7880,7 @@
       ],
       "published_at": "2013-11-27",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논, 이란 대사관 겨냥한 폭탄 테러 발생",
       "url": ""
@@ -7142,6 +7899,7 @@
       ],
       "published_at": "2014-03-19",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논, 베이루트 테러 징후 감지",
       "url": ""
@@ -7160,6 +7918,7 @@
       ],
       "published_at": "2014-05-12",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논내 중동호흡기증후군(MERS) 감염자 최초 발생 (5.8)",
       "url": ""
@@ -7178,6 +7937,7 @@
       ],
       "published_at": "2014-06-24",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논산맥 대형 자살 폭탄테러로 다수 사상자 발생",
       "url": ""
@@ -7196,6 +7956,7 @@
       ],
       "published_at": "2014-06-27",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논, 베이루트 인근 폭발사고 관련 신변안전유의",
       "url": ""
@@ -7214,6 +7975,7 @@
       ],
       "published_at": "2014-06-27",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논, 현재 베이루트와 주요 도시, 테러 위협",
       "url": ""
@@ -7232,6 +7994,7 @@
       ],
       "published_at": "2014-07-03",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논, 테러 가능성 고조 관련 신변안전 유의 안내",
       "url": ""
@@ -7250,6 +8013,7 @@
       ],
       "published_at": "2014-07-09",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논, 지진 발생 관련 안전 공지",
       "url": ""
@@ -7268,6 +8032,7 @@
       ],
       "published_at": "2014-09-19",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논공화국 일부 지역 특별여행경보 발령",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000010860&file_sn=0"
@@ -7286,6 +8051,7 @@
       ],
       "published_at": "2015-06-04",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논, MERS(중동호흡기증후군) 감염예방 안내",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000013035&file_sn=1"
@@ -7304,6 +8070,7 @@
       ],
       "published_at": "2015-08-25",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논, 쓰레기 시위 관련 안전 공지",
       "url": ""
@@ -7322,6 +8089,7 @@
       ],
       "published_at": "2015-09-09",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 9.9(수) 베이루트 시내 대규모 시위 예정",
       "url": ""
@@ -7340,6 +8108,7 @@
       ],
       "published_at": "2015-10-14",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 이슬람극단주의 세력 위협 관련 해외안전여행 공지",
       "url": ""
@@ -7358,6 +8127,7 @@
       ],
       "published_at": "2015-11-13",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 베이루트 남부 폭탄 테러 발생",
       "url": ""
@@ -7376,6 +8146,7 @@
       ],
       "published_at": "2015-12-23",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논, 테러 대비 안전유의",
       "url": ""
@@ -7394,6 +8165,7 @@
       ],
       "published_at": "2016-06-04",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 남부 지역 내 테러 위험 관련 안전공지",
       "url": ""
@@ -7412,6 +8184,7 @@
       ],
       "published_at": "2016-06-14",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 베이루트 시내 테러 발생 관련 신변안전 유의",
       "url": ""
@@ -7430,6 +8203,7 @@
       ],
       "published_at": "2016-06-29",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 동북부 시라아 국경지역 테러 발생 관련 신변안전 유의",
       "url": ""
@@ -7448,6 +8222,7 @@
       ],
       "published_at": "2018-12-19",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 월간 테러동향 안전공지(2018년 11월)",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000018813&file_sn=1"
@@ -7466,6 +8241,7 @@
       ],
       "published_at": "2018-12-24",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 베이루트 시위 관련 안전공지",
       "url": ""
@@ -7484,6 +8260,7 @@
       ],
       "published_at": "2019-04-04",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "ISIS 극단주의 세력 레바논 침투 후 테러 가능성 관련 안전공지",
       "url": ""
@@ -7502,6 +8279,7 @@
       ],
       "published_at": "2019-04-17",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 대규모 시위 관련 안전공지",
       "url": ""
@@ -7520,6 +8298,7 @@
       ],
       "published_at": "2019-04-25",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 납치사건 발생 관련 안전공지",
       "url": ""
@@ -7538,6 +8317,7 @@
       ],
       "published_at": "2019-05-06",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 납치사례 빈발 관련 안전유의",
       "url": ""
@@ -7556,6 +8336,7 @@
       ],
       "published_at": "2019-05-07",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 내 납치사건 발생 관련 안전유의",
       "url": ""
@@ -7574,6 +8355,7 @@
       ],
       "published_at": "2019-06-05",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 트리폴리 테러사건 발생",
       "url": ""
@@ -7592,6 +8374,7 @@
       ],
       "published_at": "2019-06-11",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 납치사건 발생 관련 안전공지",
       "url": ""
@@ -7610,6 +8393,7 @@
       ],
       "published_at": "2019-06-26",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 시위 관련 안전공지",
       "url": ""
@@ -7628,6 +8412,7 @@
       ],
       "published_at": "2019-07-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 치안 악화 유의",
       "url": ""
@@ -7646,6 +8431,7 @@
       ],
       "published_at": "2019-07-20",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 불법 노동자 집중 단속 관련 안전공지",
       "url": ""
@@ -7664,6 +8450,7 @@
       ],
       "published_at": "2019-08-09",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 이슬람 성지순례 기간(Hajj) 전후 메르스 감염 주의",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000020169&file_sn=0"
@@ -7682,6 +8469,7 @@
       ],
       "published_at": "2019-08-27",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 여행 관련 안전공지",
       "url": ""
@@ -7700,6 +8488,7 @@
       ],
       "published_at": "2019-10-07",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 종교행사(알바인) 관련 안전공지",
       "url": ""
@@ -7718,6 +8507,7 @@
       ],
       "published_at": "2019-10-18",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 시위 발생 관련 안전공지",
       "url": ""
@@ -7736,6 +8526,7 @@
       ],
       "published_at": "2019-10-23",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 안전공지",
       "url": ""
@@ -7754,6 +8545,7 @@
       ],
       "published_at": "2019-12-03",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 납치사건 발생 관련 안전공지",
       "url": ""
@@ -7772,6 +8564,7 @@
       ],
       "published_at": "2020-01-05",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 신변안전 유의",
       "url": ""
@@ -7790,6 +8583,7 @@
       ],
       "published_at": "2020-01-17",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 시위 격화 관련 안전공지",
       "url": ""
@@ -7808,6 +8602,7 @@
       ],
       "published_at": "2020-06-23",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 민간항공국이 발표한 입국요건 안내",
       "url": ""
@@ -7826,6 +8621,7 @@
       ],
       "published_at": "2020-07-15",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 총격전 발생으로 정부군 사망 안전유의",
       "url": ""
@@ -7844,6 +8640,7 @@
       ],
       "published_at": "2020-08-29",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 칼데(Khaldeh)지역 종파간 충돌 관련 안전공지",
       "url": ""
@@ -7862,6 +8659,7 @@
       ],
       "published_at": "2020-09-22",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 입국요건 안내",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000024591&file_sn=1"
@@ -7880,6 +8678,7 @@
       ],
       "published_at": "2020-09-29",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 내 테러위협 증가 관련 안전 공지",
       "url": ""
@@ -7898,6 +8697,7 @@
       ],
       "published_at": "2020-12-07",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 코로나19 관련 봉쇄조치 연장 안내",
       "url": ""
@@ -7916,6 +8716,7 @@
       ],
       "published_at": "2021-01-10",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논 입국 요건 안내(1.14~)",
       "url": ""
@@ -7934,6 +8735,7 @@
       ],
       "published_at": "2021-02-04",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논, 테러위협 증가 관련 안전공지",
       "url": ""
@@ -7952,6 +8754,7 @@
       ],
       "published_at": "2021-03-16",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논, 시위격화 및 치안악화 경고",
       "url": ""
@@ -7970,6 +8773,7 @@
       ],
       "published_at": "2021-04-16",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "레바논, 강력범죄 증가 관련 안전 공지",
       "url": ""
@@ -7988,6 +8792,7 @@
       ],
       "published_at": "2010-01-13",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[오만]서방 첩보기관, 알카에다의 걸프국 테러가능성",
       "url": ""
@@ -8006,6 +8811,7 @@
       ],
       "published_at": "2010-10-01",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[오만]여행자 휴대품 통관 제도 안내",
       "url": ""
@@ -8024,6 +8830,7 @@
       ],
       "published_at": "2012-07-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "오만-예멘 국경지역 여행주의",
       "url": ""
@@ -8042,6 +8849,7 @@
       ],
       "published_at": "2014-09-25",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "오만, 중동지역 체류 우리국민 안전 유의 안내",
       "url": ""
@@ -8060,6 +8868,7 @@
       ],
       "published_at": "2014-12-03",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "오만, 11월 26일부터 비자 발급비용 인상",
       "url": ""
@@ -8078,6 +8887,7 @@
       ],
       "published_at": "2015-02-06",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "오만, 중동지역 체류 우리국민 안전 유의 안내",
       "url": ""
@@ -8096,6 +8906,7 @@
       ],
       "published_at": "2015-06-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "오만, 중동호흡기증후군(MERS) 감염예방수칙",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000013029&file_sn=0"
@@ -8114,6 +8925,7 @@
       ],
       "published_at": "2015-06-08",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "오만 내 6번째 중동호흡기증후군(MERS) 감염자 발생",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000013050&file_sn=0"
@@ -8132,6 +8944,7 @@
       ],
       "published_at": "2015-06-24",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "오만인 중동호흡기증후군(MERS) 감염자 발생",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000013150&file_sn=0"
@@ -8150,6 +8963,7 @@
       ],
       "published_at": "2015-09-07",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "오만, 갑작스런 폭우 시 유의사항 안내",
       "url": ""
@@ -8168,6 +8982,7 @@
       ],
       "published_at": "2015-11-12",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "오만인 콜레라 감염자 발생",
       "url": ""
@@ -8186,6 +9001,7 @@
       ],
       "published_at": "2016-01-08",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "오만인 7번째 중동호흡기증후군(MERS) 감염자 발생",
       "url": ""
@@ -8204,6 +9020,7 @@
       ],
       "published_at": "2016-01-29",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "태국 방문 오만인 중동호흡기증후군(MERS) 환자 발생",
       "url": ""
@@ -8222,6 +9039,7 @@
       ],
       "published_at": "2016-02-24",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "오만내 아동용 카시트 관련 교통법 개정사항 안내",
       "url": ""
@@ -8240,6 +9058,7 @@
       ],
       "published_at": "2016-05-03",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "﻿오만 내 크림-콩고출혈열 발생 유의 안내",
       "url": ""
@@ -8258,6 +9077,7 @@
       ],
       "published_at": "2016-05-04",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "오만 남부 샤르키야(Sharqiyah)주 A형 간염 발생 유의 안내",
       "url": ""
@@ -8276,6 +9096,7 @@
       ],
       "published_at": "2017-02-28",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "오만내 보이스피싱(전화사기) 피해 유의 당부",
       "url": ""
@@ -8294,6 +9115,7 @@
       ],
       "published_at": "2017-03-07",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "오만 해변가 유독성 해파리 유의 안내",
       "url": ""
@@ -8312,6 +9134,7 @@
       ],
       "published_at": "2017-03-22",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "오만 내 크림-콩고 출혈열 발생 관련 유의 안내",
       "url": ""
@@ -8330,6 +9153,7 @@
       ],
       "published_at": "2017-09-18",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "2017년 오만 내 첫 메르스 환자 발생",
       "url": ""
@@ -8348,6 +9172,7 @@
       ],
       "published_at": "2018-12-18",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "오만 내 뎅기열 감염 주의 안전공지",
       "url": ""
@@ -8366,6 +9191,7 @@
       ],
       "published_at": "2019-01-29",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "오만 메르스 환자 발생",
       "url": ""
@@ -8384,6 +9210,7 @@
       ],
       "published_at": "2019-02-05",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "오만 메르스 환자 사망 발생 관련 안전공지",
       "url": ""
@@ -8402,6 +9229,7 @@
       ],
       "published_at": "2019-03-10",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "오만 인근 해역 지진 발생 관련 안전공지",
       "url": ""
@@ -8420,6 +9248,7 @@
       ],
       "published_at": "2020-01-11",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "오만 술탄 카부스 국왕 서거 관련 안전공지",
       "url": ""
@@ -8438,6 +9267,7 @@
       ],
       "published_at": "2023-04-20",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "오만 해상 사고 관련 안전공지",
       "url": ""
@@ -8456,6 +9286,7 @@
       ],
       "published_at": "2010-01-13",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[카타르]서방 첩보기관, 알카에다의 걸프국 테러가능성",
       "url": ""
@@ -8474,6 +9305,7 @@
       ],
       "published_at": "2010-10-01",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[카타르]카타르대학 한국영화제 개최",
       "url": ""
@@ -8492,6 +9324,7 @@
       ],
       "published_at": "2010-10-18",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[카타르] H1N1 감염환자 사망 발생",
       "url": ""
@@ -8510,6 +9343,7 @@
       ],
       "published_at": "2011-03-22",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[카타르] 항공기 기내 규정 및 기간시설 보안 강화",
       "url": ""
@@ -8528,6 +9362,7 @@
       ],
       "published_at": "2011-11-17",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "카타르 항공기 내 한국인 승객 흡연으로 체포",
       "url": ""
@@ -8546,6 +9381,7 @@
       ],
       "published_at": "2012-03-12",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "카타르항공기내 흡연 주의",
       "url": ""
@@ -8564,6 +9400,7 @@
       ],
       "published_at": "2012-09-26",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디 및 카타르, 신종 코로나바이러스 주의",
       "url": ""
@@ -8582,6 +9419,7 @@
       ],
       "published_at": "2012-11-26",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디 및 카타르, 신종 코로나바이러스 주의(2)",
       "url": ""
@@ -8600,6 +9438,7 @@
       ],
       "published_at": "2013-03-15",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "카타르, 아프리카와 중동지역에서는 시리아 사태, 이슬람 극단주의 확산",
       "url": ""
@@ -8618,6 +9457,7 @@
       ],
       "published_at": "2013-04-12",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "카타르, 건축사 사전 등록 요청 사기 접속 유의",
       "url": ""
@@ -8636,6 +9476,7 @@
       ],
       "published_at": "2014-11-20",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "카타르, 차량 내 현금 및 귀중품 도난 주의 요망",
       "url": ""
@@ -8654,6 +9495,7 @@
       ],
       "published_at": "2014-12-03",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "카타르 방문시 30일간 무사증입국 가능",
       "url": ""
@@ -8672,6 +9514,7 @@
       ],
       "published_at": "2014-12-15",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "카타르, 테러 및 위해 요소 경계 당부",
       "url": ""
@@ -8690,6 +9533,7 @@
       ],
       "published_at": "2015-01-27",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "카타르, IS 테러위협 주의 안내",
       "url": ""
@@ -8708,6 +9552,7 @@
       ],
       "published_at": "2015-06-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "카타르, 중동호흡기증후군(MERS) 감염예방수칙",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000013025&file_sn=0"
@@ -8726,6 +9571,7 @@
       ],
       "published_at": "2015-06-04",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "카타르, 중동호흡기증후군 예방 강화",
       "url": ""
@@ -8744,6 +9590,7 @@
       ],
       "published_at": "2015-07-20",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "카타르, 라마단 축제일 및 휴무기간 안전 유의",
       "url": ""
@@ -8762,6 +9609,7 @@
       ],
       "published_at": "2015-07-28",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "카타르, 위험지역(터키동남부 등) 선교활동 및 여행자제 당부",
       "url": ""
@@ -8780,6 +9628,7 @@
       ],
       "published_at": "2016-02-25",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "2016 메르스 예방 안내 (카타르 내 메르스 66세 남성 발병자 발생)",
       "url": ""
@@ -8798,6 +9647,7 @@
       ],
       "published_at": "2016-12-16",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "카타르, 주류 및 돼지고기 반입 금지",
       "url": ""
@@ -8816,6 +9666,7 @@
       ],
       "published_at": "2017-04-20",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "카타르내 메르스 감염 유의",
       "url": ""
@@ -8834,6 +9685,7 @@
       ],
       "published_at": "2017-05-24",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "카타르내 음주 관련 범죄 유의",
       "url": ""
@@ -8852,6 +9704,7 @@
       ],
       "published_at": "2017-05-30",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "카타르내 메르스 확진자 발생에 따른 메르스 감염 유의",
       "url": ""
@@ -8870,6 +9723,7 @@
       ],
       "published_at": "2017-06-07",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "카타르와 일부 국가 간 외교관계 악화에 따른 교통편 이용 유의사항 안내",
       "url": ""
@@ -8888,6 +9742,7 @@
       ],
       "published_at": "2019-04-26",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "카타르 중동지역 체류국민 대상 메르스 안내",
       "url": ""
@@ -8906,6 +9761,7 @@
       ],
       "published_at": "2020-01-06",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "세계보건기구, 카타르 메르스 확진 환자 발생 발표",
       "url": ""
@@ -8924,6 +9780,7 @@
       ],
       "published_at": "2022-11-10",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "(카타르월드컵 종합공지) 관람, 응원 유의사항 및 사건사고 예방",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000031366&file_sn=1"
@@ -8942,6 +9799,7 @@
       ],
       "published_at": "2009-11-09",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아 테러 위협 고조, 신변안전 유의",
       "url": ""
@@ -8960,6 +9818,7 @@
       ],
       "published_at": "2010-01-13",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[사우디아라비아]서방 첩보기관, 알카에다의 걸프국 테러가능성 경고",
       "url": ""
@@ -8978,6 +9837,7 @@
       ],
       "published_at": "2010-01-20",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[사우디아라비아] 입국 안내",
       "url": ""
@@ -8996,6 +9856,7 @@
       ],
       "published_at": "2010-11-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[사우디아라비아] 여권훼손 및 분실 주의",
       "url": ""
@@ -9014,6 +9875,7 @@
       ],
       "published_at": "2011-03-23",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[사우디아라비아] 동부지역 신변안전 유의",
       "url": ""
@@ -9032,6 +9894,7 @@
       ],
       "published_at": "2011-10-26",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아 체류시 유의사항",
       "url": ""
@@ -9050,6 +9913,7 @@
       ],
       "published_at": "2012-12-05",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아 사증신청자 생체정보등록제도 시행 예정 안내",
       "url": ""
@@ -9068,6 +9932,7 @@
       ],
       "published_at": "2013-05-16",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아, 5.14 동부지역 신종 코로나 바이러스 감염발생",
       "url": ""
@@ -9086,6 +9951,7 @@
       ],
       "published_at": "2013-05-20",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아, 동부 Al-Ahsa지역 Coronavirus 감염자 추가 발생",
       "url": ""
@@ -9104,6 +9970,7 @@
       ],
       "published_at": "2013-06-19",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아, 신종 코로나 바이러스 최근 동향",
       "url": ""
@@ -9122,6 +9989,7 @@
       ],
       "published_at": "2013-09-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아, 중동호흡기증후군(코로나 바이러스) 예방",
       "url": ""
@@ -9140,6 +10008,7 @@
       ],
       "published_at": "2013-10-10",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아, WHO [MERS] 경계 당부",
       "url": ""
@@ -9158,6 +10027,7 @@
       ],
       "published_at": "2013-11-04",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아, 차량 절취 사건 주의",
       "url": ""
@@ -9176,6 +10046,7 @@
       ],
       "published_at": "2014-04-17",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아, 뎅기열 및 중동호흡기증후군 발생 주의",
       "url": ""
@@ -9194,6 +10065,7 @@
       ],
       "published_at": "2014-08-07",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아, 교통사고 유의",
       "url": ""
@@ -9212,6 +10084,7 @@
       ],
       "published_at": "2014-10-15",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아, 리야드 동부지구 미국인 총격 살인사건 발생",
       "url": ""
@@ -9230,6 +10103,7 @@
       ],
       "published_at": "2014-10-31",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아, 중동지역 국제학교 등에 대한 테러위협 주의 환기",
       "url": ""
@@ -9248,6 +10122,7 @@
       ],
       "published_at": "2014-12-01",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아, 외국인 대상 연속 피습사건 발생 관련",
       "url": ""
@@ -9266,6 +10141,7 @@
       ],
       "published_at": "2014-12-01",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아, 외국인 체류허가증 관련규정 변경 안내",
       "url": ""
@@ -9284,6 +10160,7 @@
       ],
       "published_at": "2015-01-27",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아, 신변 안전 유의 공지",
       "url": ""
@@ -9302,6 +10179,7 @@
       ],
       "published_at": "2015-02-05",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아, 동부지역 미국인 대상 총격사건 관련 신변안전 공지",
       "url": ""
@@ -9320,6 +10198,7 @@
       ],
       "published_at": "2015-03-26",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아, 안전공지",
       "url": ""
@@ -9338,6 +10217,7 @@
       ],
       "published_at": "2015-04-09",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아, 해외취업 사기(건설기업 사칭) 주의 요망",
       "url": ""
@@ -9356,6 +10236,7 @@
       ],
       "published_at": "2015-04-23",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아, 신변안전 공지",
       "url": ""
@@ -9374,6 +10255,7 @@
       ],
       "published_at": "2015-05-11",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아 남부 국경 지역 예멘 후티반군 공격 안전유의",
       "url": ""
@@ -9392,6 +10274,7 @@
       ],
       "published_at": "2015-05-26",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아, 중동호흡기증후군(MERS) 감염예방수칙",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000012989&file_sn=0"
@@ -9410,6 +10293,7 @@
       ],
       "published_at": "2015-06-02",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아 동부지역 시아파 모스크 대상 자살폭탄테러 재발생",
       "url": ""
@@ -9428,6 +10312,7 @@
       ],
       "published_at": "2015-06-29",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아, 라마단 기간 테러 주의(ISIL 1주년 계기)",
       "url": ""
@@ -9446,6 +10331,7 @@
       ],
       "published_at": "2015-07-24",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아, 중동지역내 테러 발생 주의",
       "url": ""
@@ -9464,6 +10350,7 @@
       ],
       "published_at": "2015-08-19",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아, 수도 리야드 지역 중동호흡기 증후군(MERS) 환자 발생 증가",
       "url": ""
@@ -9482,6 +10369,7 @@
       ],
       "published_at": "2015-08-25",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "[재공지] 사우디아라비아, 중동호흡기증후군(MERS) 중점 관리 병원 안내",
       "url": ""
@@ -9500,6 +10388,7 @@
       ],
       "published_at": "2015-08-25",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아 내 메르스 환자 발생 증가에 따른 감염주의 안내",
       "url": ""
@@ -9518,6 +10407,7 @@
       ],
       "published_at": "2015-08-25",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아 수도 리야드 지역 중동호흡기 증후군(MERS) 환자 발생 지속 증가",
       "url": ""
@@ -9536,6 +10426,7 @@
       ],
       "published_at": "2015-08-27",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아, 주간 메르스 관련 주간 환자발생 동향 및 Haj 기간 중 교민 감염주의 안내",
       "url": ""
@@ -9554,6 +10445,7 @@
       ],
       "published_at": "2015-08-28",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아, 리야드 메르스 발생 관련 공지",
       "url": ""
@@ -9572,6 +10464,7 @@
       ],
       "published_at": "2015-10-23",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아 음주,주류제조,소지,판매 단속 강화",
       "url": ""
@@ -9590,6 +10483,7 @@
       ],
       "published_at": "2015-11-19",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아, 사우디 종교경찰의 음주단속 강화 안전공지",
       "url": ""
@@ -9608,6 +10502,7 @@
       ],
       "published_at": "2015-11-23",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아, 동부주 시아파 지역 치안상황 악화 관련 신변안전 유의",
       "url": ""
@@ -9626,6 +10521,7 @@
       ],
       "published_at": "2016-02-01",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아, 동부 알아흐사 모스크 테러공격 등 교민 신변안전 유의",
       "url": ""
@@ -9644,6 +10540,7 @@
       ],
       "published_at": "2016-02-01",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아 젯다 메르스 관련 안전 공지",
       "url": ""
@@ -9662,6 +10559,7 @@
       ],
       "published_at": "2016-10-27",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아 병원 내 메르스 감염 발생에 따른 감염예방 안내",
       "url": ""
@@ -9680,6 +10578,7 @@
       ],
       "published_at": "2016-10-31",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아 서부지역 여행 신변안전 유의",
       "url": ""
@@ -9698,6 +10597,7 @@
       ],
       "published_at": "2017-03-06",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "최근 사우디아라비아 메르스 동향 및 감염유의 안내",
       "url": ""
@@ -9716,6 +10616,7 @@
       ],
       "published_at": "2017-03-06",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아 내 우리국민 대상 강력범죄 주의",
       "url": ""
@@ -9734,6 +10635,7 @@
       ],
       "published_at": "2017-03-22",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아 서남부 국경 지역 방문 자제",
       "url": ""
@@ -9752,6 +10654,7 @@
       ],
       "published_at": "2017-05-18",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아 내 제3국인에 의한 강력범죄 유의",
       "url": ""
@@ -9770,6 +10673,7 @@
       ],
       "published_at": "2017-06-12",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "최근 사우디아라비아 메르스 동향 (6월 첫째주)",
       "url": ""
@@ -9788,6 +10692,7 @@
       ],
       "published_at": "2018-06-01",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "성지순례 목적 사우디아라비아 방문시 유의사항",
       "url": ""
@@ -9806,6 +10711,7 @@
       ],
       "published_at": "2018-06-25",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아 예멘 후티 반군 리야드 지역 미사일 공격(6.24)에 따른 안전 유의 공지",
       "url": ""
@@ -9824,6 +10730,7 @@
       ],
       "published_at": "2018-07-27",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "예멘 후티반군의 사우디아라비아 홍해 인근 유조선 공격(7.25)에 따른 안전유의 공지",
       "url": ""
@@ -9842,6 +10749,7 @@
       ],
       "published_at": "2018-12-20",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아 당국 주류 단속 강화 관련 안전공지",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000018820&file_sn=1"
@@ -9860,6 +10768,7 @@
       ],
       "published_at": "2019-02-12",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아 메르스 발생 관련 안전공지",
       "url": ""
@@ -9878,6 +10787,7 @@
       ],
       "published_at": "2019-02-18",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아 메르스 발생 관련 안전 공지",
       "url": ""
@@ -9896,6 +10806,7 @@
       ],
       "published_at": "2019-07-23",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아 반입 금지 품목 유의사항 안내",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000020051&file_sn=1"
@@ -9914,6 +10825,7 @@
       ],
       "published_at": "2019-10-01",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아 新관광정책 관련 유의사항",
       "url": ""
@@ -9932,6 +10844,7 @@
       ],
       "published_at": "2019-11-06",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아 메르스 동향(10월) 관련 안전유의",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000020598&file_sn=1"
@@ -9950,6 +10863,7 @@
       ],
       "published_at": "2019-12-11",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아 메르스 동향 관련 안전공지",
       "url": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000020739&file_sn=0"
@@ -9968,6 +10882,7 @@
       ],
       "published_at": "2021-02-11",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아, 후티 반군 아브하 공항 공격에 따른 신변유의 당부",
       "url": ""
@@ -9986,9 +10901,48 @@
       ],
       "published_at": "2021-02-28",
       "region_type": "",
+      "remark": "",
       "source": "country_safety",
       "title": "사우디아라비아, 후티 반군의 리야드 대상 공격 관련 신변유의",
       "url": ""
+    },
+    "special_travel_alarm:JO:d5d659292d46246d": {
+      "content_hash": "a371d715ee7d85722fc878ac2dcf09faa87fa91042d51eeb486240ced69a237e",
+      "country_code": "JO",
+      "country_name": "요르단",
+      "item_id": "d5d659292d46246d",
+      "last_alerted_hash": "a371d715ee7d85722fc878ac2dcf09faa87fa91042d51eeb486240ced69a237e",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "special",
+      "matched_reason": [
+        "country:요르단",
+        "api:special_travel_alarm"
+      ],
+      "published_at": "",
+      "region_type": "evacuate:일부",
+      "remark": "evacuate:3단계를 제외한 전 지역",
+      "source": "special_travel_alarm",
+      "title": "요르단 special_travel_alarm",
+      "url": "https://www.0404.go.kr/files/image/COUNTRY_165/3"
+    },
+    "special_travel_alarm:SA:3d7706e3802c393e": {
+      "content_hash": "79f6724cc1c16c4260f6c6261a113d127b57e4361aeaf4d0962ffb9c6a0f9161",
+      "country_code": "SA",
+      "country_name": "사우디아라비아",
+      "item_id": "3d7706e3802c393e",
+      "last_alerted_hash": "79f6724cc1c16c4260f6c6261a113d127b57e4361aeaf4d0962ffb9c6a0f9161",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "special",
+      "matched_reason": [
+        "country:사우디아라비아",
+        "api:special_travel_alarm"
+      ],
+      "published_at": "",
+      "region_type": "evacuate:일부",
+      "remark": "evacuate:3단계 지정 지역을 제외한 지역",
+      "source": "special_travel_alarm",
+      "title": "사우디아라비아 special_travel_alarm",
+      "url": "https://www.0404.go.kr/files/image/COUNTRY_107/3"
     },
     "travel_alarm:AE:45917201ebc04748": {
       "content_hash": "c1effce0b2abd3b0e70cda150d66a0159843a6f094c19014c797d2ad0edf5b50",
@@ -10004,6 +10958,25 @@
       ],
       "published_at": "",
       "region_type": "전체",
+      "source": "travel_alarm",
+      "title": "아랍에미리트 travel_alarm",
+      "url": ""
+    },
+    "travel_alarm:AE:f0a4bcc6fa3f10d6": {
+      "content_hash": "c1effce0b2abd3b0e70cda150d66a0159843a6f094c19014c797d2ad0edf5b50",
+      "country_code": "AE",
+      "country_name": "아랍에미리트",
+      "item_id": "f0a4bcc6fa3f10d6",
+      "last_alerted_hash": "c1effce0b2abd3b0e70cda150d66a0159843a6f094c19014c797d2ad0edf5b50",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "3",
+      "matched_reason": [
+        "country:아랍에미리트",
+        "api:travel_alarm"
+      ],
+      "published_at": "",
+      "region_type": "전체",
+      "remark": "전 지역",
       "source": "travel_alarm",
       "title": "아랍에미리트 travel_alarm",
       "url": ""
@@ -10024,6 +10997,82 @@
       "region_type": "전체",
       "source": "travel_alarm",
       "title": "바레인 travel_alarm",
+      "url": ""
+    },
+    "travel_alarm:BH:ceb46c551ab5e57c": {
+      "content_hash": "52e8547f29c8465cbe3353a4dc22a9b061950a083cd5e86795fa1cb67f013738",
+      "country_code": "BH",
+      "country_name": "바레인",
+      "item_id": "ceb46c551ab5e57c",
+      "last_alerted_hash": "52e8547f29c8465cbe3353a4dc22a9b061950a083cd5e86795fa1cb67f013738",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "3",
+      "matched_reason": [
+        "country:바레인",
+        "api:travel_alarm"
+      ],
+      "published_at": "",
+      "region_type": "전체",
+      "remark": "전 지역",
+      "source": "travel_alarm",
+      "title": "바레인 travel_alarm",
+      "url": ""
+    },
+    "travel_alarm:EG:011a0b3734d98dd0": {
+      "content_hash": "592813c0cfeb3e3c01b54a5cf1054f9afbdeb6e06c8d12972edff718610956d5",
+      "country_code": "EG",
+      "country_name": "이집트",
+      "item_id": "011a0b3734d98dd0",
+      "last_alerted_hash": "592813c0cfeb3e3c01b54a5cf1054f9afbdeb6e06c8d12972edff718610956d5",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "2",
+      "matched_reason": [
+        "country:이집트",
+        "api:travel_alarm"
+      ],
+      "published_at": "",
+      "region_type": "일부",
+      "remark": "서부사막, 시나이반도 남부 일부지역(성캐더린•타바)",
+      "source": "travel_alarm",
+      "title": "이집트 travel_alarm",
+      "url": ""
+    },
+    "travel_alarm:EG:66519987b19ebdac": {
+      "content_hash": "e39df203d9f75b58f7466cf9e6aa007e678bcc40e7c2802e44c74e52f01cc387",
+      "country_code": "EG",
+      "country_name": "이집트",
+      "item_id": "66519987b19ebdac",
+      "last_alerted_hash": "e39df203d9f75b58f7466cf9e6aa007e678bcc40e7c2802e44c74e52f01cc387",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "1",
+      "matched_reason": [
+        "country:이집트",
+        "api:travel_alarm"
+      ],
+      "published_at": "",
+      "region_type": "일부",
+      "remark": "다합•샴엘셰이크지역, 카이로 등 나일강 유역 도시지역, 마르트루~지중해 유역",
+      "source": "travel_alarm",
+      "title": "이집트 travel_alarm",
+      "url": ""
+    },
+    "travel_alarm:EG:94392b9779afee8e": {
+      "content_hash": "3a6df11184c536957d81434875ec733dd58b2080bd82ca2ae6f21378ce5a61da",
+      "country_code": "EG",
+      "country_name": "이집트",
+      "item_id": "94392b9779afee8e",
+      "last_alerted_hash": "3a6df11184c536957d81434875ec733dd58b2080bd82ca2ae6f21378ce5a61da",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "3",
+      "matched_reason": [
+        "country:이집트",
+        "api:travel_alarm"
+      ],
+      "published_at": "",
+      "region_type": "일부",
+      "remark": "중•북부 시나이 반도(1,2단계 지역 제외), 리비아 국경으로부터 30km까지",
+      "source": "travel_alarm",
+      "title": "이집트 travel_alarm",
       "url": ""
     },
     "travel_alarm:EG:e82b742e18b6bf32": {
@@ -10080,6 +11129,25 @@
       "title": "이집트 travel_alarm",
       "url": ""
     },
+    "travel_alarm:IL:6c7a96bab8c1105c": {
+      "content_hash": "71ba8dbbb60b34a64e78d6de71750c5bf69c314167fd71197e582fe105a6d150",
+      "country_code": "IL",
+      "country_name": "이스라엘",
+      "item_id": "6c7a96bab8c1105c",
+      "last_alerted_hash": "71ba8dbbb60b34a64e78d6de71750c5bf69c314167fd71197e582fe105a6d150",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "4",
+      "matched_reason": [
+        "country:이스라엘",
+        "api:travel_alarm"
+      ],
+      "published_at": "",
+      "region_type": "일부",
+      "remark": "이스라엘 북부 레바논 접경지역(국경으로부터 4km), 가자지구",
+      "source": "travel_alarm",
+      "title": "이스라엘 travel_alarm",
+      "url": ""
+    },
     "travel_alarm:IL:c773ba8042bb2d81": {
       "content_hash": "71ba8dbbb60b34a64e78d6de71750c5bf69c314167fd71197e582fe105a6d150",
       "country_code": "IL",
@@ -10116,6 +11184,44 @@
       "title": "이스라엘 travel_alarm",
       "url": ""
     },
+    "travel_alarm:IL:f4e651d359077281": {
+      "content_hash": "075120ca42b9592f5ce7e5a2b9e3ee53960f941e1da936b5b4b47c40ebccf800",
+      "country_code": "IL",
+      "country_name": "이스라엘",
+      "item_id": "f4e651d359077281",
+      "last_alerted_hash": "075120ca42b9592f5ce7e5a2b9e3ee53960f941e1da936b5b4b47c40ebccf800",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "3",
+      "matched_reason": [
+        "country:이스라엘",
+        "api:travel_alarm"
+      ],
+      "published_at": "",
+      "region_type": "일부",
+      "remark": "4단계 지정 지역을 제외한 지역",
+      "source": "travel_alarm",
+      "title": "이스라엘 travel_alarm",
+      "url": ""
+    },
+    "travel_alarm:IQ:1b2c5f525bbbdd9f": {
+      "content_hash": "b36cbbf2b4b0d236ba19297071f2b3a9357927cf7f54ca4898434b8b0ac48095",
+      "country_code": "IQ",
+      "country_name": "이라크",
+      "item_id": "1b2c5f525bbbdd9f",
+      "last_alerted_hash": "b36cbbf2b4b0d236ba19297071f2b3a9357927cf7f54ca4898434b8b0ac48095",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "4",
+      "matched_reason": [
+        "country:이라크",
+        "api:travel_alarm"
+      ],
+      "published_at": "",
+      "region_type": "전체",
+      "remark": "전 지역",
+      "source": "travel_alarm",
+      "title": "이라크 travel_alarm",
+      "url": ""
+    },
     "travel_alarm:IQ:9350cf572acccc5a": {
       "content_hash": "b36cbbf2b4b0d236ba19297071f2b3a9357927cf7f54ca4898434b8b0ac48095",
       "country_code": "IQ",
@@ -10148,6 +11254,25 @@
       ],
       "published_at": "",
       "region_type": "전체",
+      "source": "travel_alarm",
+      "title": "이란 travel_alarm",
+      "url": ""
+    },
+    "travel_alarm:IR:51095610fb0c95ab": {
+      "content_hash": "5c600761907318abe80e0bb957d70fdcf946bb712a6a372021a06354d243171b",
+      "country_code": "IR",
+      "country_name": "이란",
+      "item_id": "51095610fb0c95ab",
+      "last_alerted_hash": "5c600761907318abe80e0bb957d70fdcf946bb712a6a372021a06354d243171b",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "4",
+      "matched_reason": [
+        "country:이란",
+        "api:travel_alarm"
+      ],
+      "published_at": "",
+      "region_type": "전체",
+      "remark": "전 지역",
       "source": "travel_alarm",
       "title": "이란 travel_alarm",
       "url": ""
@@ -10188,6 +11313,25 @@
       "title": "요르단 travel_alarm",
       "url": ""
     },
+    "travel_alarm:JO:356a0dd8dce80ea5": {
+      "content_hash": "98f341b3347ae87c4bf3c185889a226f7982dbf2439d457a2e631247241e2052",
+      "country_code": "JO",
+      "country_name": "요르단",
+      "item_id": "356a0dd8dce80ea5",
+      "last_alerted_hash": "98f341b3347ae87c4bf3c185889a226f7982dbf2439d457a2e631247241e2052",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "3",
+      "matched_reason": [
+        "country:요르단",
+        "api:travel_alarm"
+      ],
+      "published_at": "",
+      "region_type": "일부",
+      "remark": "자르카주 일부",
+      "source": "travel_alarm",
+      "title": "요르단 travel_alarm",
+      "url": ""
+    },
     "travel_alarm:JO:4cce936e48de8199": {
       "content_hash": "282c859651b9adc3414c8032621e77dcd6d8fded4013e27b85f73f72725862e6",
       "country_code": "JO",
@@ -10206,6 +11350,63 @@
       "title": "요르단 travel_alarm",
       "url": ""
     },
+    "travel_alarm:JO:4f65176cfbb7f60c": {
+      "content_hash": "282c859651b9adc3414c8032621e77dcd6d8fded4013e27b85f73f72725862e6",
+      "country_code": "JO",
+      "country_name": "요르단",
+      "item_id": "4f65176cfbb7f60c",
+      "last_alerted_hash": "282c859651b9adc3414c8032621e77dcd6d8fded4013e27b85f73f72725862e6",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "2",
+      "matched_reason": [
+        "country:요르단",
+        "api:travel_alarm"
+      ],
+      "published_at": "",
+      "region_type": "일부",
+      "remark": "",
+      "source": "travel_alarm",
+      "title": "요르단 travel_alarm",
+      "url": ""
+    },
+    "travel_alarm:JO:665e1f0093c44c30": {
+      "content_hash": "69aa21c3f8da25cb64e9197a333d8ff69448363b6de1e9a1fafa31d429b839f5",
+      "country_code": "JO",
+      "country_name": "요르단",
+      "item_id": "665e1f0093c44c30",
+      "last_alerted_hash": "69aa21c3f8da25cb64e9197a333d8ff69448363b6de1e9a1fafa31d429b839f5",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "1",
+      "matched_reason": [
+        "country:요르단",
+        "api:travel_alarm"
+      ],
+      "published_at": "",
+      "region_type": "일부",
+      "remark": "",
+      "source": "travel_alarm",
+      "title": "요르단 travel_alarm",
+      "url": ""
+    },
+    "travel_alarm:KW:09a6cbc3732cbd75": {
+      "content_hash": "37f69f2c95444146dcee6fe8f55c98bd7740d573dbfb22f96c4bcf405fc4d242",
+      "country_code": "KW",
+      "country_name": "쿠웨이트",
+      "item_id": "09a6cbc3732cbd75",
+      "last_alerted_hash": "37f69f2c95444146dcee6fe8f55c98bd7740d573dbfb22f96c4bcf405fc4d242",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "3",
+      "matched_reason": [
+        "country:쿠웨이트",
+        "api:travel_alarm"
+      ],
+      "published_at": "",
+      "region_type": "전체",
+      "remark": "전지역",
+      "source": "travel_alarm",
+      "title": "쿠웨이트 travel_alarm",
+      "url": ""
+    },
     "travel_alarm:KW:eecd43dfda2c242d": {
       "content_hash": "37f69f2c95444146dcee6fe8f55c98bd7740d573dbfb22f96c4bcf405fc4d242",
       "country_code": "KW",
@@ -10222,6 +11423,44 @@
       "region_type": "전체",
       "source": "travel_alarm",
       "title": "쿠웨이트 travel_alarm",
+      "url": ""
+    },
+    "travel_alarm:LB:2b86b335feef26f4": {
+      "content_hash": "82678a54702a5e4090b2c921a3385e19882b49bd521aa2187366053dcdd7dc2c",
+      "country_code": "LB",
+      "country_name": "레바논",
+      "item_id": "2b86b335feef26f4",
+      "last_alerted_hash": "82678a54702a5e4090b2c921a3385e19882b49bd521aa2187366053dcdd7dc2c",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "3",
+      "matched_reason": [
+        "country:레바논",
+        "api:travel_alarm"
+      ],
+      "published_at": "",
+      "region_type": "일부",
+      "remark": "4단계 지정 지역을 제외한 지역",
+      "source": "travel_alarm",
+      "title": "레바논 travel_alarm",
+      "url": ""
+    },
+    "travel_alarm:LB:4c5686d8c9d4e16b": {
+      "content_hash": "040c20c4783bbc27b0c1282b4971b474f0ae85e5d8c291b28b13cd078ba33f4f",
+      "country_code": "LB",
+      "country_name": "레바논",
+      "item_id": "4c5686d8c9d4e16b",
+      "last_alerted_hash": "040c20c4783bbc27b0c1282b4971b474f0ae85e5d8c291b28b13cd078ba33f4f",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "4",
+      "matched_reason": [
+        "country:레바논",
+        "api:travel_alarm"
+      ],
+      "published_at": "",
+      "region_type": "일부",
+      "remark": "남부 이스라엘 접경지역(블루라인으로부터 5km), 남부주, 나바티예주",
+      "source": "travel_alarm",
+      "title": "레바논 travel_alarm",
       "url": ""
     },
     "travel_alarm:LB:9639c76a2cd426dd": {
@@ -10278,6 +11517,44 @@
       "title": "오만 travel_alarm",
       "url": ""
     },
+    "travel_alarm:OM:ae13812a35a13c28": {
+      "content_hash": "cf668b06e0687e6ce6518c806e8a88d8259b86e89aa14cd32ad78c166e702dc8",
+      "country_code": "OM",
+      "country_name": "오만",
+      "item_id": "ae13812a35a13c28",
+      "last_alerted_hash": "cf668b06e0687e6ce6518c806e8a88d8259b86e89aa14cd32ad78c166e702dc8",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "3",
+      "matched_reason": [
+        "country:오만",
+        "api:travel_alarm"
+      ],
+      "published_at": "",
+      "region_type": "전체",
+      "remark": "전 지역",
+      "source": "travel_alarm",
+      "title": "오만 travel_alarm",
+      "url": ""
+    },
+    "travel_alarm:QA:5122cd4f303f684f": {
+      "content_hash": "3fc53b8460329c202ba56898151c25658e6ca4bcf56d2b197f4ecec34ea555f6",
+      "country_code": "QA",
+      "country_name": "카타르",
+      "item_id": "5122cd4f303f684f",
+      "last_alerted_hash": "3fc53b8460329c202ba56898151c25658e6ca4bcf56d2b197f4ecec34ea555f6",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "3",
+      "matched_reason": [
+        "country:카타르",
+        "api:travel_alarm"
+      ],
+      "published_at": "",
+      "region_type": "전체",
+      "remark": "전 지역",
+      "source": "travel_alarm",
+      "title": "카타르 travel_alarm",
+      "url": ""
+    },
     "travel_alarm:QA:bd1e2f967289d686": {
       "content_hash": "3fc53b8460329c202ba56898151c25658e6ca4bcf56d2b197f4ecec34ea555f6",
       "country_code": "QA",
@@ -10313,8 +11590,27 @@
       "source": "travel_alarm",
       "title": "사우디아라비아 travel_alarm",
       "url": ""
+    },
+    "travel_alarm:SA:a87cbd52f1f0d369": {
+      "content_hash": "9103cf0dc60923164dc32f24fa71f99cb69312781f23b1acca627491d5283518",
+      "country_code": "SA",
+      "country_name": "사우디아라비아",
+      "item_id": "a87cbd52f1f0d369",
+      "last_alerted_hash": "9103cf0dc60923164dc32f24fa71f99cb69312781f23b1acca627491d5283518",
+      "last_checked_at": "2026-03-09T05:48:40+00:00",
+      "level": "3",
+      "matched_reason": [
+        "country:사우디아라비아",
+        "api:travel_alarm"
+      ],
+      "published_at": "",
+      "region_type": "일부",
+      "remark": "사우디-예멘 국경 인근 180km 지역(지잔 주, 아브하(Abha), 카미스 무샤이트(Khamis Mushait)시 포함),샤이바 유전,프린스술탄 공군기지,라스 타누라",
+      "source": "travel_alarm",
+      "title": "사우디아라비아 travel_alarm",
+      "url": ""
     }
   },
-  "last_run_at": "2026-03-09T04:46:41+00:00",
+  "last_run_at": "2026-03-09T05:48:40+00:00",
   "source_failures": {}
 }
