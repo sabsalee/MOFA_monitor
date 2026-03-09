@@ -19,6 +19,25 @@
       "title": "(안전공지) UAE 전역 포함 중동 7개국 일부 지역 여행경보 3단계(철수권고) 상향",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1342081/detail?ntnCd=135"
     },
+    "country_notice:AE:1342082": {
+      "content_hash": "7518e72a70f2efe0d59a1183acb8b3455daf59f634adbf2bd5ff27e609598f96",
+      "country_code": "AE",
+      "country_name": "아랍에미리트",
+      "item_id": "1342082",
+      "last_alerted_hash": "7518e72a70f2efe0d59a1183acb8b3455daf59f634adbf2bd5ff27e609598f96",
+      "last_checked_at": "2026-03-09T07:34:23+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:아랍에미리트",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-08",
+      "region_type": "",
+      "remark": "아랍에미리트",
+      "source": "country_notice",
+      "title": "(안전공지)중동지역(UAE 포함) 여행경보단계 상향 조정 안내",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1342082/detail?ntnCd=135"
+    },
     "country_notice:BH:41": {
       "content_hash": "8d5859fa68d35c4144c52bf11099dffaebd8fa50336d76e8501ade9edfad35bf",
       "country_code": "BH",
@@ -132,6 +151,25 @@
       "source": "country_notice",
       "title": "안전공지(이스라엘민방위사령부(HFC) 안전 조치 등)",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1345748/detail?ntnCd=177"
+    },
+    "country_notice:IL:1345749": {
+      "content_hash": "1651147d09b9e21b667438a7700fad93402ff87374f5974f537c5552a5861e25",
+      "country_code": "IL",
+      "country_name": "이스라엘",
+      "item_id": "1345749",
+      "last_alerted_hash": "1651147d09b9e21b667438a7700fad93402ff87374f5974f537c5552a5861e25",
+      "last_checked_at": "2026-03-09T07:34:23+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:이스라엘",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-09",
+      "region_type": "",
+      "remark": "이스라엘",
+      "source": "country_notice",
+      "title": "이스라엘 출국 관련 안전공지",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1345749/detail?ntnCd=177"
     },
     "country_notice:IQ:1343869": {
       "content_hash": "183fa388b1012602be13e4f546b69143f9115930a4bae07f11d27bde628a4c8a",
@@ -11611,6 +11649,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-09T06:58:36+00:00",
+  "last_run_at": "2026-03-09T07:34:23+00:00",
   "source_failures": {}
 }
