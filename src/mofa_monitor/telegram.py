@@ -14,7 +14,7 @@ def send_change(config: Config, event: ChangeEvent) -> None:
     send_text(config, _build_message(event))
 
 
-def send_text(config: Config, message: str) -> None:
+def send_text(config: Config, message: str, *, silent: bool = False) -> None:
     if config.dry_run:
         print(message)
         return
@@ -25,6 +25,7 @@ def send_text(config: Config, message: str) -> None:
         "text": message,
         "disable_web_page_preview": True,
         "parse_mode": "HTML",
+        "disable_notification": silent,
     }
     data = urllib.parse.urlencode(payload).encode("utf-8")
     request = urllib.request.Request(url, data=data, method="POST")

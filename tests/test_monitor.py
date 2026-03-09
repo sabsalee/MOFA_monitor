@@ -4,7 +4,11 @@ import unittest
 
 from src.mofa_monitor.config import Config
 from src.mofa_monitor.models import MonitorItem
-from src.mofa_monitor.monitor import detect_changes, run_monitor
+from src.mofa_monitor.monitor import (
+    _build_manual_no_change_message,
+    detect_changes,
+    run_monitor,
+)
 from src.mofa_monitor.state import build_state
 
 
@@ -114,6 +118,55 @@ class ChangeDetectionTests(unittest.TestCase):
             result = run_monitor(config)
         self.assertEqual(result.changes, [])
         send_change.assert_not_called()
+
+    def test_manual_run_without_changes_sends_silent_summary(self) -> None:
+        from unittest.mock import patch
+        from pathlib import Path
+
+        item = make_item(content_hash="same")
+        config = Config(
+            data_go_kr_service_key="x",
+            telegram_bot_token="",
+            telegram_chat_id="",
+            state_path=Path("test-state.json"),
+            dry_run=True,
+            github_event_name="workflow_dispatch",
+        )
+        previous = {
+            "last_run_at": "2026-03-09T00:00:00+00:00",
+            "items": {
+                item.state_key: {
+                    "content_hash": "same",
+                    "level": "",
+                }
+            },
+            "source_failures": {},
+        }
+        with patch("src.mofa_monitor.monitor.load_state", return_value=previous), \
+             patch("src.mofa_monitor.monitor.build_state", return_value={"last_run_at": "", "items": {}, "source_failures": {}}), \
+             patch("src.mofa_monitor.monitor.save_state"), \
+             patch("src.mofa_monitor.monitor.mark_alerted", return_value={"last_run_at": "", "items": {}, "source_failures": {}}), \
+             patch("src.mofa_monitor.monitor.send_change") as send_change, \
+             patch("src.mofa_monitor.monitor.send_text") as send_text, \
+             patch("src.mofa_monitor.monitor.MofaSourceClient") as client:
+            client.return_value.fetch_all.return_value = ([item], [])
+            run_monitor(config)
+        send_change.assert_not_called()
+        send_text.assert_called_once()
+        self.assertEqual(send_text.call_args.kwargs.get("silent"), True)
+
+    def test_manual_no_change_message_format(self) -> None:
+        message = _build_manual_no_change_message(
+            [
+                make_item(content_hash="x", source="country_safety"),
+                make_item(content_hash="y", source="travel_alarm", level="3"),
+            ],
+            [],
+        )
+        self.assertIn("수동 점검 완료", message)
+        self.assertIn("새로운 정보 없음", message)
+        self.assertIn("마지막 확인", message)
+        self.assertIn("전 소스 정상 응답", message)
 
 
 if __name__ == "__main__":

@@ -1,5 +1,9 @@
 from __future__ import annotations
 
+import html
+from datetime import datetime, timezone
+from zoneinfo import ZoneInfo
+
 from .config import Config
 from .models import ChangeEvent, MonitorItem, RunResult
 from .sources import MofaSourceClient
@@ -21,6 +25,9 @@ def run_monitor(config: Config) -> RunResult:
     for change in changes:
         send_change(config, change)
         alerted_items.append(change.item)
+
+    if _should_send_manual_no_change_notice(config, changes):
+        send_text(config, _build_manual_no_change_message(current_items, source_errors), silent=True)
 
     if source_errors:
         send_text(config, _build_source_error_message(next_state.get("source_failures", {}), source_errors))
@@ -78,4 +85,27 @@ def _build_source_error_message(source_failures: dict[str, int], source_errors: 
     ]
     if degraded:
         lines.append("상태: " + ", ".join(degraded))
+    return "\n".join(lines)
+
+
+def _should_send_manual_no_change_notice(config: Config, changes: list[ChangeEvent]) -> bool:
+    return config.github_event_name == "workflow_dispatch" and not changes
+
+
+def _build_manual_no_change_message(items: list[MonitorItem], source_errors: list[str]) -> str:
+    countries = set()
+    for item in items:
+        countries.add(item.country_code)
+    checked_at = datetime.now(timezone.utc).astimezone(ZoneInfo("Asia/Seoul")).strftime("%Y-%m-%d %H:%M:%S KST")
+
+    lines = [
+        "<b>[MOFA Monitor] 수동 점검 완료</b>",
+        "<b>결과</b> 새로운 정보 없음",
+        f"<b>점검 국가</b> {len(countries)}개국",
+        f"<b>마지막 확인</b> {html.escape(checked_at)}",
+    ]
+    if source_errors:
+        lines.append(f"<b>주의</b> 일부 소스 오류 {len(source_errors)}건")
+    else:
+        lines.append("<b>상태</b> 전 소스 정상 응답")
     return "\n".join(lines)

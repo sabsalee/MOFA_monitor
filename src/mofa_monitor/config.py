@@ -43,6 +43,7 @@ class Config:
     notice_web_max_pages: int = 3
     travel_web_max_pages: int = 3
     alert_on_bootstrap: bool = False
+    github_event_name: str = ""
 
     @classmethod
     def from_env(cls, state_path: str | Path, dry_run: bool = False) -> "Config":
@@ -61,6 +62,7 @@ class Config:
             state_path=Path(state_path),
             dry_run=dry_run,
             alert_on_bootstrap=os.getenv("ALERT_ON_BOOTSTRAP", "").lower() in {"1", "true", "yes"},
+            github_event_name=os.getenv("GITHUB_EVENT_NAME", ""),
         )
 
 
