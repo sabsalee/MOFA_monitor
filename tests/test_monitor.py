@@ -2,8 +2,9 @@ from __future__ import annotations
 
 import unittest
 
+from src.mofa_monitor.config import Config
 from src.mofa_monitor.models import MonitorItem
-from src.mofa_monitor.monitor import detect_changes
+from src.mofa_monitor.monitor import detect_changes, run_monitor
 from src.mofa_monitor.state import build_state
 
 
@@ -90,6 +91,29 @@ class ChangeDetectionTests(unittest.TestCase):
         previous = {"last_run_at": "", "items": {}, "source_failures": {"travel_alarm:IR": 2}}
         state = build_state(previous, [], ["travel_alarm:IR:timeout"])
         self.assertEqual(state["source_failures"]["travel_alarm:IR"], 3)
+
+    def test_bootstrap_run_suppresses_alerts(self) -> None:
+        from unittest.mock import patch
+        from pathlib import Path
+
+        item = make_item(content_hash="hash-1")
+        config = Config(
+            data_go_kr_service_key="x",
+            telegram_bot_token="",
+            telegram_chat_id="",
+            state_path=Path("test-state.json"),
+            dry_run=True,
+        )
+        with patch("src.mofa_monitor.monitor.load_state", return_value={"last_run_at": "", "items": {}, "source_failures": {}}), \
+             patch("src.mofa_monitor.monitor.build_state", return_value={"last_run_at": "", "items": {}, "source_failures": {}}), \
+             patch("src.mofa_monitor.monitor.save_state"), \
+             patch("src.mofa_monitor.monitor.mark_alerted", return_value={"last_run_at": "", "items": {}, "source_failures": {}}), \
+             patch("src.mofa_monitor.monitor.send_change") as send_change, \
+             patch("src.mofa_monitor.monitor.MofaSourceClient") as client:
+            client.return_value.fetch_all.return_value = ([item], [])
+            result = run_monitor(config)
+        self.assertEqual(result.changes, [])
+        send_change.assert_not_called()
 
 
 if __name__ == "__main__":

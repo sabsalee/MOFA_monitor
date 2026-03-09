@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import os
+import urllib.parse
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -39,6 +40,7 @@ class Config:
     notice_max_pages: int = 3
     safety_max_pages: int = 3
     alert_max_pages: int = 2
+    alert_on_bootstrap: bool = False
 
     @classmethod
     def from_env(cls, state_path: str | Path, dry_run: bool = False) -> "Config":
@@ -51,11 +53,12 @@ class Config:
             raise ValueError(f"Missing required environment variables: {', '.join(missing)}")
 
         return cls(
-            data_go_kr_service_key=os.environ["DATA_GO_KR_SERVICE_KEY"],
+            data_go_kr_service_key=urllib.parse.unquote(os.environ["DATA_GO_KR_SERVICE_KEY"]),
             telegram_bot_token=os.getenv("TELEGRAM_BOT_TOKEN", ""),
             telegram_chat_id=os.getenv("TELEGRAM_CHAT_ID", ""),
             state_path=Path(state_path),
             dry_run=dry_run,
+            alert_on_bootstrap=os.getenv("ALERT_ON_BOOTSTRAP", "").lower() in {"1", "true", "yes"},
         )
 
 

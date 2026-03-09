@@ -12,6 +12,9 @@ def run_monitor(config: Config) -> RunResult:
     previous = load_state(config.state_path)
     current_items, source_errors = MofaSourceClient(config).fetch_all()
     changes = detect_changes(previous.get("items", {}), current_items)
+    is_bootstrap = not previous.get("items")
+    if is_bootstrap and not config.alert_on_bootstrap:
+        changes = []
     next_state = build_state(previous, current_items, source_errors)
 
     alerted_items: list[MonitorItem] = []

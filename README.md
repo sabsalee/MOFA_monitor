@@ -46,6 +46,8 @@ python3 -m src.mofa_monitor.cli --state-path ./state.json --dry-run
 
 `--dry-run`을 빼면 Telegram 발송까지 수행합니다.
 
+첫 실행은 기준선만 저장하고 알림을 보내지 않습니다. 첫 실행에서도 알림을 보내고 싶다면 `ALERT_ON_BOOTSTRAP=true`를 추가하세요.
+
 ## State Storage
 
 상태 파일은 `monitor-state` 브랜치의 `state.json`에 저장되도록 워크플로가 구성되어 있습니다.
