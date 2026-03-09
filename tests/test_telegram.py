@@ -24,11 +24,10 @@ class TelegramMessageTests(unittest.TestCase):
             remark="중북부 시나이 반도",
         )
         message = _build_message(ChangeEvent(kind="new", item=item, summary="신규 항목 감지"))
-        self.assertIn("게시: 2026-03-09", message)
-        self.assertIn("단계: 3", message)
-        self.assertIn("구역: 일부", message)
-        self.assertIn("핵심: 중북부 시나이 반도", message)
-        self.assertIn("링크: https://example.com/alert", message)
+        self.assertIn("[MOFA Monitor] 여행경보 신규", message)
+        self.assertIn("<b>정보</b> 게시 2026-03-09 | 단계 3 | 구역 일부", message)
+        self.assertIn("<b>요지</b> 중북부 시나이 반도", message)
+        self.assertIn('href="https://example.com/alert"', message)
         self.assertNotIn("매칭사유", message)
 
     def test_level_change_message_shows_transition(self) -> None:
@@ -54,7 +53,9 @@ class TelegramMessageTests(unittest.TestCase):
                 summary="경보단계 변경: 3 -> 4",
             )
         )
-        self.assertIn("단계: 3 -> 4", message)
+        self.assertIn("여행경보 단계변경", message)
+        self.assertIn("단계 3 → 4", message)
+        self.assertIn("<b>변경</b> 경보단계 변경: 3 -&gt; 4", message)
 
 
 if __name__ == "__main__":
