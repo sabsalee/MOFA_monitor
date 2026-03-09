@@ -40,6 +40,8 @@ class Config:
     notice_max_pages: int = 3
     safety_max_pages: int = 3
     alert_max_pages: int = 2
+    notice_web_max_pages: int = 3
+    travel_web_max_pages: int = 3
     alert_on_bootstrap: bool = False
 
     @classmethod

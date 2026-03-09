@@ -35,8 +35,13 @@ def build_state(previous: dict, items: list[MonitorItem], source_errors: list[st
             "last_checked_at": prior.get("last_checked_at", now),
             "level": item.level,
             "region_type": item.region_type,
+            "remark": item.remark,
         }
-        comparable_prior = {key: prior.get(key) for key in next_entry if key != "last_checked_at"}
+        comparable_prior = {
+            key: prior.get(key, "" if isinstance(next_entry.get(key), str) else next_entry.get(key))
+            for key in next_entry
+            if key != "last_checked_at"
+        }
         comparable_next = {key: next_entry.get(key) for key in next_entry if key != "last_checked_at"}
         if comparable_prior != comparable_next:
             next_entry["last_checked_at"] = now

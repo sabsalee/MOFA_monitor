@@ -70,6 +70,7 @@ def fallback_notice_items(rows: list[dict[str, str]], countries: tuple[CountrySp
                 content=content,
                 content_hash=compute_hash(row["title"], content, row["published_at"]),
                 matched_reason=(f"country:{country.name_ko}", "fallback:web"),
+                remark=row["country"],
             )
         )
     return items
@@ -95,6 +96,7 @@ def fallback_travel_items(rows: list[dict[str, str]], countries: tuple[CountrySp
                 content=content,
                 content_hash=compute_hash(row["title"], content, row["published_at"]),
                 matched_reason=(f"country:{country.name_ko}", "fallback:web"),
+                remark=row["country"],
             )
         )
     return items

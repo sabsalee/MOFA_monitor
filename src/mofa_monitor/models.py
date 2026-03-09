@@ -17,6 +17,7 @@ class MonitorItem:
     matched_reason: tuple[str, ...]
     level: str = ""
     region_type: str = ""
+    remark: str = ""
 
     @property
     def state_key(self) -> str:
@@ -37,4 +38,3 @@ class RunResult:
     changes: list[ChangeEvent] = field(default_factory=list)
     source_errors: list[str] = field(default_factory=list)
     fetched_items: list[MonitorItem] = field(default_factory=list)
-

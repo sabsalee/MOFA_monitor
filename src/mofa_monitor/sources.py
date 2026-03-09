@@ -55,12 +55,12 @@ class MofaSourceClient:
     def fetch_country_notice(self, country: CountrySpec) -> list[MonitorItem]:
         params = {"isoCode1": country.iso3}
         endpoint = "https://apis.data.go.kr/1262000/CountryNoticeService/getCountryNoticeList"
+        items: list[MonitorItem] = []
         try:
             rows = self._fetch_paginated_xml(endpoint, params, self.config.notice_max_pages)
         except SourceFetchError:
-            return self._fallback_notice_items(country)
+            rows = []
 
-        items: list[MonitorItem] = []
         for row in rows:
             item_id = pick(row, "id")
             title = pick(row, "title")
@@ -83,7 +83,12 @@ class MofaSourceClient:
                     matched_reason=(f"country:{country.name_ko}", "api:country_notice"),
                 )
             )
-        return items
+
+        for item in self._fallback_notice_items(country):
+            items.append(item)
+
+        deduped = {item.state_key: item for item in items}
+        return list(deduped.values())
 
     def fetch_country_safety(self, country: CountrySpec) -> list[MonitorItem]:
         endpoint = "https://apis.data.go.kr/1262000/CountrySafetyService/getCountrySafetyList"
@@ -136,10 +141,7 @@ class MofaSourceClient:
     def fetch_special_travel_alarm(self, country: CountrySpec) -> list[MonitorItem]:
         endpoint = "https://apis.data.go.kr/1262000/CountrySptravelAlarmService2/getCountrySptravelAlarmList2"
         params = {"cond[country_iso_alp2::EQ]": country.iso2}
-        try:
-            rows = self._fetch_paginated_json(endpoint, params, self.config.alert_max_pages)
-        except SourceFetchError:
-            return []
+        rows = self._fetch_paginated_json(endpoint, params, self.config.alert_max_pages)
 
         return self._build_travel_items(
             rows,
@@ -170,7 +172,7 @@ class MofaSourceClient:
             item_id = pick(row, "id")
             if not item_id:
                 seed = "|".join(
-                    [country.iso2, source, title, published_at, region_type, level, url]
+                    [country.iso2, source, title, published_at, region_type, level, remark, url]
                 )
                 item_id = compute_hash(seed)[:16]
             if not title:
@@ -190,18 +192,29 @@ class MofaSourceClient:
                     matched_reason=(f"country:{country.name_ko}", api_reason),
                     level=level,
                     region_type=region_type,
+                    remark=remark,
                 )
             )
         return items
 
     def _fallback_notice_items(self, country: CountrySpec) -> list[MonitorItem]:
-        html_text = self._fetch_text(EMBASSY_LIST_URL)
-        rows = parse_notice_list(html_text)
+        rows: list[dict[str, str]] = []
+        for page_index in range(1, self.config.notice_web_max_pages + 1):
+            html_text = self._fetch_text(EMBASSY_LIST_URL, {"pageIndex": str(page_index)})
+            page_rows = parse_notice_list(html_text)
+            if not page_rows:
+                break
+            rows.extend(page_rows)
         return [item for item in fallback_notice_items(rows) if item.country_code == country.iso2]
 
     def _fallback_travel_items(self, country: CountrySpec) -> list[MonitorItem]:
-        html_text = self._fetch_text(TRAVEL_LIST_URL)
-        rows = parse_travel_alert_list(html_text)
+        rows: list[dict[str, str]] = []
+        for page_index in range(1, self.config.travel_web_max_pages + 1):
+            html_text = self._fetch_text(TRAVEL_LIST_URL, {"pageIndex": str(page_index)})
+            page_rows = parse_travel_alert_list(html_text)
+            if not page_rows:
+                break
+            rows.extend(page_rows)
         return [item for item in fallback_travel_items(rows) if item.country_code == country.iso2]
 
     def _fetch_paginated_xml(self, endpoint: str, params: dict[str, str], max_pages: int) -> list[dict[str, str]]:
