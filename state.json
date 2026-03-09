@@ -475,6 +475,25 @@
       "title": "최근 중동 상황 관련 재외국민 안전공지(26.3.8.)",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1321072/detail?ntnCd=107"
     },
+    "country_notice:SA:1321073": {
+      "content_hash": "0ebfb324d3031f80f872f2c7d61f982d0881309c4ee337b9552bc47e40ecc916",
+      "country_code": "SA",
+      "country_name": "사우디아라비아",
+      "item_id": "1321073",
+      "last_alerted_hash": "0ebfb324d3031f80f872f2c7d61f982d0881309c4ee337b9552bc47e40ecc916",
+      "last_checked_at": "2026-03-09T18:32:56+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:사우디아라비아",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-09",
+      "region_type": "",
+      "remark": "사우디아라비아",
+      "source": "country_notice",
+      "title": "최근 중동 상황 관련 재외국민 안전공지(26.3.9.)",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1321073/detail?ntnCd=107"
+    },
     "country_safety:AE:10590": {
       "content_hash": "328151624b4abae968c0407d830658b3987a610e0f3389603c848dfe9324474d",
       "country_code": "AE",
@@ -11725,6 +11744,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-09T17:41:23+00:00",
+  "last_run_at": "2026-03-09T18:32:56+00:00",
   "source_failures": {}
 }
