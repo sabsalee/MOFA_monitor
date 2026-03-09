@@ -228,6 +228,25 @@
       "title": "[긴급 안전공지 3.8]",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1343870/detail?ntnCd=174"
     },
+    "country_notice:IQ:1343871": {
+      "content_hash": "7521596f01c95818a0a47caf8513c4f97b19b5d307638c0d0bde0a4a5cd86013",
+      "country_code": "IQ",
+      "country_name": "이라크",
+      "item_id": "1343871",
+      "last_alerted_hash": "7521596f01c95818a0a47caf8513c4f97b19b5d307638c0d0bde0a4a5cd86013",
+      "last_checked_at": "2026-03-09T17:41:23+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:이라크",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-09",
+      "region_type": "",
+      "remark": "이라크",
+      "source": "country_notice",
+      "title": "[긴급 안전공지 3.9.]",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1343871/detail?ntnCd=174"
+    },
     "country_notice:JO:1279961": {
       "content_hash": "bf23ac73218a69ac8659f2fdba49bc5316c9f7a61309fc772bab8c36bbf97902",
       "country_code": "JO",
@@ -11706,6 +11725,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-09T16:46:53+00:00",
+  "last_run_at": "2026-03-09T17:41:23+00:00",
   "source_failures": {}
 }
