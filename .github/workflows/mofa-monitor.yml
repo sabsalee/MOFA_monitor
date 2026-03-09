@@ -3,7 +3,7 @@ name: mofa-monitor
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17,47 * * * *"
+    - cron: "4,14,24,34,44,54 * * * *"
 
 permissions:
   contents: write

@@ -67,8 +67,8 @@ python3 -m src.mofa_monitor.cli --state-path ./state.json --dry-run
 
 ## Workflow Notes
 
-- 스케줄은 KST 기준 매시 `17분`, `47분`입니다.
-- GitHub Actions cron은 UTC를 사용하므로 워크플로에는 `17,47 * * * *`를 그대로 사용합니다.
+- 스케줄은 10분 비정시 간격입니다.
+- GitHub Actions cron은 UTC를 사용하며 현재 워크플로는 `4,14,24,34,44,54 * * * *`로 실행됩니다.
 - `monitor-state` 브랜치가 없으면 첫 실행에서 생성합니다.
 
 ## Fallback
