@@ -38,6 +38,44 @@
       "title": "(안전공지)중동지역(UAE 포함) 여행경보단계 상향 조정 안내",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1342082/detail?ntnCd=135"
     },
+    "country_notice:AE:1342083": {
+      "content_hash": "550980aeaa28fbcbe653b0341817cdc193f9a632b48daddb52e6006e7a55c969",
+      "country_code": "AE",
+      "country_name": "아랍에미리트",
+      "item_id": "1342083",
+      "last_alerted_hash": "550980aeaa28fbcbe653b0341817cdc193f9a632b48daddb52e6006e7a55c969",
+      "last_checked_at": "2026-03-10T09:01:39+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:아랍에미리트",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-10",
+      "region_type": "",
+      "remark": "아랍에미리트",
+      "source": "country_notice",
+      "title": "자이드(Zayed) 국제공항 이용 관련 안내",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1342083/detail?ntnCd=135"
+    },
+    "country_notice:AE:1342084": {
+      "content_hash": "302807571f22f3cd118ae046f4049a3bb7b41b9afefe8480eeaa9b814fa72bb6",
+      "country_code": "AE",
+      "country_name": "아랍에미리트",
+      "item_id": "1342084",
+      "last_alerted_hash": "302807571f22f3cd118ae046f4049a3bb7b41b9afefe8480eeaa9b814fa72bb6",
+      "last_checked_at": "2026-03-10T09:01:39+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:아랍에미리트",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-10",
+      "region_type": "",
+      "remark": "아랍에미리트",
+      "source": "country_notice",
+      "title": "(재강조) 공항 등 주요시설 내 사진 및 동영상 촬영 엄금(구금 및 벌금형 사례 발생!!)",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1342084/detail?ntnCd=135"
+    },
     "country_notice:BH:41": {
       "content_hash": "8d5859fa68d35c4144c52bf11099dffaebd8fa50336d76e8501ade9edfad35bf",
       "country_code": "BH",
@@ -113,6 +151,25 @@
       "source": "country_notice",
       "title": "중동 7개국 일부 지역 여행경보 3단계(철수권고)로 상향",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/44/detail?ntnCd=288"
+    },
+    "country_notice:BH:45": {
+      "content_hash": "6d78a2ca6fbec2d64b435ef3874a3a33660fd70ed9111bf2a700ba0bacdc0f8e",
+      "country_code": "BH",
+      "country_name": "바레인",
+      "item_id": "45",
+      "last_alerted_hash": "6d78a2ca6fbec2d64b435ef3874a3a33660fd70ed9111bf2a700ba0bacdc0f8e",
+      "last_checked_at": "2026-03-10T09:01:39+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:바레인",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-10",
+      "region_type": "",
+      "remark": "바레인",
+      "source": "country_notice",
+      "title": "이란 공습 관련 안전 공지(3.10.)",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/45/detail?ntnCd=288"
     },
     "country_notice:EG:1345739": {
       "content_hash": "36f097e61cb67328c42c2f9499436dff37c070a9ff1f32e15aedba44732bbf45",
@@ -11763,6 +11820,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-10T08:05:11+00:00",
+  "last_run_at": "2026-03-10T09:01:39+00:00",
   "source_failures": {}
 }
