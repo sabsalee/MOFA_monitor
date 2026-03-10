@@ -247,6 +247,25 @@
       "title": "이스라엘 출국 관련 안전공지",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1345749/detail?ntnCd=177"
     },
+    "country_notice:IL:1345750": {
+      "content_hash": "db832406669ecb9eb801889b8c35b0cbeb08c6edb986c7007dd6023c1f6a18dd",
+      "country_code": "IL",
+      "country_name": "이스라엘",
+      "item_id": "1345750",
+      "last_alerted_hash": "db832406669ecb9eb801889b8c35b0cbeb08c6edb986c7007dd6023c1f6a18dd",
+      "last_checked_at": "2026-03-10T14:33:23+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:이스라엘",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-10",
+      "region_type": "",
+      "remark": "이스라엘",
+      "source": "country_notice",
+      "title": "이스라엘 출국 관련 안전공지(교통부, 특수상황에 대한 항공권(유료) 특별 배정 접수)",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1345750/detail?ntnCd=177"
+    },
     "country_notice:IQ:1343869": {
       "content_hash": "183fa388b1012602be13e4f546b69143f9115930a4bae07f11d27bde628a4c8a",
       "country_code": "IQ",
@@ -531,6 +550,25 @@
       "source": "country_notice",
       "title": "중동항공(MEA) 예약 가능한 운항 항공 목록(3.9, 12:00 기준)",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1338512/detail?ntnCd=40"
+    },
+    "country_notice:LB:1338513": {
+      "content_hash": "965636b9f8cc56c4039882fb933d5d353bc4298e3cd6466866bb65be1e3d4f5c",
+      "country_code": "LB",
+      "country_name": "레바논",
+      "item_id": "1338513",
+      "last_alerted_hash": "965636b9f8cc56c4039882fb933d5d353bc4298e3cd6466866bb65be1e3d4f5c",
+      "last_checked_at": "2026-03-10T14:33:23+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:레바논",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-10",
+      "region_type": "",
+      "remark": "레바논",
+      "source": "country_notice",
+      "title": "중동항공(MEA) 예약 가능한 운항 항공 목록(3.10, 10:00 기준)",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1338513/detail?ntnCd=40"
     },
     "country_notice:SA:1321072": {
       "content_hash": "246dad0c0fe12bc3d596a4a566e4ce95108c3504ee265d7cf3e8890a07b30d52",
@@ -11820,6 +11858,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-10T13:38:10+00:00",
+  "last_run_at": "2026-03-10T14:33:23+00:00",
   "source_failures": {}
 }
