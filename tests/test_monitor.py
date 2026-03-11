@@ -6,6 +6,7 @@ from src.mofa_monitor.config import Config
 from src.mofa_monitor.models import MonitorItem
 from src.mofa_monitor.monitor import (
     _build_manual_no_change_message,
+    _build_source_error_message,
     _source_status_label,
     detect_changes,
     run_monitor,
@@ -189,6 +190,18 @@ class ChangeDetectionTests(unittest.TestCase):
         self.assertIn("[PARTIAL]", _source_status_label("country_notice", ["country_notice:IR:timeout"]))
         all_failed = [f"travel_alarm:{country.iso2}:timeout" for country in __import__("src.mofa_monitor.config", fromlist=["MONITORED_COUNTRIES"]).MONITORED_COUNTRIES]
         self.assertIn("[FAILED]", _source_status_label("travel_alarm", all_failed))
+
+    def test_source_error_message_lists_all_channels_and_details(self) -> None:
+        message = _build_source_error_message(
+            {"country_safety:IR": 3},
+            ["country_safety:IR:HTTP Error 500: Internal Server Error"],
+        )
+        self.assertIn("소스 오류 발생", message)
+        self.assertIn("- 공관공지 <b>[CHECKED]</b>", message)
+        self.assertIn("- 외교부 안전정보 <b>[PARTIAL]</b> 1건 오류", message)
+        self.assertIn("- 여행경보 <b>[CHECKED]</b>", message)
+        self.assertIn("- 특별여행주의보 <b>[CHECKED]</b>", message)
+        self.assertIn("외교부 안전정보 [IR] HTTP Error 500: Internal Server Error (연속 3회)", message)
 
 
 if __name__ == "__main__":
