@@ -11877,19 +11877,19 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-11T13:46:25+00:00",
+  "last_run_at": "2026-03-11T14:42:22+00:00",
   "source_failures": {
-    "country_safety:AE": 5,
-    "country_safety:BH": 5,
-    "country_safety:EG": 5,
-    "country_safety:IL": 5,
-    "country_safety:IQ": 5,
-    "country_safety:IR": 5,
-    "country_safety:JO": 5,
-    "country_safety:KW": 5,
-    "country_safety:LB": 5,
-    "country_safety:OM": 5,
-    "country_safety:QA": 5,
-    "country_safety:SA": 5
+    "country_safety:AE": 6,
+    "country_safety:BH": 6,
+    "country_safety:EG": 6,
+    "country_safety:IL": 6,
+    "country_safety:IQ": 6,
+    "country_safety:IR": 6,
+    "country_safety:JO": 6,
+    "country_safety:KW": 6,
+    "country_safety:LB": 6,
+    "country_safety:OM": 6,
+    "country_safety:QA": 6,
+    "country_safety:SA": 6
   }
 }
