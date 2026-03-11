@@ -76,6 +76,25 @@
       "title": "(재강조) 공항 등 주요시설 내 사진 및 동영상 촬영 엄금(구금 및 벌금형 사례 발생!!)",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1342084/detail?ntnCd=135"
     },
+    "country_notice:AE:1342085": {
+      "content_hash": "1132c5a2ae672c0ddb0a6ce6dcc0d6d8f0f17ac4b0f9e9c46f44e88c7030abaa",
+      "country_code": "AE",
+      "country_name": "아랍에미리트",
+      "item_id": "1342085",
+      "last_alerted_hash": "1132c5a2ae672c0ddb0a6ce6dcc0d6d8f0f17ac4b0f9e9c46f44e88c7030abaa",
+      "last_checked_at": "2026-03-11T09:58:29+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:아랍에미리트",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-11",
+      "region_type": "",
+      "remark": "아랍에미리트",
+      "source": "country_notice",
+      "title": "현지 발생 공습‧피격 현장 촬영 및 유포 행위 관련 주의 안내",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1342085/detail?ntnCd=135"
+    },
     "country_notice:BH:41": {
       "content_hash": "8d5859fa68d35c4144c52bf11099dffaebd8fa50336d76e8501ade9edfad35bf",
       "country_code": "BH",
@@ -11858,6 +11877,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-11T08:58:57+00:00",
+  "last_run_at": "2026-03-11T09:58:29+00:00",
   "source_failures": {}
 }
