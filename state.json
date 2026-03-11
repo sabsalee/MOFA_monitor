@@ -11877,6 +11877,19 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-11T10:57:02+00:00",
-  "source_failures": {}
+  "last_run_at": "2026-03-11T11:52:28+00:00",
+  "source_failures": {
+    "country_safety:AE": 1,
+    "country_safety:BH": 1,
+    "country_safety:EG": 1,
+    "country_safety:IL": 1,
+    "country_safety:IQ": 1,
+    "country_safety:IR": 1,
+    "country_safety:JO": 1,
+    "country_safety:KW": 1,
+    "country_safety:LB": 1,
+    "country_safety:OM": 1,
+    "country_safety:QA": 1,
+    "country_safety:SA": 1
+  }
 }
