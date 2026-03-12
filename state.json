@@ -228,6 +228,25 @@
       "title": "이란 공습 관련 안전 공지(3.12.)",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/46/detail?ntnCd=288"
     },
+    "country_notice:BH:47": {
+      "content_hash": "98cad1326772736cbd3fae69bafc4310855753d5aa35499db404f5da7ee055c3",
+      "country_code": "BH",
+      "country_name": "바레인",
+      "item_id": "47",
+      "last_alerted_hash": "98cad1326772736cbd3fae69bafc4310855753d5aa35499db404f5da7ee055c3",
+      "last_checked_at": "2026-03-12T21:26:41+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:바레인",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-13",
+      "region_type": "",
+      "remark": "바레인",
+      "source": "country_notice",
+      "title": "중동 지역 내 금융·경제 시설 이용 시 안전 유의 안내",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/47/detail?ntnCd=288"
+    },
     "country_notice:EG:1345739": {
       "content_hash": "36f097e61cb67328c42c2f9499436dff37c070a9ff1f32e15aedba44732bbf45",
       "country_code": "EG",
@@ -12010,6 +12029,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-12T20:52:16+00:00",
+  "last_run_at": "2026-03-12T21:26:41+00:00",
   "source_failures": {}
 }
