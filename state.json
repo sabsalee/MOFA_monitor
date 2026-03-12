@@ -11749,6 +11749,25 @@
       "title": "요르단 travel_alarm",
       "url": ""
     },
+    "travel_alarm:JO:ca3ac3b340f00990": {
+      "content_hash": "b2aced74d59f3cc0269784f09489386a78bb228b3f7efb721e0cf415fbd5cdca",
+      "country_code": "JO",
+      "country_name": "요르단",
+      "item_id": "ca3ac3b340f00990",
+      "last_alerted_hash": "b2aced74d59f3cc0269784f09489386a78bb228b3f7efb721e0cf415fbd5cdca",
+      "last_checked_at": "2026-03-12T15:37:19+00:00",
+      "level": "3",
+      "matched_reason": [
+        "country:요르단",
+        "api:travel_alarm"
+      ],
+      "published_at": "",
+      "region_type": "일부",
+      "remark": "자르카 시 동편 경계선의 동부 지역",
+      "source": "travel_alarm",
+      "title": "요르단 travel_alarm",
+      "url": ""
+    },
     "travel_alarm:KW:09a6cbc3732cbd75": {
       "content_hash": "37f69f2c95444146dcee6fe8f55c98bd7740d573dbfb22f96c4bcf405fc4d242",
       "country_code": "KW",
@@ -11820,6 +11839,25 @@
       "published_at": "",
       "region_type": "일부",
       "remark": "남부 이스라엘 접경지역(블루라인으로부터 5km), 남부주, 나바티예주",
+      "source": "travel_alarm",
+      "title": "레바논 travel_alarm",
+      "url": ""
+    },
+    "travel_alarm:LB:5f0df29e89a8cecd": {
+      "content_hash": "f9381146f5df8e54345dbca79d08900b433c149899e6a82cd7a37efe3856f949",
+      "country_code": "LB",
+      "country_name": "레바논",
+      "item_id": "5f0df29e89a8cecd",
+      "last_alerted_hash": "f9381146f5df8e54345dbca79d08900b433c149899e6a82cd7a37efe3856f949",
+      "last_checked_at": "2026-03-12T15:37:19+00:00",
+      "level": "4",
+      "matched_reason": [
+        "country:레바논",
+        "api:travel_alarm"
+      ],
+      "published_at": "",
+      "region_type": "일부",
+      "remark": "남부 이스라엘 접경 지역(블루라인으로부터 5km 포함), 남부주, 나바티예주, 다히예의 일부 지역(베이루트 공항 및 M51 도로 제외)",
       "source": "travel_alarm",
       "title": "레바논 travel_alarm",
       "url": ""
@@ -11972,6 +12010,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-12T14:28:20+00:00",
+  "last_run_at": "2026-03-12T15:37:19+00:00",
   "source_failures": {}
 }
