@@ -437,6 +437,25 @@
       "title": "[테헤란 유류저장소 폭격 관련 안전공지]",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1325812/detail?ntnCd=176"
     },
+    "country_notice:IR:1325814": {
+      "content_hash": "aa8c69a98ae8559ebc09fc8ab47df62bde095be75ffbe38b419b65bd4aac2d70",
+      "country_code": "IR",
+      "country_name": "이란",
+      "item_id": "1325814",
+      "last_alerted_hash": "aa8c69a98ae8559ebc09fc8ab47df62bde095be75ffbe38b419b65bd4aac2d70",
+      "last_checked_at": "2026-03-13T02:50:56+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:이란",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-13",
+      "region_type": "",
+      "remark": "이란",
+      "source": "country_notice",
+      "title": "이란 내 주요시설 폭격 관련 안전공지(3.12)",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1325814/detail?ntnCd=176"
+    },
     "country_notice:JO:1279961": {
       "content_hash": "bf23ac73218a69ac8659f2fdba49bc5316c9f7a61309fc772bab8c36bbf97902",
       "country_code": "JO",
@@ -12029,6 +12048,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-13T00:00:43+00:00",
+  "last_run_at": "2026-03-13T02:50:56+00:00",
   "source_failures": {}
 }
