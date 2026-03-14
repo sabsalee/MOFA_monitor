@@ -114,6 +114,25 @@
       "title": "(안전공지) 두바이 내 유대 커뮤니티, 이스라엘 관련 시설 접근 유의",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1342086/detail?ntnCd=135"
     },
+    "country_notice:AE:1342087": {
+      "content_hash": "2cd53037705985806f95c0c489d5497c75e7494490f5565eecf42b02f9aa6184",
+      "country_code": "AE",
+      "country_name": "아랍에미리트",
+      "item_id": "1342087",
+      "last_alerted_hash": "2cd53037705985806f95c0c489d5497c75e7494490f5565eecf42b02f9aa6184",
+      "last_checked_at": "2026-03-14T19:04:10+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:아랍에미리트",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-14",
+      "region_type": "",
+      "remark": "아랍에미리트",
+      "source": "country_notice",
+      "title": "(안전공지) 이란의 UAE 항구 공격 가능성에 따른 주의 안내",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1342087/detail?ntnCd=135"
+    },
     "country_notice:BH:41": {
       "content_hash": "8d5859fa68d35c4144c52bf11099dffaebd8fa50336d76e8501ade9edfad35bf",
       "country_code": "BH",
@@ -12086,6 +12105,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-14T18:23:22+00:00",
+  "last_run_at": "2026-03-14T19:04:10+00:00",
   "source_failures": {}
 }
