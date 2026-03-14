@@ -12067,6 +12067,9 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-14T01:06:06+00:00",
-  "source_failures": {}
+  "last_run_at": "2026-03-14T03:38:10+00:00",
+  "source_failures": {
+    "country_notice:BH:<urlopen error _ssl.c:1000": 1,
+    "country_notice:OM:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c": 1
+  }
 }
