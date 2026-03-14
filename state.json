@@ -437,6 +437,25 @@
       "title": "[안전공지 3.13]",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1343874/detail?ntnCd=174"
     },
+    "country_notice:IQ:1343875": {
+      "content_hash": "d8aa9f9713cf002f4e1e2618e9dd9036dfe0c40e316a41b21525e06e393332d4",
+      "country_code": "IQ",
+      "country_name": "이라크",
+      "item_id": "1343875",
+      "last_alerted_hash": "d8aa9f9713cf002f4e1e2618e9dd9036dfe0c40e316a41b21525e06e393332d4",
+      "last_checked_at": "2026-03-14T13:57:13+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:이라크",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-14",
+      "region_type": "",
+      "remark": "이라크",
+      "source": "country_notice",
+      "title": "[안전공지 3.14]",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1343875/detail?ntnCd=174"
+    },
     "country_notice:IR:1325812": {
       "content_hash": "156b81a936b5e5d875f31faa6fc8092e4adf219b0566de6b0d1f105b44e8308a",
       "country_code": "IR",
@@ -12067,6 +12086,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-14T13:15:15+00:00",
+  "last_run_at": "2026-03-14T13:57:13+00:00",
   "source_failures": {}
 }
