@@ -361,6 +361,25 @@
       "title": "이스라엘 출국 관련 안전공지(교통부, 특수상황에 대한 항공권(유료) 특별 배정 접수)",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1345750/detail?ntnCd=177"
     },
+    "country_notice:IL:1345753": {
+      "content_hash": "e01f0741e8f733a585ec8fb318eb1b46020fdc453f46ce1eab5c75fd9a5cfc9a",
+      "country_code": "IL",
+      "country_name": "이스라엘",
+      "item_id": "1345753",
+      "last_alerted_hash": "e01f0741e8f733a585ec8fb318eb1b46020fdc453f46ce1eab5c75fd9a5cfc9a",
+      "last_checked_at": "2026-03-15T10:02:13+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:이스라엘",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-15",
+      "region_type": "",
+      "remark": "이스라엘",
+      "source": "country_notice",
+      "title": "안전공지(이스라엘민방위사령부(HFC) 안전조치 등)",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1345753/detail?ntnCd=177"
+    },
     "country_notice:IQ:1343869": {
       "content_hash": "183fa388b1012602be13e4f546b69143f9115930a4bae07f11d27bde628a4c8a",
       "country_code": "IQ",
@@ -12105,6 +12124,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-15T09:31:51+00:00",
+  "last_run_at": "2026-03-15T10:02:13+00:00",
   "source_failures": {}
 }
