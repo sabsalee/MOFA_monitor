@@ -133,6 +133,25 @@
       "title": "(안전공지) 이란의 UAE 항구 공격 가능성에 따른 주의 안내",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1342087/detail?ntnCd=135"
     },
+    "country_notice:AE:1342088": {
+      "content_hash": "3a1b90a82abad20f28c8f15463e46ce9617f399265b4cfdfea635dd29c0fe44e",
+      "country_code": "AE",
+      "country_name": "아랍에미리트",
+      "item_id": "1342088",
+      "last_alerted_hash": "3a1b90a82abad20f28c8f15463e46ce9617f399265b4cfdfea635dd29c0fe44e",
+      "last_checked_at": "2026-03-16T11:36:23+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:아랍에미리트",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-16",
+      "region_type": "",
+      "remark": "아랍에미리트",
+      "source": "country_notice",
+      "title": "이란의 미사일‧드론 공격 관련 신변안전 유의 안내",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1342088/detail?ntnCd=135"
+    },
     "country_notice:BH:41": {
       "content_hash": "8d5859fa68d35c4144c52bf11099dffaebd8fa50336d76e8501ade9edfad35bf",
       "country_code": "BH",
@@ -12124,6 +12143,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-16T10:35:42+00:00",
+  "last_run_at": "2026-03-16T11:36:23+00:00",
   "source_failures": {}
 }
