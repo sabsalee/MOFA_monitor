@@ -646,6 +646,25 @@
       "title": "요르단 안전 정보",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1279964/detail?ntnCd=165"
     },
+    "country_notice:JO:1279966": {
+      "content_hash": "7556536d2435e47022788a3863564c544b63154cf675fbdb497d24986042ddaf",
+      "country_code": "JO",
+      "country_name": "요르단",
+      "item_id": "1279966",
+      "last_alerted_hash": "7556536d2435e47022788a3863564c544b63154cf675fbdb497d24986042ddaf",
+      "last_checked_at": "2026-03-18T18:44:18+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:요르단",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-18",
+      "region_type": "",
+      "remark": "요르단",
+      "source": "country_notice",
+      "title": "중동 상황 관련 안전공지(3.18.)",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1279966/detail?ntnCd=165"
+    },
     "country_notice:LB:1338505": {
       "content_hash": "7bad5e6da35247018bc31efda32231532235bfa1fd88219ce44048d6e0184ff4",
       "country_code": "LB",
@@ -12181,6 +12200,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-18T17:47:00+00:00",
+  "last_run_at": "2026-03-18T18:44:18+00:00",
   "source_failures": {}
 }
