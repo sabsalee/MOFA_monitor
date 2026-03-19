@@ -874,6 +874,25 @@
       "title": "[긴급] 베이루트 다운타운 인근 지역 공습 관련 안전 공지",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1338520/detail?ntnCd=40"
     },
+    "country_notice:OM:1327464": {
+      "content_hash": "161bbf198b355f08a24bc0d2ddb2bff125dda51aba421feab0119bf557bd065c",
+      "country_code": "OM",
+      "country_name": "오만",
+      "item_id": "1327464",
+      "last_alerted_hash": "161bbf198b355f08a24bc0d2ddb2bff125dda51aba421feab0119bf557bd065c",
+      "last_checked_at": "2026-03-19T09:59:27+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:오만",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-19",
+      "region_type": "",
+      "remark": "오만",
+      "source": "country_notice",
+      "title": "(안전 공지) 해상 및 해안가 미확인 부유물 발견 시 안전 주의 안내",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1327464/detail?ntnCd=162"
+    },
     "country_notice:SA:1321072": {
       "content_hash": "246dad0c0fe12bc3d596a4a566e4ce95108c3504ee265d7cf3e8890a07b30d52",
       "country_code": "SA",
@@ -12200,6 +12219,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-19T09:00:15+00:00",
+  "last_run_at": "2026-03-19T09:59:27+00:00",
   "source_failures": {}
 }
