@@ -874,6 +874,25 @@
       "title": "[긴급] 베이루트 다운타운 인근 지역 공습 관련 안전 공지",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1338520/detail?ntnCd=40"
     },
+    "country_notice:LB:1338521": {
+      "content_hash": "12791a30d47b10f0d0c954488e286d22a556c66a62456c979a9c1309d68ae53d",
+      "country_code": "LB",
+      "country_name": "레바논",
+      "item_id": "1338521",
+      "last_alerted_hash": "12791a30d47b10f0d0c954488e286d22a556c66a62456c979a9c1309d68ae53d",
+      "last_checked_at": "2026-03-19T15:02:27+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:레바논",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-19",
+      "region_type": "",
+      "remark": "레바논",
+      "source": "country_notice",
+      "title": "폭격시 안전 행동요령",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1338521/detail?ntnCd=40"
+    },
     "country_notice:OM:1327464": {
       "content_hash": "161bbf198b355f08a24bc0d2ddb2bff125dda51aba421feab0119bf557bd065c",
       "country_code": "OM",
@@ -12219,6 +12238,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-19T13:58:53+00:00",
+  "last_run_at": "2026-03-19T15:02:27+00:00",
   "source_failures": {}
 }
