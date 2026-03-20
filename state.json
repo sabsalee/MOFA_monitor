@@ -12127,6 +12127,25 @@
       "title": "레바논 travel_alarm",
       "url": ""
     },
+    "travel_alarm:LB:b6f2251488f56cbf": {
+      "content_hash": "dd1bb4c9c8539fa71daae0856336bea2698ae58bcc49ed5461c785cfe6158831",
+      "country_code": "LB",
+      "country_name": "레바논",
+      "item_id": "b6f2251488f56cbf",
+      "last_alerted_hash": "dd1bb4c9c8539fa71daae0856336bea2698ae58bcc49ed5461c785cfe6158831",
+      "last_checked_at": "2026-03-20T15:06:11+00:00",
+      "level": "4",
+      "matched_reason": [
+        "country:레바논",
+        "api:travel_alarm"
+      ],
+      "published_at": "",
+      "region_type": "일부",
+      "remark": "남부 이스라엘 접경 지역(블루라인으로부터 5km 포함), 남부주, 나바티예주, 다히예의 일부 지역(베이루트 공항 및 M51 도로 제외),바알베크헤르멜주,베카주(세베카구),베타주(라샤야구)",
+      "source": "travel_alarm",
+      "title": "레바논 travel_alarm",
+      "url": ""
+    },
     "travel_alarm:LB:e866b61032a01d20": {
       "content_hash": "82678a54702a5e4090b2c921a3385e19882b49bd521aa2187366053dcdd7dc2c",
       "country_code": "LB",
@@ -12255,8 +12274,27 @@
       "source": "travel_alarm",
       "title": "사우디아라비아 travel_alarm",
       "url": ""
+    },
+    "travel_alarm:SA:db74b95fc6e73c37": {
+      "content_hash": "adb0bcdecf43111392418df644c659090340a9bd78aac5718dca6705ab4bea52",
+      "country_code": "SA",
+      "country_name": "사우디아라비아",
+      "item_id": "db74b95fc6e73c37",
+      "last_alerted_hash": "adb0bcdecf43111392418df644c659090340a9bd78aac5718dca6705ab4bea52",
+      "last_checked_at": "2026-03-20T15:06:11+00:00",
+      "level": "3",
+      "matched_reason": [
+        "country:사우디아라비아",
+        "api:travel_alarm"
+      ],
+      "published_at": "",
+      "region_type": "일부",
+      "remark": "사우디-예멘 국경 인근 180km 지역(지잔 주, 아브하(Abha), 카미스 무샤이트(Khamis Mushait)시 포함),샤이바 유전,프린스술탄 공군기지,라스 타누라,얀부",
+      "source": "travel_alarm",
+      "title": "사우디아라비아 travel_alarm",
+      "url": ""
     }
   },
-  "last_run_at": "2026-03-20T14:12:46+00:00",
+  "last_run_at": "2026-03-20T15:06:11+00:00",
   "source_failures": {}
 }
