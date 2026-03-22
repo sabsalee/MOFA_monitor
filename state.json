@@ -570,6 +570,25 @@
       "title": "[안전공지 3.21]",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1343879/detail?ntnCd=174"
     },
+    "country_notice:IQ:1343880": {
+      "content_hash": "796bdebaac9a7191a7c6c27107104a60850264e7bcd991de185669a5ccfa10d2",
+      "country_code": "IQ",
+      "country_name": "이라크",
+      "item_id": "1343880",
+      "last_alerted_hash": "796bdebaac9a7191a7c6c27107104a60850264e7bcd991de185669a5ccfa10d2",
+      "last_checked_at": "2026-03-22T18:54:17+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:이라크",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-22",
+      "region_type": "",
+      "remark": "이라크",
+      "source": "country_notice",
+      "title": "[안전공지 3.22]",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1343880/detail?ntnCd=174"
+    },
     "country_notice:IR:1325812": {
       "content_hash": "156b81a936b5e5d875f31faa6fc8092e4adf219b0566de6b0d1f105b44e8308a",
       "country_code": "IR",
@@ -949,6 +968,25 @@
       "source": "country_notice",
       "title": "[레바논 내 여행금지 구역 확대 안전 공지]",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1338522/detail?ntnCd=40"
+    },
+    "country_notice:LB:1338523": {
+      "content_hash": "d322aab8dfce71834658625bd4e578cc0b8a7d9a3064a8baa934ad2e663b660f",
+      "country_code": "LB",
+      "country_name": "레바논",
+      "item_id": "1338523",
+      "last_alerted_hash": "d322aab8dfce71834658625bd4e578cc0b8a7d9a3064a8baa934ad2e663b660f",
+      "last_checked_at": "2026-03-22T18:54:17+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:레바논",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-22",
+      "region_type": "",
+      "remark": "레바논",
+      "source": "country_notice",
+      "title": "[ 레바논 전역 상황 악화에 대한 안전공지]",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1338523/detail?ntnCd=40"
     },
     "country_notice:OM:1327464": {
       "content_hash": "161bbf198b355f08a24bc0d2ddb2bff125dda51aba421feab0119bf557bd065c",
@@ -12333,6 +12371,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-22T18:01:11+00:00",
+  "last_run_at": "2026-03-22T18:54:17+00:00",
   "source_failures": {}
 }
