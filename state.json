@@ -665,25 +665,6 @@
       "title": "(안전 공지) 해상 및 해안가 미확인 부유물 발견 시 안전 주의 안내",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1327464/detail?ntnCd=162"
     },
-    "country_notice:SA:1321073": {
-      "content_hash": "0ebfb324d3031f80f872f2c7d61f982d0881309c4ee337b9552bc47e40ecc916",
-      "country_code": "SA",
-      "country_name": "사우디아라비아",
-      "item_id": "1321073",
-      "last_alerted_hash": "0ebfb324d3031f80f872f2c7d61f982d0881309c4ee337b9552bc47e40ecc916",
-      "last_checked_at": "2026-03-09T18:32:56+00:00",
-      "level": "",
-      "matched_reason": [
-        "country:사우디아라비아",
-        "fallback:web"
-      ],
-      "published_at": "2026-03-09",
-      "region_type": "",
-      "remark": "사우디아라비아",
-      "source": "country_notice",
-      "title": "최근 중동 상황 관련 재외국민 안전공지(26.3.9.)",
-      "url": "https://www.0404.go.kr/bbs/embsyNtc/1321073/detail?ntnCd=107"
-    },
     "country_notice:SA:1321074": {
       "content_hash": "cf01d446c7e6c6ed13e70b115878eb7d6d579ef6231ec5f94135d744b79494ec",
       "country_code": "SA",
@@ -11610,6 +11591,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-23T17:42:08+00:00",
+  "last_run_at": "2026-03-23T18:36:31+00:00",
   "source_failures": {}
 }
