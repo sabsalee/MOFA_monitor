@@ -114,6 +114,25 @@
       "title": "이란의 미사일‧드론 공격 관련 신변안전 유의 안내",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1342088/detail?ntnCd=135"
     },
+    "country_notice:AE:1342089": {
+      "content_hash": "4817f75de072fa6d06cc84162fbe4785e0f76e662b55908adf4e2c9460d10392",
+      "country_code": "AE",
+      "country_name": "아랍에미리트",
+      "item_id": "1342089",
+      "last_alerted_hash": "4817f75de072fa6d06cc84162fbe4785e0f76e662b55908adf4e2c9460d10392",
+      "last_checked_at": "2026-03-23T14:46:12+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:아랍에미리트",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-23",
+      "region_type": "",
+      "remark": "아랍에미리트",
+      "source": "country_notice",
+      "title": "이란의 주요 인프라 시설 공격 위협 관련 신변안전 및 사전 대비 안내",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1342089/detail?ntnCd=135"
+    },
     "country_notice:BH:45": {
       "content_hash": "6d78a2ca6fbec2d64b435ef3874a3a33660fd70ed9111bf2a700ba0bacdc0f8e",
       "country_code": "BH",
@@ -171,6 +190,44 @@
       "title": "중동 지역 내 금융·경제 시설 이용 시 안전 유의 안내",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/47/detail?ntnCd=288"
     },
+    "country_notice:BH:49": {
+      "content_hash": "6a9183688aa7da84e14ace6ef959bec1468cb1ae07531157bc529e454286d238",
+      "country_code": "BH",
+      "country_name": "바레인",
+      "item_id": "49",
+      "last_alerted_hash": "6a9183688aa7da84e14ace6ef959bec1468cb1ae07531157bc529e454286d238",
+      "last_checked_at": "2026-03-23T14:46:12+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:바레인",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-23",
+      "region_type": "",
+      "remark": "바레인",
+      "source": "country_notice",
+      "title": "호르무즈 해협 봉쇄로 인한 미-이란 긴장 고조 관련 안전 공지",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/49/detail?ntnCd=288"
+    },
+    "country_notice:EG:1345743": {
+      "content_hash": "a5b858ffcbfcf2bca8b1468850ab06ce1aa2e7035f97560d5c7acc4b645090f6",
+      "country_code": "EG",
+      "country_name": "이집트",
+      "item_id": "1345743",
+      "last_alerted_hash": "a5b858ffcbfcf2bca8b1468850ab06ce1aa2e7035f97560d5c7acc4b645090f6",
+      "last_checked_at": "2026-03-23T14:46:12+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:이집트",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-23",
+      "region_type": "",
+      "remark": "이집트",
+      "source": "country_notice",
+      "title": "[안전공지] 주재국 내 에너지/IT/담수화/방산 시설 등 접근 자제 안내",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1345743/detail?ntnCd=178"
+    },
     "country_notice:IL:1345750": {
       "content_hash": "db832406669ecb9eb801889b8c35b0cbeb08c6edb986c7007dd6023c1f6a18dd",
       "country_code": "IL",
@@ -208,6 +265,25 @@
       "source": "country_notice",
       "title": "안전공지(이스라엘민방위사령부(HFC) 안전조치 등)",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1345753/detail?ntnCd=177"
+    },
+    "country_notice:IL:1345754": {
+      "content_hash": "ff96a7175f13d2c59db1bb7480b648b573fb91c0527b8c4e2d43a0966fab639b",
+      "country_code": "IL",
+      "country_name": "이스라엘",
+      "item_id": "1345754",
+      "last_alerted_hash": "ff96a7175f13d2c59db1bb7480b648b573fb91c0527b8c4e2d43a0966fab639b",
+      "last_checked_at": "2026-03-23T14:46:12+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:이스라엘",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-23",
+      "region_type": "",
+      "remark": "이스라엘",
+      "source": "country_notice",
+      "title": "[이스라엘] 이란의 탄도미사일 공격 피해 관련 안전 공지",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1345754/detail?ntnCd=177"
     },
     "country_notice:IQ:1343871": {
       "content_hash": "7521596f01c95818a0a47caf8513c4f97b19b5d307638c0d0bde0a4a5cd86013",
@@ -418,6 +494,25 @@
       "title": "중동 상황 관련 안전공지(3.18.)",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1279966/detail?ntnCd=165"
     },
+    "country_notice:JO:1279967": {
+      "content_hash": "eac720cbf192e6cd86e19291af98827cb07965e12ee0d41f0d26cf1f7173422a",
+      "country_code": "JO",
+      "country_name": "요르단",
+      "item_id": "1279967",
+      "last_alerted_hash": "eac720cbf192e6cd86e19291af98827cb07965e12ee0d41f0d26cf1f7173422a",
+      "last_checked_at": "2026-03-23T14:46:12+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:요르단",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-23",
+      "region_type": "",
+      "remark": "요르단",
+      "source": "country_notice",
+      "title": "호르무즈 해협 봉쇄로 인한 미-이란 긴장 고조 관련 안전 공지(3.23.)",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1279967/detail?ntnCd=165"
+    },
     "country_notice:LB:1338513": {
       "content_hash": "965636b9f8cc56c4039882fb933d5d353bc4298e3cd6466866bb65be1e3d4f5c",
       "country_code": "LB",
@@ -607,6 +702,25 @@
       "source": "country_notice",
       "title": "최근 중동 상황 관련 재외국민 안전공지(26.3.9.)",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1321073/detail?ntnCd=107"
+    },
+    "country_notice:SA:1321074": {
+      "content_hash": "cf01d446c7e6c6ed13e70b115878eb7d6d579ef6231ec5f94135d744b79494ec",
+      "country_code": "SA",
+      "country_name": "사우디아라비아",
+      "item_id": "1321074",
+      "last_alerted_hash": "cf01d446c7e6c6ed13e70b115878eb7d6d579ef6231ec5f94135d744b79494ec",
+      "last_checked_at": "2026-03-23T14:46:12+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:사우디아라비아",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-23",
+      "region_type": "",
+      "remark": "사우디아라비아",
+      "source": "country_notice",
+      "title": "중동 상황 악화 우려 관련 재외국민 안전공지(26.3.23.)",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1321074/detail?ntnCd=107"
     },
     "country_safety:AE:10590": {
       "content_hash": "328151624b4abae968c0407d830658b3987a610e0f3389603c848dfe9324474d",
@@ -11515,6 +11629,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-23T13:44:31+00:00",
+  "last_run_at": "2026-03-23T14:46:12+00:00",
   "source_failures": {}
 }
