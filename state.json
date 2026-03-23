@@ -11647,24 +11647,6 @@
       "title": "사우디아라비아 special_travel_alarm",
       "url": "https://www.0404.go.kr/files/image/COUNTRY_107/3"
     },
-    "travel_alarm:AE:45917201ebc04748": {
-      "content_hash": "c1effce0b2abd3b0e70cda150d66a0159843a6f094c19014c797d2ad0edf5b50",
-      "country_code": "AE",
-      "country_name": "아랍에미리트",
-      "item_id": "45917201ebc04748",
-      "last_alerted_hash": "",
-      "last_checked_at": "2026-03-09T04:46:41+00:00",
-      "level": "3",
-      "matched_reason": [
-        "country:아랍에미리트",
-        "api:travel_alarm"
-      ],
-      "published_at": "",
-      "region_type": "전체",
-      "source": "travel_alarm",
-      "title": "아랍에미리트 travel_alarm",
-      "url": ""
-    },
     "travel_alarm:AE:f0a4bcc6fa3f10d6": {
       "content_hash": "c1effce0b2abd3b0e70cda150d66a0159843a6f094c19014c797d2ad0edf5b50",
       "country_code": "AE",
@@ -11682,24 +11664,6 @@
       "remark": "전 지역",
       "source": "travel_alarm",
       "title": "아랍에미리트 travel_alarm",
-      "url": ""
-    },
-    "travel_alarm:BH:4a0882b1d29ae6ab": {
-      "content_hash": "52e8547f29c8465cbe3353a4dc22a9b061950a083cd5e86795fa1cb67f013738",
-      "country_code": "BH",
-      "country_name": "바레인",
-      "item_id": "4a0882b1d29ae6ab",
-      "last_alerted_hash": "",
-      "last_checked_at": "2026-03-09T04:46:41+00:00",
-      "level": "3",
-      "matched_reason": [
-        "country:바레인",
-        "api:travel_alarm"
-      ],
-      "published_at": "",
-      "region_type": "전체",
-      "source": "travel_alarm",
-      "title": "바레인 travel_alarm",
       "url": ""
     },
     "travel_alarm:BH:ceb46c551ab5e57c": {
@@ -11778,60 +11742,6 @@
       "title": "이집트 travel_alarm",
       "url": ""
     },
-    "travel_alarm:EG:e82b742e18b6bf32": {
-      "content_hash": "592813c0cfeb3e3c01b54a5cf1054f9afbdeb6e06c8d12972edff718610956d5",
-      "country_code": "EG",
-      "country_name": "이집트",
-      "item_id": "e82b742e18b6bf32",
-      "last_alerted_hash": "",
-      "last_checked_at": "2026-03-09T04:46:41+00:00",
-      "level": "2",
-      "matched_reason": [
-        "country:이집트",
-        "api:travel_alarm"
-      ],
-      "published_at": "",
-      "region_type": "일부",
-      "source": "travel_alarm",
-      "title": "이집트 travel_alarm",
-      "url": ""
-    },
-    "travel_alarm:EG:f9a8cb9e126a742f": {
-      "content_hash": "3a6df11184c536957d81434875ec733dd58b2080bd82ca2ae6f21378ce5a61da",
-      "country_code": "EG",
-      "country_name": "이집트",
-      "item_id": "f9a8cb9e126a742f",
-      "last_alerted_hash": "",
-      "last_checked_at": "2026-03-09T04:46:41+00:00",
-      "level": "3",
-      "matched_reason": [
-        "country:이집트",
-        "api:travel_alarm"
-      ],
-      "published_at": "",
-      "region_type": "일부",
-      "source": "travel_alarm",
-      "title": "이집트 travel_alarm",
-      "url": ""
-    },
-    "travel_alarm:EG:fd8fdd8c08bdc6d0": {
-      "content_hash": "e39df203d9f75b58f7466cf9e6aa007e678bcc40e7c2802e44c74e52f01cc387",
-      "country_code": "EG",
-      "country_name": "이집트",
-      "item_id": "fd8fdd8c08bdc6d0",
-      "last_alerted_hash": "",
-      "last_checked_at": "2026-03-09T04:46:41+00:00",
-      "level": "1",
-      "matched_reason": [
-        "country:이집트",
-        "api:travel_alarm"
-      ],
-      "published_at": "",
-      "region_type": "일부",
-      "source": "travel_alarm",
-      "title": "이집트 travel_alarm",
-      "url": ""
-    },
     "travel_alarm:IL:6c7a96bab8c1105c": {
       "content_hash": "71ba8dbbb60b34a64e78d6de71750c5bf69c314167fd71197e582fe105a6d150",
       "country_code": "IL",
@@ -11847,42 +11757,6 @@
       "published_at": "",
       "region_type": "일부",
       "remark": "이스라엘 북부 레바논 접경지역(국경으로부터 4km), 가자지구",
-      "source": "travel_alarm",
-      "title": "이스라엘 travel_alarm",
-      "url": ""
-    },
-    "travel_alarm:IL:c773ba8042bb2d81": {
-      "content_hash": "71ba8dbbb60b34a64e78d6de71750c5bf69c314167fd71197e582fe105a6d150",
-      "country_code": "IL",
-      "country_name": "이스라엘",
-      "item_id": "c773ba8042bb2d81",
-      "last_alerted_hash": "",
-      "last_checked_at": "2026-03-09T04:46:41+00:00",
-      "level": "4",
-      "matched_reason": [
-        "country:이스라엘",
-        "api:travel_alarm"
-      ],
-      "published_at": "",
-      "region_type": "일부",
-      "source": "travel_alarm",
-      "title": "이스라엘 travel_alarm",
-      "url": ""
-    },
-    "travel_alarm:IL:eabe9ae61713fb41": {
-      "content_hash": "075120ca42b9592f5ce7e5a2b9e3ee53960f941e1da936b5b4b47c40ebccf800",
-      "country_code": "IL",
-      "country_name": "이스라엘",
-      "item_id": "eabe9ae61713fb41",
-      "last_alerted_hash": "",
-      "last_checked_at": "2026-03-09T04:46:41+00:00",
-      "level": "3",
-      "matched_reason": [
-        "country:이스라엘",
-        "api:travel_alarm"
-      ],
-      "published_at": "",
-      "region_type": "일부",
       "source": "travel_alarm",
       "title": "이스라엘 travel_alarm",
       "url": ""
@@ -11925,42 +11799,6 @@
       "title": "이라크 travel_alarm",
       "url": ""
     },
-    "travel_alarm:IQ:9350cf572acccc5a": {
-      "content_hash": "b36cbbf2b4b0d236ba19297071f2b3a9357927cf7f54ca4898434b8b0ac48095",
-      "country_code": "IQ",
-      "country_name": "이라크",
-      "item_id": "9350cf572acccc5a",
-      "last_alerted_hash": "",
-      "last_checked_at": "2026-03-09T04:46:41+00:00",
-      "level": "4",
-      "matched_reason": [
-        "country:이라크",
-        "api:travel_alarm"
-      ],
-      "published_at": "",
-      "region_type": "전체",
-      "source": "travel_alarm",
-      "title": "이라크 travel_alarm",
-      "url": ""
-    },
-    "travel_alarm:IR:126bab200e9313df": {
-      "content_hash": "5c600761907318abe80e0bb957d70fdcf946bb712a6a372021a06354d243171b",
-      "country_code": "IR",
-      "country_name": "이란",
-      "item_id": "126bab200e9313df",
-      "last_alerted_hash": "",
-      "last_checked_at": "2026-03-09T04:46:41+00:00",
-      "level": "4",
-      "matched_reason": [
-        "country:이란",
-        "api:travel_alarm"
-      ],
-      "published_at": "",
-      "region_type": "전체",
-      "source": "travel_alarm",
-      "title": "이란 travel_alarm",
-      "url": ""
-    },
     "travel_alarm:IR:51095610fb0c95ab": {
       "content_hash": "5c600761907318abe80e0bb957d70fdcf946bb712a6a372021a06354d243171b",
       "country_code": "IR",
@@ -11980,42 +11818,6 @@
       "title": "이란 travel_alarm",
       "url": ""
     },
-    "travel_alarm:JO:043f3d4b1f5e78e3": {
-      "content_hash": "69aa21c3f8da25cb64e9197a333d8ff69448363b6de1e9a1fafa31d429b839f5",
-      "country_code": "JO",
-      "country_name": "요르단",
-      "item_id": "043f3d4b1f5e78e3",
-      "last_alerted_hash": "",
-      "last_checked_at": "2026-03-09T04:46:41+00:00",
-      "level": "1",
-      "matched_reason": [
-        "country:요르단",
-        "api:travel_alarm"
-      ],
-      "published_at": "",
-      "region_type": "일부",
-      "source": "travel_alarm",
-      "title": "요르단 travel_alarm",
-      "url": ""
-    },
-    "travel_alarm:JO:3195b741820ba795": {
-      "content_hash": "98f341b3347ae87c4bf3c185889a226f7982dbf2439d457a2e631247241e2052",
-      "country_code": "JO",
-      "country_name": "요르단",
-      "item_id": "3195b741820ba795",
-      "last_alerted_hash": "",
-      "last_checked_at": "2026-03-09T04:46:41+00:00",
-      "level": "3",
-      "matched_reason": [
-        "country:요르단",
-        "api:travel_alarm"
-      ],
-      "published_at": "",
-      "region_type": "일부",
-      "source": "travel_alarm",
-      "title": "요르단 travel_alarm",
-      "url": ""
-    },
     "travel_alarm:JO:356a0dd8dce80ea5": {
       "content_hash": "98f341b3347ae87c4bf3c185889a226f7982dbf2439d457a2e631247241e2052",
       "country_code": "JO",
@@ -12031,24 +11833,6 @@
       "published_at": "",
       "region_type": "일부",
       "remark": "자르카주 일부",
-      "source": "travel_alarm",
-      "title": "요르단 travel_alarm",
-      "url": ""
-    },
-    "travel_alarm:JO:4cce936e48de8199": {
-      "content_hash": "282c859651b9adc3414c8032621e77dcd6d8fded4013e27b85f73f72725862e6",
-      "country_code": "JO",
-      "country_name": "요르단",
-      "item_id": "4cce936e48de8199",
-      "last_alerted_hash": "",
-      "last_checked_at": "2026-03-09T04:46:41+00:00",
-      "level": "2",
-      "matched_reason": [
-        "country:요르단",
-        "api:travel_alarm"
-      ],
-      "published_at": "",
-      "region_type": "일부",
       "source": "travel_alarm",
       "title": "요르단 travel_alarm",
       "url": ""
@@ -12129,24 +11913,6 @@
       "title": "쿠웨이트 travel_alarm",
       "url": ""
     },
-    "travel_alarm:KW:eecd43dfda2c242d": {
-      "content_hash": "37f69f2c95444146dcee6fe8f55c98bd7740d573dbfb22f96c4bcf405fc4d242",
-      "country_code": "KW",
-      "country_name": "쿠웨이트",
-      "item_id": "eecd43dfda2c242d",
-      "last_alerted_hash": "",
-      "last_checked_at": "2026-03-09T04:46:41+00:00",
-      "level": "3",
-      "matched_reason": [
-        "country:쿠웨이트",
-        "api:travel_alarm"
-      ],
-      "published_at": "",
-      "region_type": "전체",
-      "source": "travel_alarm",
-      "title": "쿠웨이트 travel_alarm",
-      "url": ""
-    },
     "travel_alarm:LB:2b86b335feef26f4": {
       "content_hash": "82678a54702a5e4090b2c921a3385e19882b49bd521aa2187366053dcdd7dc2c",
       "country_code": "LB",
@@ -12204,24 +11970,6 @@
       "title": "레바논 travel_alarm",
       "url": ""
     },
-    "travel_alarm:LB:9639c76a2cd426dd": {
-      "content_hash": "040c20c4783bbc27b0c1282b4971b474f0ae85e5d8c291b28b13cd078ba33f4f",
-      "country_code": "LB",
-      "country_name": "레바논",
-      "item_id": "9639c76a2cd426dd",
-      "last_alerted_hash": "",
-      "last_checked_at": "2026-03-09T04:46:41+00:00",
-      "level": "4",
-      "matched_reason": [
-        "country:레바논",
-        "api:travel_alarm"
-      ],
-      "published_at": "",
-      "region_type": "일부",
-      "source": "travel_alarm",
-      "title": "레바논 travel_alarm",
-      "url": ""
-    },
     "travel_alarm:LB:b6f2251488f56cbf": {
       "content_hash": "dd1bb4c9c8539fa71daae0856336bea2698ae58bcc49ed5461c785cfe6158831",
       "country_code": "LB",
@@ -12239,42 +11987,6 @@
       "remark": "남부 이스라엘 접경 지역(블루라인으로부터 5km 포함), 남부주, 나바티예주, 다히예의 일부 지역(베이루트 공항 및 M51 도로 제외),바알베크헤르멜주,베카주(세베카구),베타주(라샤야구)",
       "source": "travel_alarm",
       "title": "레바논 travel_alarm",
-      "url": ""
-    },
-    "travel_alarm:LB:e866b61032a01d20": {
-      "content_hash": "82678a54702a5e4090b2c921a3385e19882b49bd521aa2187366053dcdd7dc2c",
-      "country_code": "LB",
-      "country_name": "레바논",
-      "item_id": "e866b61032a01d20",
-      "last_alerted_hash": "",
-      "last_checked_at": "2026-03-09T04:46:41+00:00",
-      "level": "3",
-      "matched_reason": [
-        "country:레바논",
-        "api:travel_alarm"
-      ],
-      "published_at": "",
-      "region_type": "일부",
-      "source": "travel_alarm",
-      "title": "레바논 travel_alarm",
-      "url": ""
-    },
-    "travel_alarm:OM:8c77cf6a667946f5": {
-      "content_hash": "cf668b06e0687e6ce6518c806e8a88d8259b86e89aa14cd32ad78c166e702dc8",
-      "country_code": "OM",
-      "country_name": "오만",
-      "item_id": "8c77cf6a667946f5",
-      "last_alerted_hash": "",
-      "last_checked_at": "2026-03-09T04:46:41+00:00",
-      "level": "3",
-      "matched_reason": [
-        "country:오만",
-        "api:travel_alarm"
-      ],
-      "published_at": "",
-      "region_type": "전체",
-      "source": "travel_alarm",
-      "title": "오만 travel_alarm",
       "url": ""
     },
     "travel_alarm:OM:ae13812a35a13c28": {
@@ -12313,42 +12025,6 @@
       "remark": "전 지역",
       "source": "travel_alarm",
       "title": "카타르 travel_alarm",
-      "url": ""
-    },
-    "travel_alarm:QA:bd1e2f967289d686": {
-      "content_hash": "3fc53b8460329c202ba56898151c25658e6ca4bcf56d2b197f4ecec34ea555f6",
-      "country_code": "QA",
-      "country_name": "카타르",
-      "item_id": "bd1e2f967289d686",
-      "last_alerted_hash": "",
-      "last_checked_at": "2026-03-09T04:46:41+00:00",
-      "level": "3",
-      "matched_reason": [
-        "country:카타르",
-        "api:travel_alarm"
-      ],
-      "published_at": "",
-      "region_type": "전체",
-      "source": "travel_alarm",
-      "title": "카타르 travel_alarm",
-      "url": ""
-    },
-    "travel_alarm:SA:77ec16211e796757": {
-      "content_hash": "9103cf0dc60923164dc32f24fa71f99cb69312781f23b1acca627491d5283518",
-      "country_code": "SA",
-      "country_name": "사우디아라비아",
-      "item_id": "77ec16211e796757",
-      "last_alerted_hash": "",
-      "last_checked_at": "2026-03-09T04:46:41+00:00",
-      "level": "3",
-      "matched_reason": [
-        "country:사우디아라비아",
-        "api:travel_alarm"
-      ],
-      "published_at": "",
-      "region_type": "일부",
-      "source": "travel_alarm",
-      "title": "사우디아라비아 travel_alarm",
       "url": ""
     },
     "travel_alarm:SA:a87cbd52f1f0d369": {
@@ -12390,6 +12066,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-23T04:02:54+00:00",
+  "last_run_at": "2026-03-23T05:46:54+00:00",
   "source_failures": {}
 }
