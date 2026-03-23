@@ -1,24 +1,5 @@
 {
   "items": {
-    "country_notice:AE:1342081": {
-      "content_hash": "8d65979f754aec5bae7b99b71337c9d2d8de086398ea595a1083a10ae0bdef28",
-      "country_code": "AE",
-      "country_name": "아랍에미리트",
-      "item_id": "1342081",
-      "last_alerted_hash": "8d65979f754aec5bae7b99b71337c9d2d8de086398ea595a1083a10ae0bdef28",
-      "last_checked_at": "2026-03-09T05:48:40+00:00",
-      "level": "",
-      "matched_reason": [
-        "country:아랍에미리트",
-        "fallback:web"
-      ],
-      "published_at": "2026-03-08",
-      "region_type": "",
-      "remark": "아랍에미리트",
-      "source": "country_notice",
-      "title": "(안전공지) UAE 전역 포함 중동 7개국 일부 지역 여행경보 3단계(철수권고) 상향",
-      "url": "https://www.0404.go.kr/bbs/embsyNtc/1342081/detail?ntnCd=135"
-    },
     "country_notice:AE:1342082": {
       "content_hash": "7518e72a70f2efe0d59a1183acb8b3455daf59f634adbf2bd5ff27e609598f96",
       "country_code": "AE",
@@ -152,82 +133,6 @@
       "title": "이란의 미사일‧드론 공격 관련 신변안전 유의 안내",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1342088/detail?ntnCd=135"
     },
-    "country_notice:BH:41": {
-      "content_hash": "8d5859fa68d35c4144c52bf11099dffaebd8fa50336d76e8501ade9edfad35bf",
-      "country_code": "BH",
-      "country_name": "바레인",
-      "item_id": "41",
-      "last_alerted_hash": "8d5859fa68d35c4144c52bf11099dffaebd8fa50336d76e8501ade9edfad35bf",
-      "last_checked_at": "2026-03-09T05:48:40+00:00",
-      "level": "",
-      "matched_reason": [
-        "country:바레인",
-        "fallback:web"
-      ],
-      "published_at": "2026-03-06",
-      "region_type": "",
-      "remark": "바레인",
-      "source": "country_notice",
-      "title": "이란 공습 관련 안전 공지(3.5.)",
-      "url": "https://www.0404.go.kr/bbs/embsyNtc/41/detail?ntnCd=288"
-    },
-    "country_notice:BH:42": {
-      "content_hash": "223fc0b88c87fcd788d72f067704697be1e774a10ae56b732bd755b3a04841a4",
-      "country_code": "BH",
-      "country_name": "바레인",
-      "item_id": "42",
-      "last_alerted_hash": "223fc0b88c87fcd788d72f067704697be1e774a10ae56b732bd755b3a04841a4",
-      "last_checked_at": "2026-03-09T05:48:40+00:00",
-      "level": "",
-      "matched_reason": [
-        "country:바레인",
-        "fallback:web"
-      ],
-      "published_at": "2026-03-06",
-      "region_type": "",
-      "remark": "바레인",
-      "source": "country_notice",
-      "title": "이란 공습 관련 안전 공지(3.6.)",
-      "url": "https://www.0404.go.kr/bbs/embsyNtc/42/detail?ntnCd=288"
-    },
-    "country_notice:BH:43": {
-      "content_hash": "5cb7585a19920ecada4f422a55c2708a6214685df0a53e2317bbbbb8f09c9821",
-      "country_code": "BH",
-      "country_name": "바레인",
-      "item_id": "43",
-      "last_alerted_hash": "5cb7585a19920ecada4f422a55c2708a6214685df0a53e2317bbbbb8f09c9821",
-      "last_checked_at": "2026-03-09T05:48:40+00:00",
-      "level": "",
-      "matched_reason": [
-        "country:바레인",
-        "fallback:web"
-      ],
-      "published_at": "2026-03-08",
-      "region_type": "",
-      "remark": "바레인",
-      "source": "country_notice",
-      "title": "이란 공습 관련 안전 공지(3.8.)",
-      "url": "https://www.0404.go.kr/bbs/embsyNtc/43/detail?ntnCd=288"
-    },
-    "country_notice:BH:44": {
-      "content_hash": "5b3ab417dacc54c7cb0dc196fb6b46c736a982992347103d3b41ac1a73340e33",
-      "country_code": "BH",
-      "country_name": "바레인",
-      "item_id": "44",
-      "last_alerted_hash": "5b3ab417dacc54c7cb0dc196fb6b46c736a982992347103d3b41ac1a73340e33",
-      "last_checked_at": "2026-03-09T05:48:40+00:00",
-      "level": "",
-      "matched_reason": [
-        "country:바레인",
-        "fallback:web"
-      ],
-      "published_at": "2026-03-08",
-      "region_type": "",
-      "remark": "바레인",
-      "source": "country_notice",
-      "title": "중동 7개국 일부 지역 여행경보 3단계(철수권고)로 상향",
-      "url": "https://www.0404.go.kr/bbs/embsyNtc/44/detail?ntnCd=288"
-    },
     "country_notice:BH:45": {
       "content_hash": "6d78a2ca6fbec2d64b435ef3874a3a33660fd70ed9111bf2a700ba0bacdc0f8e",
       "country_code": "BH",
@@ -285,25 +190,6 @@
       "title": "중동 지역 내 금융·경제 시설 이용 시 안전 유의 안내",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/47/detail?ntnCd=288"
     },
-    "country_notice:EG:1345739": {
-      "content_hash": "36f097e61cb67328c42c2f9499436dff37c070a9ff1f32e15aedba44732bbf45",
-      "country_code": "EG",
-      "country_name": "이집트",
-      "item_id": "1345739",
-      "last_alerted_hash": "36f097e61cb67328c42c2f9499436dff37c070a9ff1f32e15aedba44732bbf45",
-      "last_checked_at": "2026-03-09T05:48:40+00:00",
-      "level": "",
-      "matched_reason": [
-        "country:이집트",
-        "fallback:web"
-      ],
-      "published_at": "2026-03-09",
-      "region_type": "",
-      "remark": "이집트",
-      "source": "country_notice",
-      "title": "[안전공지] 중동 7개국 일부 지역 여행경보 3단계로(철수권고) 상향",
-      "url": "https://www.0404.go.kr/bbs/embsyNtc/1345739/detail?ntnCd=178"
-    },
     "country_notice:EG:1345740": {
       "content_hash": "736b53b5b92f46a974efbfb1b4218cfa846c1e24888cfdc527f921592b4f4ec2",
       "country_code": "EG",
@@ -322,25 +208,6 @@
       "source": "country_notice",
       "title": "[안전공지] 중동 일부 국제공항 공항 내 출입 제한 관련 안내",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1345740/detail?ntnCd=178"
-    },
-    "country_notice:IL:1345748": {
-      "content_hash": "b80af166225d0f2068bfee262b24919c1e32813d83ac74ad74cf70ed53fb59e7",
-      "country_code": "IL",
-      "country_name": "이스라엘",
-      "item_id": "1345748",
-      "last_alerted_hash": "b80af166225d0f2068bfee262b24919c1e32813d83ac74ad74cf70ed53fb59e7",
-      "last_checked_at": "2026-03-09T05:48:40+00:00",
-      "level": "",
-      "matched_reason": [
-        "country:이스라엘",
-        "fallback:web"
-      ],
-      "published_at": "2026-03-08",
-      "region_type": "",
-      "remark": "이스라엘",
-      "source": "country_notice",
-      "title": "안전공지(이스라엘민방위사령부(HFC) 안전 조치 등)",
-      "url": "https://www.0404.go.kr/bbs/embsyNtc/1345748/detail?ntnCd=177"
     },
     "country_notice:IL:1345749": {
       "content_hash": "1651147d09b9e21b667438a7700fad93402ff87374f5974f537c5552a5861e25",
@@ -398,44 +265,6 @@
       "source": "country_notice",
       "title": "안전공지(이스라엘민방위사령부(HFC) 안전조치 등)",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1345753/detail?ntnCd=177"
-    },
-    "country_notice:IQ:1343869": {
-      "content_hash": "183fa388b1012602be13e4f546b69143f9115930a4bae07f11d27bde628a4c8a",
-      "country_code": "IQ",
-      "country_name": "이라크",
-      "item_id": "1343869",
-      "last_alerted_hash": "183fa388b1012602be13e4f546b69143f9115930a4bae07f11d27bde628a4c8a",
-      "last_checked_at": "2026-03-09T05:48:40+00:00",
-      "level": "",
-      "matched_reason": [
-        "country:이라크",
-        "fallback:web"
-      ],
-      "published_at": "2026-03-07",
-      "region_type": "",
-      "remark": "이라크",
-      "source": "country_notice",
-      "title": "[긴급 안전공지 3.7]",
-      "url": "https://www.0404.go.kr/bbs/embsyNtc/1343869/detail?ntnCd=174"
-    },
-    "country_notice:IQ:1343870": {
-      "content_hash": "895bedb432a7bf46bf012296755a62520be9969944b18651a1c9d477e4ff3901",
-      "country_code": "IQ",
-      "country_name": "이라크",
-      "item_id": "1343870",
-      "last_alerted_hash": "895bedb432a7bf46bf012296755a62520be9969944b18651a1c9d477e4ff3901",
-      "last_checked_at": "2026-03-09T05:48:40+00:00",
-      "level": "",
-      "matched_reason": [
-        "country:이라크",
-        "fallback:web"
-      ],
-      "published_at": "2026-03-08",
-      "region_type": "",
-      "remark": "이라크",
-      "source": "country_notice",
-      "title": "[긴급 안전공지 3.8]",
-      "url": "https://www.0404.go.kr/bbs/embsyNtc/1343870/detail?ntnCd=174"
     },
     "country_notice:IQ:1343871": {
       "content_hash": "7521596f01c95818a0a47caf8513c4f97b19b5d307638c0d0bde0a4a5cd86013",
@@ -627,82 +456,6 @@
       "title": "이란 내 주요시설 폭격 관련 안전공지(3.12)",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1325814/detail?ntnCd=176"
     },
-    "country_notice:JO:1279961": {
-      "content_hash": "bf23ac73218a69ac8659f2fdba49bc5316c9f7a61309fc772bab8c36bbf97902",
-      "country_code": "JO",
-      "country_name": "요르단",
-      "item_id": "1279961",
-      "last_alerted_hash": "bf23ac73218a69ac8659f2fdba49bc5316c9f7a61309fc772bab8c36bbf97902",
-      "last_checked_at": "2026-03-09T05:48:40+00:00",
-      "level": "",
-      "matched_reason": [
-        "country:요르단",
-        "fallback:web"
-      ],
-      "published_at": "2026-03-07",
-      "region_type": "",
-      "remark": "요르단",
-      "source": "country_notice",
-      "title": "요르단 암만공항발 항공편 현황(3.7(토))",
-      "url": "https://www.0404.go.kr/bbs/embsyNtc/1279961/detail?ntnCd=165"
-    },
-    "country_notice:JO:1279962": {
-      "content_hash": "a6b8c69a6d82a6d362edd25620c063193c7b551a2755401bc2a55377f01408d1",
-      "country_code": "JO",
-      "country_name": "요르단",
-      "item_id": "1279962",
-      "last_alerted_hash": "a6b8c69a6d82a6d362edd25620c063193c7b551a2755401bc2a55377f01408d1",
-      "last_checked_at": "2026-03-09T05:48:40+00:00",
-      "level": "",
-      "matched_reason": [
-        "country:요르단",
-        "fallback:web"
-      ],
-      "published_at": "2026-03-08",
-      "region_type": "",
-      "remark": "요르단",
-      "source": "country_notice",
-      "title": "요르단 일부지역에 대한 여행경보 격상",
-      "url": "https://www.0404.go.kr/bbs/embsyNtc/1279962/detail?ntnCd=165"
-    },
-    "country_notice:JO:1279963": {
-      "content_hash": "c9d6cd8e9379443adac484dee77532273d81da7e8b2e75a523b2eb96f46ffd00",
-      "country_code": "JO",
-      "country_name": "요르단",
-      "item_id": "1279963",
-      "last_alerted_hash": "c9d6cd8e9379443adac484dee77532273d81da7e8b2e75a523b2eb96f46ffd00",
-      "last_checked_at": "2026-03-09T05:48:40+00:00",
-      "level": "",
-      "matched_reason": [
-        "country:요르단",
-        "fallback:web"
-      ],
-      "published_at": "2026-03-08",
-      "region_type": "",
-      "remark": "요르단",
-      "source": "country_notice",
-      "title": "요르단 암만공항발 항공편 현황(3.8(일))",
-      "url": "https://www.0404.go.kr/bbs/embsyNtc/1279963/detail?ntnCd=165"
-    },
-    "country_notice:JO:1279964": {
-      "content_hash": "27c8e0fb6ecb86a577a0ea67d46132b62909b226af918b34499cbc96d0d6f6e4",
-      "country_code": "JO",
-      "country_name": "요르단",
-      "item_id": "1279964",
-      "last_alerted_hash": "27c8e0fb6ecb86a577a0ea67d46132b62909b226af918b34499cbc96d0d6f6e4",
-      "last_checked_at": "2026-03-09T05:48:40+00:00",
-      "level": "",
-      "matched_reason": [
-        "country:요르단",
-        "fallback:web"
-      ],
-      "published_at": "2026-03-08",
-      "region_type": "",
-      "remark": "요르단",
-      "source": "country_notice",
-      "title": "요르단 안전 정보",
-      "url": "https://www.0404.go.kr/bbs/embsyNtc/1279964/detail?ntnCd=165"
-    },
     "country_notice:JO:1279966": {
       "content_hash": "7556536d2435e47022788a3863564c544b63154cf675fbdb497d24986042ddaf",
       "country_code": "JO",
@@ -721,101 +474,6 @@
       "source": "country_notice",
       "title": "중동 상황 관련 안전공지(3.18.)",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1279966/detail?ntnCd=165"
-    },
-    "country_notice:LB:1338505": {
-      "content_hash": "7bad5e6da35247018bc31efda32231532235bfa1fd88219ce44048d6e0184ff4",
-      "country_code": "LB",
-      "country_name": "레바논",
-      "item_id": "1338505",
-      "last_alerted_hash": "7bad5e6da35247018bc31efda32231532235bfa1fd88219ce44048d6e0184ff4",
-      "last_checked_at": "2026-03-09T05:48:40+00:00",
-      "level": "",
-      "matched_reason": [
-        "country:레바논",
-        "fallback:web"
-      ],
-      "published_at": "2026-03-07",
-      "region_type": "",
-      "remark": "레바논",
-      "source": "country_notice",
-      "title": "[긴급 안전공지] 베카 북부 지역 이동 금지 및 조속한 출국 권고",
-      "url": "https://www.0404.go.kr/bbs/embsyNtc/1338505/detail?ntnCd=40"
-    },
-    "country_notice:LB:1338506": {
-      "content_hash": "e2800b896de63b839a8c46ea81d97f078f9af4d597f4cafe6a3007a9e23cdca5",
-      "country_code": "LB",
-      "country_name": "레바논",
-      "item_id": "1338506",
-      "last_alerted_hash": "e2800b896de63b839a8c46ea81d97f078f9af4d597f4cafe6a3007a9e23cdca5",
-      "last_checked_at": "2026-03-09T05:48:40+00:00",
-      "level": "",
-      "matched_reason": [
-        "country:레바논",
-        "fallback:web"
-      ],
-      "published_at": "2026-03-07",
-      "region_type": "",
-      "remark": "레바논",
-      "source": "country_notice",
-      "title": "중동항공(MEA) 예약 가능한 운항 항공 목록(3.7, 11:00 기준)",
-      "url": "https://www.0404.go.kr/bbs/embsyNtc/1338506/detail?ntnCd=40"
-    },
-    "country_notice:LB:1338507": {
-      "content_hash": "1e91641a35b9d0f42e94401e76f03d21f265525b59875fa91b4be2be289e2a6e",
-      "country_code": "LB",
-      "country_name": "레바논",
-      "item_id": "1338507",
-      "last_alerted_hash": "1e91641a35b9d0f42e94401e76f03d21f265525b59875fa91b4be2be289e2a6e",
-      "last_checked_at": "2026-03-09T05:48:40+00:00",
-      "level": "",
-      "matched_reason": [
-        "country:레바논",
-        "fallback:web"
-      ],
-      "published_at": "2026-03-08",
-      "region_type": "",
-      "remark": "레바논",
-      "source": "country_notice",
-      "title": "[긴급 안전공지] 베이루트 남부 지역 관련 안전 안내",
-      "url": "https://www.0404.go.kr/bbs/embsyNtc/1338507/detail?ntnCd=40"
-    },
-    "country_notice:LB:1338509": {
-      "content_hash": "041c7f65e68c91b2e0171ee7aa044236299ecc7ed237f3f8da945283591a0af2",
-      "country_code": "LB",
-      "country_name": "레바논",
-      "item_id": "1338509",
-      "last_alerted_hash": "041c7f65e68c91b2e0171ee7aa044236299ecc7ed237f3f8da945283591a0af2",
-      "last_checked_at": "2026-03-09T05:48:40+00:00",
-      "level": "",
-      "matched_reason": [
-        "country:레바논",
-        "fallback:web"
-      ],
-      "published_at": "2026-03-08",
-      "region_type": "",
-      "remark": "레바논",
-      "source": "country_notice",
-      "title": "[긴급 안전공지] 베이루트 라우셰(Raoucheh)지역 이스라엘 공습 관련",
-      "url": "https://www.0404.go.kr/bbs/embsyNtc/1338509/detail?ntnCd=40"
-    },
-    "country_notice:LB:1338510": {
-      "content_hash": "8f9ab8e413dd9486569ae05ffe810dd92c8961721157b76f9afe862c8a179ecb",
-      "country_code": "LB",
-      "country_name": "레바논",
-      "item_id": "1338510",
-      "last_alerted_hash": "8f9ab8e413dd9486569ae05ffe810dd92c8961721157b76f9afe862c8a179ecb",
-      "last_checked_at": "2026-03-09T05:48:40+00:00",
-      "level": "",
-      "matched_reason": [
-        "country:레바논",
-        "fallback:web"
-      ],
-      "published_at": "2026-03-08",
-      "region_type": "",
-      "remark": "레바논",
-      "source": "country_notice",
-      "title": "중동항공(MEA) 예약 가능한 운항 항공 목록(3.8, 10:00 기준)",
-      "url": "https://www.0404.go.kr/bbs/embsyNtc/1338510/detail?ntnCd=40"
     },
     "country_notice:LB:1338511": {
       "content_hash": "9f475e1a8bda23647f9a9df9bbee6000853a0495a104b923090927adcd4a5943",
@@ -1025,25 +683,6 @@
       "source": "country_notice",
       "title": "(안전 공지) 해상 및 해안가 미확인 부유물 발견 시 안전 주의 안내",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1327464/detail?ntnCd=162"
-    },
-    "country_notice:SA:1321072": {
-      "content_hash": "246dad0c0fe12bc3d596a4a566e4ce95108c3504ee265d7cf3e8890a07b30d52",
-      "country_code": "SA",
-      "country_name": "사우디아라비아",
-      "item_id": "1321072",
-      "last_alerted_hash": "246dad0c0fe12bc3d596a4a566e4ce95108c3504ee265d7cf3e8890a07b30d52",
-      "last_checked_at": "2026-03-09T05:48:40+00:00",
-      "level": "",
-      "matched_reason": [
-        "country:사우디아라비아",
-        "fallback:web"
-      ],
-      "published_at": "2026-03-08",
-      "region_type": "",
-      "remark": "사우디아라비아",
-      "source": "country_notice",
-      "title": "최근 중동 상황 관련 재외국민 안전공지(26.3.8.)",
-      "url": "https://www.0404.go.kr/bbs/embsyNtc/1321072/detail?ntnCd=107"
     },
     "country_notice:SA:1321073": {
       "content_hash": "0ebfb324d3031f80f872f2c7d61f982d0881309c4ee337b9552bc47e40ecc916",
@@ -11818,63 +11457,6 @@
       "title": "이란 travel_alarm",
       "url": ""
     },
-    "travel_alarm:JO:356a0dd8dce80ea5": {
-      "content_hash": "98f341b3347ae87c4bf3c185889a226f7982dbf2439d457a2e631247241e2052",
-      "country_code": "JO",
-      "country_name": "요르단",
-      "item_id": "356a0dd8dce80ea5",
-      "last_alerted_hash": "98f341b3347ae87c4bf3c185889a226f7982dbf2439d457a2e631247241e2052",
-      "last_checked_at": "2026-03-09T05:48:40+00:00",
-      "level": "3",
-      "matched_reason": [
-        "country:요르단",
-        "api:travel_alarm"
-      ],
-      "published_at": "",
-      "region_type": "일부",
-      "remark": "자르카주 일부",
-      "source": "travel_alarm",
-      "title": "요르단 travel_alarm",
-      "url": ""
-    },
-    "travel_alarm:JO:4f65176cfbb7f60c": {
-      "content_hash": "282c859651b9adc3414c8032621e77dcd6d8fded4013e27b85f73f72725862e6",
-      "country_code": "JO",
-      "country_name": "요르단",
-      "item_id": "4f65176cfbb7f60c",
-      "last_alerted_hash": "282c859651b9adc3414c8032621e77dcd6d8fded4013e27b85f73f72725862e6",
-      "last_checked_at": "2026-03-09T05:48:40+00:00",
-      "level": "2",
-      "matched_reason": [
-        "country:요르단",
-        "api:travel_alarm"
-      ],
-      "published_at": "",
-      "region_type": "일부",
-      "remark": "",
-      "source": "travel_alarm",
-      "title": "요르단 travel_alarm",
-      "url": ""
-    },
-    "travel_alarm:JO:665e1f0093c44c30": {
-      "content_hash": "69aa21c3f8da25cb64e9197a333d8ff69448363b6de1e9a1fafa31d429b839f5",
-      "country_code": "JO",
-      "country_name": "요르단",
-      "item_id": "665e1f0093c44c30",
-      "last_alerted_hash": "69aa21c3f8da25cb64e9197a333d8ff69448363b6de1e9a1fafa31d429b839f5",
-      "last_checked_at": "2026-03-09T05:48:40+00:00",
-      "level": "1",
-      "matched_reason": [
-        "country:요르단",
-        "api:travel_alarm"
-      ],
-      "published_at": "",
-      "region_type": "일부",
-      "remark": "",
-      "source": "travel_alarm",
-      "title": "요르단 travel_alarm",
-      "url": ""
-    },
     "travel_alarm:JO:ca3ac3b340f00990": {
       "content_hash": "b2aced74d59f3cc0269784f09489386a78bb228b3f7efb721e0cf415fbd5cdca",
       "country_code": "JO",
@@ -11928,25 +11510,6 @@
       "published_at": "",
       "region_type": "일부",
       "remark": "4단계 지정 지역을 제외한 지역",
-      "source": "travel_alarm",
-      "title": "레바논 travel_alarm",
-      "url": ""
-    },
-    "travel_alarm:LB:4c5686d8c9d4e16b": {
-      "content_hash": "040c20c4783bbc27b0c1282b4971b474f0ae85e5d8c291b28b13cd078ba33f4f",
-      "country_code": "LB",
-      "country_name": "레바논",
-      "item_id": "4c5686d8c9d4e16b",
-      "last_alerted_hash": "040c20c4783bbc27b0c1282b4971b474f0ae85e5d8c291b28b13cd078ba33f4f",
-      "last_checked_at": "2026-03-09T05:48:40+00:00",
-      "level": "4",
-      "matched_reason": [
-        "country:레바논",
-        "api:travel_alarm"
-      ],
-      "published_at": "",
-      "region_type": "일부",
-      "remark": "남부 이스라엘 접경지역(블루라인으로부터 5km), 남부주, 나바티예주",
       "source": "travel_alarm",
       "title": "레바논 travel_alarm",
       "url": ""
@@ -12027,25 +11590,6 @@
       "title": "카타르 travel_alarm",
       "url": ""
     },
-    "travel_alarm:SA:a87cbd52f1f0d369": {
-      "content_hash": "9103cf0dc60923164dc32f24fa71f99cb69312781f23b1acca627491d5283518",
-      "country_code": "SA",
-      "country_name": "사우디아라비아",
-      "item_id": "a87cbd52f1f0d369",
-      "last_alerted_hash": "9103cf0dc60923164dc32f24fa71f99cb69312781f23b1acca627491d5283518",
-      "last_checked_at": "2026-03-09T05:48:40+00:00",
-      "level": "3",
-      "matched_reason": [
-        "country:사우디아라비아",
-        "api:travel_alarm"
-      ],
-      "published_at": "",
-      "region_type": "일부",
-      "remark": "사우디-예멘 국경 인근 180km 지역(지잔 주, 아브하(Abha), 카미스 무샤이트(Khamis Mushait)시 포함),샤이바 유전,프린스술탄 공군기지,라스 타누라",
-      "source": "travel_alarm",
-      "title": "사우디아라비아 travel_alarm",
-      "url": ""
-    },
     "travel_alarm:SA:db74b95fc6e73c37": {
       "content_hash": "adb0bcdecf43111392418df644c659090340a9bd78aac5718dca6705ab4bea52",
       "country_code": "SA",
@@ -12066,6 +11610,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-23T05:46:54+00:00",
+  "last_run_at": "2026-03-23T06:58:48+00:00",
   "source_failures": {}
 }
