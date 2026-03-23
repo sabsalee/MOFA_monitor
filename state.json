@@ -285,25 +285,6 @@
       "title": "[이스라엘] 이란의 탄도미사일 공격 피해 관련 안전 공지",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1345754/detail?ntnCd=177"
     },
-    "country_notice:IQ:1343871": {
-      "content_hash": "7521596f01c95818a0a47caf8513c4f97b19b5d307638c0d0bde0a4a5cd86013",
-      "country_code": "IQ",
-      "country_name": "이라크",
-      "item_id": "1343871",
-      "last_alerted_hash": "7521596f01c95818a0a47caf8513c4f97b19b5d307638c0d0bde0a4a5cd86013",
-      "last_checked_at": "2026-03-09T17:41:23+00:00",
-      "level": "",
-      "matched_reason": [
-        "country:이라크",
-        "fallback:web"
-      ],
-      "published_at": "2026-03-09",
-      "region_type": "",
-      "remark": "이라크",
-      "source": "country_notice",
-      "title": "[긴급 안전공지 3.9.]",
-      "url": "https://www.0404.go.kr/bbs/embsyNtc/1343871/detail?ntnCd=174"
-    },
     "country_notice:IQ:1343872": {
       "content_hash": "67fec1f81d023138b3295d6396c128a9fa21d7b9e16bae80a8bb8dd29becbf15",
       "country_code": "IQ",
@@ -11629,6 +11610,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-23T16:46:02+00:00",
+  "last_run_at": "2026-03-23T17:42:08+00:00",
   "source_failures": {}
 }
