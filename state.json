@@ -228,6 +228,25 @@
       "title": "[이스라엘] 이란의 탄도미사일 공격 피해 관련 안전 공지",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1345754/detail?ntnCd=177"
     },
+    "country_notice:IL:1345755": {
+      "content_hash": "9c17fe3c2888fb04072f0276987dec3b5fc7965f9319ba27925b7a2dc90a6138",
+      "country_code": "IL",
+      "country_name": "이스라엘",
+      "item_id": "1345755",
+      "last_alerted_hash": "9c17fe3c2888fb04072f0276987dec3b5fc7965f9319ba27925b7a2dc90a6138",
+      "last_checked_at": "2026-03-24T11:12:17+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:이스라엘",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-23",
+      "region_type": "",
+      "remark": "이스라엘",
+      "source": "country_notice",
+      "title": "[이스라엘] 이스라엘 민방위 사령부(HFC) 안전조치 동향",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1345755/detail?ntnCd=177"
+    },
     "country_notice:IQ:1343872": {
       "content_hash": "67fec1f81d023138b3295d6396c128a9fa21d7b9e16bae80a8bb8dd29becbf15",
       "country_code": "IQ",
@@ -588,6 +607,25 @@
       "source": "country_notice",
       "title": "베이루트 하즈미에 지역 공습 관련 안전 공지",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1338526/detail?ntnCd=40"
+    },
+    "country_notice:LB:1338527": {
+      "content_hash": "84c58e773a8198dc75f4827c17959e73f1b2429203d73fa25e31c2a4eba90528",
+      "country_code": "LB",
+      "country_name": "레바논",
+      "item_id": "1338527",
+      "last_alerted_hash": "84c58e773a8198dc75f4827c17959e73f1b2429203d73fa25e31c2a4eba90528",
+      "last_checked_at": "2026-03-24T11:12:17+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:레바논",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-23",
+      "region_type": "",
+      "remark": "레바논",
+      "source": "country_notice",
+      "title": "중동항공(MEA) 예약 가능한 운항 항공 목록(3.23, 14:00 기준)",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1338527/detail?ntnCd=40"
     },
     "country_notice:OM:1327464": {
       "content_hash": "161bbf198b355f08a24bc0d2ddb2bff125dda51aba421feab0119bf557bd065c",
@@ -11534,6 +11572,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-24T10:12:44+00:00",
+  "last_run_at": "2026-03-24T11:12:17+00:00",
   "source_failures": {}
 }
