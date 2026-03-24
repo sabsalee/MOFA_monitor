@@ -171,25 +171,6 @@
       "title": "[안전공지] 주재국 내 에너지/IT/담수화/방산 시설 등 접근 자제 안내",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1345743/detail?ntnCd=178"
     },
-    "country_notice:IL:1345750": {
-      "content_hash": "db832406669ecb9eb801889b8c35b0cbeb08c6edb986c7007dd6023c1f6a18dd",
-      "country_code": "IL",
-      "country_name": "이스라엘",
-      "item_id": "1345750",
-      "last_alerted_hash": "db832406669ecb9eb801889b8c35b0cbeb08c6edb986c7007dd6023c1f6a18dd",
-      "last_checked_at": "2026-03-10T14:33:23+00:00",
-      "level": "",
-      "matched_reason": [
-        "country:이스라엘",
-        "fallback:web"
-      ],
-      "published_at": "2026-03-10",
-      "region_type": "",
-      "remark": "이스라엘",
-      "source": "country_notice",
-      "title": "이스라엘 출국 관련 안전공지(교통부, 특수상황에 대한 항공권(유료) 특별 배정 접수)",
-      "url": "https://www.0404.go.kr/bbs/embsyNtc/1345750/detail?ntnCd=177"
-    },
     "country_notice:IL:1345753": {
       "content_hash": "e01f0741e8f733a585ec8fb318eb1b46020fdc453f46ce1eab5c75fd9a5cfc9a",
       "country_code": "IL",
@@ -436,25 +417,6 @@
       "source": "country_notice",
       "title": "호르무즈 해협 봉쇄로 인한 미-이란 긴장 고조 관련 안전 공지(3.23.)",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1279967/detail?ntnCd=165"
-    },
-    "country_notice:LB:1338513": {
-      "content_hash": "965636b9f8cc56c4039882fb933d5d353bc4298e3cd6466866bb65be1e3d4f5c",
-      "country_code": "LB",
-      "country_name": "레바논",
-      "item_id": "1338513",
-      "last_alerted_hash": "965636b9f8cc56c4039882fb933d5d353bc4298e3cd6466866bb65be1e3d4f5c",
-      "last_checked_at": "2026-03-10T14:33:23+00:00",
-      "level": "",
-      "matched_reason": [
-        "country:레바논",
-        "fallback:web"
-      ],
-      "published_at": "2026-03-10",
-      "region_type": "",
-      "remark": "레바논",
-      "source": "country_notice",
-      "title": "중동항공(MEA) 예약 가능한 운항 항공 목록(3.10, 10:00 기준)",
-      "url": "https://www.0404.go.kr/bbs/embsyNtc/1338513/detail?ntnCd=40"
     },
     "country_notice:LB:1338514": {
       "content_hash": "5ca820120fb76daa9e5800d63a9fabbadabdda1f946871d989a8ac30e7e19448",
@@ -11572,6 +11534,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-24T13:48:03+00:00",
+  "last_run_at": "2026-03-24T14:52:06+00:00",
   "source_failures": {}
 }
