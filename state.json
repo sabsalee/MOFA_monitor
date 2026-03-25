@@ -11458,8 +11458,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-25T23:03:29+00:00",
-  "source_failures": {
-    "country_notice:EG:<urlopen error _ssl.c:1000": 1
-  }
+  "last_run_at": "2026-03-25T23:50:06+00:00",
+  "source_failures": {}
 }
