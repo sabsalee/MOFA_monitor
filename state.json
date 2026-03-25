@@ -190,6 +190,25 @@
       "title": "[이스라엘] 이스라엘 민방위 사령부(HFC) 안전조치 동향",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1345755/detail?ntnCd=177"
     },
+    "country_notice:IL:1345756": {
+      "content_hash": "40f57ba7bfe60b5e1d2161ede2a03796aa8b3ae6d121ef1c2fc6af2eb4efdf60",
+      "country_code": "IL",
+      "country_name": "이스라엘",
+      "item_id": "1345756",
+      "last_alerted_hash": "40f57ba7bfe60b5e1d2161ede2a03796aa8b3ae6d121ef1c2fc6af2eb4efdf60",
+      "last_checked_at": "2026-03-25T17:21:14+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:이스라엘",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-25",
+      "region_type": "",
+      "remark": "이스라엘",
+      "source": "country_notice",
+      "title": "[이스라엘] 이란의 미사일 공격 피해 및 국경 이용시 당부 사항 관련",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1345756/detail?ntnCd=177"
+    },
     "country_notice:IQ:1343872": {
       "content_hash": "67fec1f81d023138b3295d6396c128a9fa21d7b9e16bae80a8bb8dd29becbf15",
       "country_code": "IQ",
@@ -11458,6 +11477,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-25T16:13:36+00:00",
+  "last_run_at": "2026-03-25T17:21:14+00:00",
   "source_failures": {}
 }
