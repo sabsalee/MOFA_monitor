@@ -1,24 +1,5 @@
 {
   "items": {
-    "country_notice:AE:1342086": {
-      "content_hash": "9a753f368102f15fbe62bf06e72e73a5f71e2130b20eeb4f2d967899bd927f8d",
-      "country_code": "AE",
-      "country_name": "아랍에미리트",
-      "item_id": "1342086",
-      "last_alerted_hash": "9a753f368102f15fbe62bf06e72e73a5f71e2130b20eeb4f2d967899bd927f8d",
-      "last_checked_at": "2026-03-11T15:30:23+00:00",
-      "level": "",
-      "matched_reason": [
-        "country:아랍에미리트",
-        "fallback:web"
-      ],
-      "published_at": "2026-03-11",
-      "region_type": "",
-      "remark": "아랍에미리트",
-      "source": "country_notice",
-      "title": "(안전공지) 두바이 내 유대 커뮤니티, 이스라엘 관련 시설 접근 유의",
-      "url": "https://www.0404.go.kr/bbs/embsyNtc/1342086/detail?ntnCd=135"
-    },
     "country_notice:AE:1342087": {
       "content_hash": "2cd53037705985806f95c0c489d5497c75e7494490f5565eecf42b02f9aa6184",
       "country_code": "AE",
@@ -398,44 +379,6 @@
       "source": "country_notice",
       "title": "호르무즈 해협 봉쇄로 인한 미-이란 긴장 고조 관련 안전 공지(3.23.)",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1279967/detail?ntnCd=165"
-    },
-    "country_notice:LB:1338514": {
-      "content_hash": "5ca820120fb76daa9e5800d63a9fabbadabdda1f946871d989a8ac30e7e19448",
-      "country_code": "LB",
-      "country_name": "레바논",
-      "item_id": "1338514",
-      "last_alerted_hash": "5ca820120fb76daa9e5800d63a9fabbadabdda1f946871d989a8ac30e7e19448",
-      "last_checked_at": "2026-03-11T15:30:23+00:00",
-      "level": "",
-      "matched_reason": [
-        "country:레바논",
-        "fallback:web"
-      ],
-      "published_at": "2026-03-11",
-      "region_type": "",
-      "remark": "레바논",
-      "source": "country_notice",
-      "title": "교민들께 드리는 말씀",
-      "url": "https://www.0404.go.kr/bbs/embsyNtc/1338514/detail?ntnCd=40"
-    },
-    "country_notice:LB:1338515": {
-      "content_hash": "f0488b0677c7c94b9f547fb550f785ba83c568bc4a0232414a65db49aefb9966",
-      "country_code": "LB",
-      "country_name": "레바논",
-      "item_id": "1338515",
-      "last_alerted_hash": "f0488b0677c7c94b9f547fb550f785ba83c568bc4a0232414a65db49aefb9966",
-      "last_checked_at": "2026-03-11T15:30:23+00:00",
-      "level": "",
-      "matched_reason": [
-        "country:레바논",
-        "fallback:web"
-      ],
-      "published_at": "2026-03-11",
-      "region_type": "",
-      "remark": "레바논",
-      "source": "country_notice",
-      "title": "중동항공(MEA) 예약 가능한 운항 항공 목록(3.10, 10:00 기준)",
-      "url": "https://www.0404.go.kr/bbs/embsyNtc/1338515/detail?ntnCd=40"
     },
     "country_notice:LB:1338520": {
       "content_hash": "8ea1681d7b2604452cb7ae62184612ba0bab2caba5a56ebf8adb800228baf02f",
@@ -11515,6 +11458,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-25T14:56:00+00:00",
+  "last_run_at": "2026-03-25T16:13:36+00:00",
   "source_failures": {}
 }
