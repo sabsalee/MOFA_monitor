@@ -57,25 +57,6 @@
       "title": "이란의 주요 인프라 시설 공격 위협 관련 신변안전 및 사전 대비 안내",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1342089/detail?ntnCd=135"
     },
-    "country_notice:BH:46": {
-      "content_hash": "4f474b8afd9fba87473f4126287ce68b7abdb03d23e75b66755150dc1131b1b1",
-      "country_code": "BH",
-      "country_name": "바레인",
-      "item_id": "46",
-      "last_alerted_hash": "4f474b8afd9fba87473f4126287ce68b7abdb03d23e75b66755150dc1131b1b1",
-      "last_checked_at": "2026-03-12T06:38:01+00:00",
-      "level": "",
-      "matched_reason": [
-        "country:바레인",
-        "fallback:web"
-      ],
-      "published_at": "2026-03-12",
-      "region_type": "",
-      "remark": "바레인",
-      "source": "country_notice",
-      "title": "이란 공습 관련 안전 공지(3.12.)",
-      "url": "https://www.0404.go.kr/bbs/embsyNtc/46/detail?ntnCd=288"
-    },
     "country_notice:BH:47": {
       "content_hash": "98cad1326772736cbd3fae69bafc4310855753d5aa35499db404f5da7ee055c3",
       "country_code": "BH",
@@ -11477,6 +11458,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-26T05:52:14+00:00",
+  "last_run_at": "2026-03-26T07:00:20+00:00",
   "source_failures": {}
 }
