@@ -57,6 +57,25 @@
       "title": "이란의 주요 인프라 시설 공격 위협 관련 신변안전 및 사전 대비 안내",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1342089/detail?ntnCd=135"
     },
+    "country_notice:AE:1342090": {
+      "content_hash": "4f2d554d7bdc210ed9dbb0683a99bb4df5b6ac5d979b292b73ea6a41919c3e86",
+      "country_code": "AE",
+      "country_name": "아랍에미리트",
+      "item_id": "1342090",
+      "last_alerted_hash": "4f2d554d7bdc210ed9dbb0683a99bb4df5b6ac5d979b292b73ea6a41919c3e86",
+      "last_checked_at": "2026-03-26T15:23:17+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:아랍에미리트",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-26",
+      "region_type": "",
+      "remark": "아랍에미리트",
+      "source": "country_notice",
+      "title": "이란의 미사일‧드론 공격 관련 신변안전 유의 안내",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1342090/detail?ntnCd=135"
+    },
     "country_notice:BH:47": {
       "content_hash": "98cad1326772736cbd3fae69bafc4310855753d5aa35499db404f5da7ee055c3",
       "country_code": "BH",
@@ -11458,6 +11477,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-26T14:02:34+00:00",
+  "last_run_at": "2026-03-26T15:23:17+00:00",
   "source_failures": {}
 }
