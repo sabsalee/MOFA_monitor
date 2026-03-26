@@ -76,25 +76,6 @@
       "title": "이란의 미사일‧드론 공격 관련 신변안전 유의 안내",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1342090/detail?ntnCd=135"
     },
-    "country_notice:BH:47": {
-      "content_hash": "98cad1326772736cbd3fae69bafc4310855753d5aa35499db404f5da7ee055c3",
-      "country_code": "BH",
-      "country_name": "바레인",
-      "item_id": "47",
-      "last_alerted_hash": "98cad1326772736cbd3fae69bafc4310855753d5aa35499db404f5da7ee055c3",
-      "last_checked_at": "2026-03-12T21:26:41+00:00",
-      "level": "",
-      "matched_reason": [
-        "country:바레인",
-        "fallback:web"
-      ],
-      "published_at": "2026-03-13",
-      "region_type": "",
-      "remark": "바레인",
-      "source": "country_notice",
-      "title": "중동 지역 내 금융·경제 시설 이용 시 안전 유의 안내",
-      "url": "https://www.0404.go.kr/bbs/embsyNtc/47/detail?ntnCd=288"
-    },
     "country_notice:BH:49": {
       "content_hash": "6a9183688aa7da84e14ace6ef959bec1468cb1ae07531157bc529e454286d238",
       "country_code": "BH",
@@ -11458,6 +11439,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-26T21:06:00+00:00",
+  "last_run_at": "2026-03-26T21:46:45+00:00",
   "source_failures": {}
 }
