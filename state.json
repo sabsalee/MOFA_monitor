@@ -342,6 +342,25 @@
       "title": "이란 내 주요시설 폭격 관련 안전공지(3.12)",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1325814/detail?ntnCd=176"
     },
+    "country_notice:IR:1325816": {
+      "content_hash": "844ee4ce4f9b674da321e27f350cb9280b74c4e5d97ba6906c2551b9f2fe0108",
+      "country_code": "IR",
+      "country_name": "이란",
+      "item_id": "1325816",
+      "last_alerted_hash": "844ee4ce4f9b674da321e27f350cb9280b74c4e5d97ba6906c2551b9f2fe0108",
+      "last_checked_at": "2026-03-26T04:09:57+00:00",
+      "level": "",
+      "matched_reason": [
+        "country:이란",
+        "fallback:web"
+      ],
+      "published_at": "2026-03-26",
+      "region_type": "",
+      "remark": "이란",
+      "source": "country_notice",
+      "title": "단전 단수 통신두절 대비 행동요령(3.25)",
+      "url": "https://www.0404.go.kr/bbs/embsyNtc/1325816/detail?ntnCd=176"
+    },
     "country_notice:JO:1279966": {
       "content_hash": "7556536d2435e47022788a3863564c544b63154cf675fbdb497d24986042ddaf",
       "country_code": "JO",
@@ -11458,6 +11477,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-26T01:16:52+00:00",
+  "last_run_at": "2026-03-26T04:09:57+00:00",
   "source_failures": {}
 }
