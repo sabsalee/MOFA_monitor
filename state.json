@@ -304,25 +304,6 @@
       "title": "[안전공지 3.22]",
       "url": "https://www.0404.go.kr/bbs/embsyNtc/1343880/detail?ntnCd=174"
     },
-    "country_notice:IR:1325814": {
-      "content_hash": "aa8c69a98ae8559ebc09fc8ab47df62bde095be75ffbe38b419b65bd4aac2d70",
-      "country_code": "IR",
-      "country_name": "이란",
-      "item_id": "1325814",
-      "last_alerted_hash": "aa8c69a98ae8559ebc09fc8ab47df62bde095be75ffbe38b419b65bd4aac2d70",
-      "last_checked_at": "2026-03-13T02:50:56+00:00",
-      "level": "",
-      "matched_reason": [
-        "country:이란",
-        "fallback:web"
-      ],
-      "published_at": "2026-03-13",
-      "region_type": "",
-      "remark": "이란",
-      "source": "country_notice",
-      "title": "이란 내 주요시설 폭격 관련 안전공지(3.12)",
-      "url": "https://www.0404.go.kr/bbs/embsyNtc/1325814/detail?ntnCd=176"
-    },
     "country_notice:IR:1325816": {
       "content_hash": "844ee4ce4f9b674da321e27f350cb9280b74c4e5d97ba6906c2551b9f2fe0108",
       "country_code": "IR",
@@ -11439,6 +11420,6 @@
       "url": ""
     }
   },
-  "last_run_at": "2026-03-27T00:03:04+00:00",
+  "last_run_at": "2026-03-27T03:29:03+00:00",
   "source_failures": {}
 }
